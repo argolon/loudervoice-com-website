@@ -1,32 +1,30 @@
-machine:
-  timezone: Europe/Dublin
-  environment:
-    CIRCLE_BUILD_DIR: $HOME/$CIRCLE_PROJECT_REPONAME
-    PATH: $PATH:$CIRCLE_BUILD_DIR/bin
-  post:
-    - mkdir -p $CIRCLE_BUILD_DIR/bin
-
-dependencies:
-pre:
-    - bash ./ci-install-hugo.sh
-  cache_directories:
-    - bin
-  post:
-    - hugo -v
-    - sudo pip install python-dateutil
-    - sudo pip install --no-deps s3cmd
-    - echo "access_key = $AWS_ACCESS_KEY_ID" >> ~/.s3cfg
-    - echo "secret_key = $AWS_SECRET_ACCESS_KEY" >> ~/.s3cfg
-    - aws configure set preview.cloudfront true
-
-test:
-  override:
-    - "true"
-    
-deployment:
-  production:
-    branch: master
-    commands:
-      - s3cmd sync --config=.s3cfg --no-mime-magic --delete-removed -P -M -r public/ s3://loudervoice-website/
-      - aws cloudfront create-invalidation --distribution-id $PROD_CF_DIST --paths "/*"
-
+version: 2
+jobs:
+  build:
+    docker:
+      - image: felicianotech/docker-hugo:0.21
+    working_directory: ~/project
+    steps:
+      - checkout
+      - run:
+          name: "Run Hugo"
+          command: hugo -v -s ~/project/src/
+      - run:
+          name: "Install stuff 1"
+          command: sudo pip install python-dateutil
+      - run:
+          name: "Install stuff 2"
+          command: sudo pip install --no-deps s3cmd
+      - run:
+          name: "Install stuff 3"
+          command: echo "access_key = $AWS_ACCESS_KEY_ID" >> ~/.s3cfg
+      - run:
+          name: "Install stuff 4"
+          command: echo "secret_key = $AWS_SECRET_ACCESS_KEY" >> ~/.s3cfg
+      - run:
+          name: "Install stuff 5"
+          command: aws configure set preview.cloudfront true
+      - deploy:
+          command: |
+            s3cmd sync --config=.s3cfg --no-mime-magic --delete-removed -P -M -r public/ s3://loudervoice-website/
+            aws cloudfront create-invalidation --distribution-id $PROD_CF_DIST --paths "/*"
