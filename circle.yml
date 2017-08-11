@@ -8,7 +8,7 @@ jobs:
       - checkout
       - run:
           name: "Run Hugo"
-          command: hugo -v -s ~/project/src/
+          command: hugo -v -s ~/project/
       - run:
           name: "Install stuff 1"
           command: sudo pip install python-dateutil
