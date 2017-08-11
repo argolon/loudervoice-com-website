@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Api on LouderVoice Customer Reviews</title>
+    <link>https://www.loudervoice.com/tags/api/</link>
+    <description>Recent content in Api on LouderVoice Customer Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2006 - 2017, Argolon Solutions Ltd; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 27 Aug 2010 09:01:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.loudervoice.com/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LouderVoice Reviews on Facebook Pages</title>
+      <link>https://www.loudervoice.com/2010/08/27/loudervoice-reviews-on-facebook-pages/</link>
+      <pubDate>Fri, 27 Aug 2010 09:01:11 +0000</pubDate>
+      
+      <guid>https://www.loudervoice.com/2010/08/27/loudervoice-reviews-on-facebook-pages/</guid>
+      <description>We have just added a new Facebook capability for all of our customers. They can now show all their latest reviews in a dedicated &amp;#8220;Our Reviews&amp;#8221; tab on their Facebook Page. Whilst our Facebook Connect implementation has always given reviewers the ability to post their reviews to their personal wall, this new feature enables our clients to showcase their reviews from all their products and services in one place.
+Now a simple review written on a client&amp;#8217;s site or submitted by SMS can appear on their Facebook Page within minutes, building confidence and guiding others who want to know more about that business.</description>
+    </item>
+    
+    <item>
+      <title>LouderVoice Wins a Golden Spider</title>
+      <link>https://www.loudervoice.com/2009/11/22/loudervoice-wins-a-golden-spider/</link>
+      <pubDate>Sun, 22 Nov 2009 19:38:43 +0000</pubDate>
+      
+      <guid>https://www.loudervoice.com/2009/11/22/loudervoice-wins-a-golden-spider/</guid>
+      <description>We were terribly disappointed last Thursday that massive flooding in West Cork prevented us from attending the 2009 Golden Spiders Awards. The awards are the most high profile in Ireland and a win can have serious business benefits locally.
+So imagine our shock to hear that we won the e-business category! We were up against some incredibly impressive competition. Getting this recognition from our industry peers on the judging panel really is satisfying.</description>
+    </item>
+    
+    <item>
+      <title>New version of LouderVoice WordPress Plug-in</title>
+      <link>https://www.loudervoice.com/2008/06/04/new-version-of-loudervoice-wordpress-plug-in/</link>
+      <pubDate>Wed, 04 Jun 2008 07:42:17 +0000</pubDate>
+      
+      <guid>https://www.loudervoice.com/2008/06/04/new-version-of-loudervoice-wordpress-plug-in/</guid>
+      <description>Many thanks to Loud Reviewer Frank Prendergast for spotting a bug in our WordPress plug-in. This bug prevented users from setting review posts to publish in the future. The bug has now been fixed and the updated plug-in is available here.
+You&amp;#8217;ve probably noticed how quiet we&amp;#8217;ve been on the blog. Not only have we been fixing a lot of small bugs on the site that crept in with the Version2 launch but we&amp;#8217;re been working hard on building our API.</description>
+    </item>
+    
+  </channel>
+</rss>

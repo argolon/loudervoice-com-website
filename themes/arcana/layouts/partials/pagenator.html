@@ -1,0 +1,14 @@
+<!--次のページへ的なやつ-->
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+<div>
+  <nav role="pagination">
+    {{ if .Paginator.HasPrev }}
+    <a href="{{ .Paginator.Prev.URL }}">Before</a>
+    {{ end }}
+    <span class="">Page {{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}</span>
+    {{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL }}">Next</a>
+    {{ end }}
+  </nav>
+</div>
+{{ end }}

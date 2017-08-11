@@ -1,0 +1,26 @@
+{{ partial "head.html" .}}
+{{partial "header.html" .}}
+
+<section class="wrapper style1">
+  <div class="container">
+    <div id="content">
+      <article class="article">
+	<header>
+	  <span class="entry-meta">
+	    <time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">
+	      {{ .Date.Format "2006 January 02" }}
+	    </time>
+	  </span>
+	  <h1>{{.Title}}</h1>	  
+	</header>
+	
+	<section itemprop="entry-text">
+	  {{ .Content }}
+	</section>
+	
+      </article>
+    </div>
+  </div>
+</section>
+
+{{ partial "footer.html" .}}

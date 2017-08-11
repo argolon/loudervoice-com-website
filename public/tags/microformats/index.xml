@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microformats on LouderVoice Customer Reviews</title>
+    <link>https://www.loudervoice.com/tags/microformats/</link>
+    <description>Recent content in Microformats on LouderVoice Customer Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2006 - 2017, Argolon Solutions Ltd; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 01 Feb 2009 15:15:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.loudervoice.com/tags/microformats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Updated LouderVoice WordPress Plugin</title>
+      <link>https://www.loudervoice.com/2009/02/01/updated-loudervoice-wordpress-plugin/</link>
+      <pubDate>Sun, 01 Feb 2009 15:15:46 +0000</pubDate>
+      
+      <guid>https://www.loudervoice.com/2009/02/01/updated-loudervoice-wordpress-plugin/</guid>
+      <description>We have two bits of news about our LouderVoice plug-in. The first is that it is now WordPress 2.7 compatible and the second is that we have moved the hosting over to WordPress.org. This means that from now on, when we update it, you&amp;#8217;ll see a notification in your WordPress Admin Panel.
+Apart from the 2.7 compatibility change, the only other major feature is that you can opt to have all the contextual information about the review, including the stars, at the end of the text.</description>
+    </item>
+    
+    <item>
+      <title>LouderVoice WordPress Plug-in Version 2</title>
+      <link>https://www.loudervoice.com/2008/03/30/loudervoice-wordpress-plug-in-version-2/</link>
+      <pubDate>Sun, 30 Mar 2008 13:26:36 +0000</pubDate>
+      
+      <guid>https://www.loudervoice.com/2008/03/30/loudervoice-wordpress-plug-in-version-2/</guid>
+      <description>We&amp;#8217;ve been promising it forever and now we&amp;#8217;re finally ready to unveil the all-new LouderVoice WordPress plug-in V2.0. This enables you to write reviews on your blog using an open standard called hReview. Sites like LouderVoice can then index and interpret them more intelligently than raw blog-posts.
+The new plug-in is a total re-write based on lots of user feedback and, in particular, some fantastic suggestions and guidance from Robin Blandford.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L10n on LouderVoice Customer Reviews</title>
+    <link>https://www.loudervoice.com/tags/l10n/</link>
+    <description>Recent content in L10n on LouderVoice Customer Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2006 - 2017, Argolon Solutions Ltd; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 07 Aug 2011 14:44:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.loudervoice.com/tags/l10n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LouderVoice Now Available in Spanish and Russian</title>
+      <link>https://www.loudervoice.com/2011/08/07/loudervoice-now-available-in-spanish-and-russian/</link>
+      <pubDate>Sun, 07 Aug 2011 14:44:53 +0000</pubDate>
+      
+      <guid>https://www.loudervoice.com/2011/08/07/loudervoice-now-available-in-spanish-and-russian/</guid>
+      <description>Our development team have been hard at work this summer building a ton of new features for LouderVoice. The first fruits of their labour is the full front-end and back-end localisation of the service. We&amp;#8217;ve always been internationalised but now our clients and their customers can use every part of LouderVoice in their own native language.
+
+The first two languages that are available right now are Spanish and Russian with French coming soon.</description>
+    </item>
+    
+  </channel>
+</rss>

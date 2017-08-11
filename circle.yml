@@ -1,0 +1,32 @@
+machine:
+  timezone: Europe/Dublin
+  environment:
+    CIRCLE_BUILD_DIR: $HOME/$CIRCLE_PROJECT_REPONAME
+    PATH: $PATH:$CIRCLE_BUILD_DIR/bin
+  post:
+    - mkdir -p $CIRCLE_BUILD_DIR/bin
+
+dependencies:
+pre:
+    - bash ./ci-install-hugo.sh
+  cache_directories:
+    - bin
+  post:
+    - hugo -v
+    - sudo pip install python-dateutil
+    - sudo pip install --no-deps s3cmd
+    - echo "access_key = $AWS_ACCESS_KEY_ID" >> ~/.s3cfg
+    - echo "secret_key = $AWS_SECRET_ACCESS_KEY" >> ~/.s3cfg
+    - aws configure set preview.cloudfront true
+
+test:
+  override:
+    - "true"
+    
+deployment:
+  production:
+    branch: master
+    commands:
+      - s3cmd sync --config=.s3cfg --no-mime-magic --delete-removed -P -M -r public/ s3://loudervoice-website/
+      - aws cloudfront create-invalidation --distribution-id $PROD_CF_DIST --paths "/*"
+

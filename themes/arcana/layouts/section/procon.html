@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+{{ partial "contest-header.html" . }}
+	  
+<h1 >競技プログラミングの記録</h1>
+　
+<!-- 記事一覧 -->
+<ul class="list">
+  {{ range (.Paginator 10).Pages }}
+  {{ .Render "li" }}
+  {{ end }}
+</ul>
+
+{{ partial "pagenator.html" . }}
+
+{{ partial "contest-footer.html" . }}
+{{ partial "footer.html" .}}

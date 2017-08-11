@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+{{ partial "blog-header.html" . }}
+	  
+<h1 >日々の備忘録</h1>
+
+<!-- 記事一覧 -->
+<ul class="list" >
+  {{ range (.Paginator 10).Pages }}
+  {{ .Render "li" }}
+  {{ end }}
+</ul>
+
+{{ partial "pagenator.html" . }}
+
+{{ partial "blog-footer.html" .}}
+{{ partial "footer.html" .}}

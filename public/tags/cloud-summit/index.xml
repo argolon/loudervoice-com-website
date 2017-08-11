@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Summit on LouderVoice Customer Reviews</title>
+    <link>https://www.loudervoice.com/tags/cloud-summit/</link>
+    <description>Recent content in Cloud Summit on LouderVoice Customer Reviews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2006 - 2017, Argolon Solutions Ltd; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 15 Sep 2009 10:44:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.loudervoice.com/tags/cloud-summit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud Computing Summit Reviews</title>
+      <link>https://www.loudervoice.com/2009/09/15/cloud-computing-summit-reviews/</link>
+      <pubDate>Tue, 15 Sep 2009 10:44:44 +0000</pubDate>
+      
+      <guid>https://www.loudervoice.com/2009/09/15/cloud-computing-summit-reviews/</guid>
+      <description>If you have any interest in Cloud Computing then you should be attending next week&amp;#8217;s Cloud Computing Summit in Croke Park in Dublin.
+The line-up of speakers is fantastic and the topics very relevant to businesses of any size. LouderVoice CEO, Conor, will be on a user panel speaking about our experiences of moving all the LouderVoice services to Amazon AWS. That includes S3, EC2, EBS, EIP, Cloudfront and only excludes ELB since it hasn&amp;#8217;t launched in Europe yet.</description>
+    </item>
+    
+  </channel>
+</rss>

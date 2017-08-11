@@ -1,0 +1,36 @@
+<!--menu bar-->
+<nav id="nav">
+  <ul>
+    {{ $currentNode := . }}
+    
+    {{ range .Site.Menus.main }}
+    <li {{if $currentNode.HasMenuCurrent "main" . }}class="current"{{end}} >
+      <a href="{{.URL}}">{{ .Name }}</a>
+      {{ if .HasChildren }}
+      <ul>
+	{{ range .Children }}
+	<li {{if $currentNode.HasMenuCurrent "main" . }}class="current"{{end}}>
+	  <a href="{{.URL}}">{{ .Name }}</a>
+	</li>
+	{{end}}
+      </ul>
+      {{end}}  
+    </li>
+    {{end}}
+
+    
+    {{with .Site.Params.twitter }}
+    <li><a href="http://twitter.com/{{.}}" class="icon fa-twitter">
+	<span class="label">Twitter</span></a>
+    </li>
+    {{end}}
+
+    
+    {{with .Site.Params.github}}
+    <li><a href="http://github.com/{{.}}" class="icon fa-github">
+	<span class="label">GitHub</span></a>
+    </li>
+    {{end}}
+    
+  </ul>
+</nav>
