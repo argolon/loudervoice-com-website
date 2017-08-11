@@ -10,25 +10,25 @@ jobs:
           name: "Run Hugo"
           command: hugo -v -s ~/project/
       - run:
-          name: "Install stuff 1a"
+          name: "Install pip"
           command: apk add --update python python-dev py-pip
       - run:
-          name: "Install stuff 1b"
+          name: "Install python-dateutil"
           command: pip install python-dateutil
       - run:
-          name: "Install stuff 2"
+          name: "Install s3cmd"
           command: pip install --no-deps s3cmd
       - run:
-          name: "Install stuff 3"
+          name: "Setup AWS access key"
           command: echo "access_key = $AWS_ACCESS_KEY_ID" >> ~/.s3cfg
       - run:
-          name: "Install stuff 4"
+          name: "Setup AWS secret key"
           command: echo "secret_key = $AWS_SECRET_ACCESS_KEY" >> ~/.s3cfg
       - run:
-          name: "Install stuff 5"
+          name: "Install awscli"
           command: pip install awscli
       - run:
-          name: "Install stuff 6"
+          name: "Set a Cloudfront property"
           command: aws configure set preview.cloudfront true
       - deploy:
           command: |
