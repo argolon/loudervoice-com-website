@@ -11,13 +11,13 @@ jobs:
           command: hugo -v -s ~/project/
       - run:
           name: "Install stuff 1a"
-          command: sudo apt-get install python-pip python-dev
+          command: apk add --update python python-dev py-pip
       - run:
           name: "Install stuff 1b"
-          command: sudo pip install python-dateutil
+          command: pip install python-dateutil
       - run:
           name: "Install stuff 2"
-          command: sudo pip install --no-deps s3cmd
+          command: pip install --no-deps s3cmd
       - run:
           name: "Install stuff 3"
           command: echo "access_key = $AWS_ACCESS_KEY_ID" >> ~/.s3cfg
