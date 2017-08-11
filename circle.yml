@@ -26,6 +26,9 @@ jobs:
           command: echo "secret_key = $AWS_SECRET_ACCESS_KEY" >> ~/.s3cfg
       - run:
           name: "Install stuff 5"
+          command: pip install awscli
+      - run:
+          name: "Install stuff 6"
           command: aws configure set preview.cloudfront true
       - deploy:
           command: |
