@@ -1,9 +1,8 @@
 ---
 title: LouderVoice shortlisted in IIA Net Visionary Awards
 author: "Conor O'Neill"
-type: post
 date: 2010-04-12T11:06:56+00:00
-url: /2010/04/12/loudervoice-shortlisted-in-iia-net-visionary-awards/
+url: /blog/2010/04/12/loudervoice-shortlisted-in-iia-net-visionary-awards/
 categories:
   - Blog
 tags:

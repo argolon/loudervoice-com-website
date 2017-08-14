@@ -1,9 +1,8 @@
 ---
 title: 'Great idea over at TechCrunch UK & Ireland (TUKI?)'
 author: "Conor O'Neill"
-type: post
 date: 2006-11-10T11:05:53+00:00
-url: /2006/11/10/great-idea-over-at-techcrunch-uk-ireland-tuki/
+url: /blog/2006/11/10/great-idea-over-at-techcrunch-uk-ireland-tuki/
 categories:
   - Blog
 

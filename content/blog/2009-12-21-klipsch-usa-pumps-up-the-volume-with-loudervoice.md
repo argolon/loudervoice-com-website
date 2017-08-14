@@ -1,9 +1,8 @@
 ---
 title: Klipsch USA Pumps Up The Volume with LouderVoice
 author: "Conor O'Neill"
-type: post
 date: 2009-12-21T11:07:14+00:00
-url: /2009/12/21/klipsch-usa-pumps-up-the-volume-with-loudervoice/
+url: /blog/2009/12/21/klipsch-usa-pumps-up-the-volume-with-loudervoice/
 categories:
   - Blog
 tags:

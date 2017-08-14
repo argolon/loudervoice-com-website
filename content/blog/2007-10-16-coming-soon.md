@@ -1,9 +1,8 @@
 ---
 title: Coming Soon!
 author: "Conor O'Neill"
-type: post
 date: 2007-10-16T10:14:59+00:00
-url: /2007/10/16/coming-soon/
+url: /blog/2007/10/16/coming-soon/
 categories:
   - Blog
 

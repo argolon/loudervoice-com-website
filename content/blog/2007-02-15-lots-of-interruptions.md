@@ -1,9 +1,8 @@
 ---
 title: Lots of interruptions
 author: "Conor O'Neill"
-type: post
 date: 2007-02-15T10:42:11+00:00
-url: /2007/02/15/lots-of-interruptions/
+url: /blog/2007/02/15/lots-of-interruptions/
 categories:
   - Blog
 

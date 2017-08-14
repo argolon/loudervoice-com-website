@@ -1,9 +1,8 @@
 ---
 title: Simple addition to the landing page
 author: "Conor O'Neill"
-type: post
 date: 2006-11-08T20:03:37+00:00
-url: /2006/11/08/simple-addition-to-the-landing-page/
+url: /blog/2006/11/08/simple-addition-to-the-landing-page/
 categories:
   - Blog
 

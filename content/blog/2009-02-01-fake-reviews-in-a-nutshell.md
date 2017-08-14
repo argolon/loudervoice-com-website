@@ -1,9 +1,8 @@
 ---
 title: Fake Reviews in a Nutshell
 author: "Conor O'Neill"
-type: post
 date: 2009-02-01T08:51:44+00:00
-url: /2009/02/01/fake-reviews-in-a-nutshell/
+url: /blog/2009/02/01/fake-reviews-in-a-nutshell/
 categories:
   - Blog
 tags:

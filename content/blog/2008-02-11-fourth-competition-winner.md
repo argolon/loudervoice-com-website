@@ -1,9 +1,8 @@
 ---
 title: Fourth Competition Winner
 author: "Conor O'Neill"
-type: post
 date: 2008-02-11T15:57:38+00:00
-url: /2008/02/11/fourth-competition-winner/
+url: /blog/2008/02/11/fourth-competition-winner/
 categories:
   - Blog
 tags:

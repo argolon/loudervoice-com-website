@@ -1,9 +1,8 @@
 ---
 title: We now support Pownce too
 author: "Conor O'Neill"
-type: post
 date: 2007-12-21T01:24:53+00:00
-url: /2007/12/21/we-now-support-pownce-too/
+url: /blog/2007/12/21/we-now-support-pownce-too/
 categories:
   - Blog
 

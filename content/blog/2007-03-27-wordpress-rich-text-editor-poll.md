@@ -1,9 +1,8 @@
 ---
 title: WordPress Rich Text Editor Poll
 author: "Conor O'Neill"
-type: post
 date: 2007-03-27T10:04:49+00:00
-url: /2007/03/27/wordpress-rich-text-editor-poll/
+url: /blog/2007/03/27/wordpress-rich-text-editor-poll/
 categories:
   - Blog
 

@@ -1,9 +1,8 @@
 ---
 title: LouderVoice and WSI team-up to Power Social Media and Social Reviews for UK SMEs
 author: "Conor O'Neill"
-type: post
 date: 2012-06-25T15:28:13+00:00
-url: /2012/06/25/loudervoice-and-wsi-team-up-to-power-social-media-and-social-reviews-for-uk-smes/
+url: /blog/2012/06/25/loudervoice-and-wsi-team-up-to-power-social-media-and-social-reviews-for-uk-smes/
 ldv_limit:
   - 5
 ldv_write:

@@ -1,9 +1,8 @@
 ---
 title: Some lighthearted fun
 author: "Conor O'Neill"
-type: post
 date: 2007-02-05T00:09:45+00:00
-url: /2007/02/05/some-lighthearted-fun/
+url: /blog/2007/02/05/some-lighthearted-fun/
 categories:
   - Blog
 

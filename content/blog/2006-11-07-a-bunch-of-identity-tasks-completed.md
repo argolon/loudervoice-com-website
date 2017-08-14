@@ -1,9 +1,8 @@
 ---
 title: A bunch of identity tasks completed
 author: "Conor O'Neill"
-type: post
 date: 2006-11-07T19:16:34+00:00
-url: /2006/11/07/a-bunch-of-identity-tasks-completed/
+url: /blog/2006/11/07/a-bunch-of-identity-tasks-completed/
 categories:
   - Blog
 

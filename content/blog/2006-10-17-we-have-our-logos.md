@@ -1,9 +1,8 @@
 ---
 title: We have our logos
 author: "Conor O'Neill"
-type: post
 date: 2006-10-17T13:40:37+00:00
-url: /2006/10/17/we-have-our-logos/
+url: /blog/blog/2006/10/17/we-have-our-logos/
 categories:
   - Blog
 

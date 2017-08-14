@@ -1,9 +1,8 @@
 ---
 title: What is LouderVoice V2 all about?
 author: "Conor O'Neill"
-type: post
 date: 2008-03-30T08:57:38+00:00
-url: /2008/03/30/what-is-loudervoice-v2-all-about/
+url: /blog/2008/03/30/what-is-loudervoice-v2-all-about/
 categories:
   - Blog
 tags:

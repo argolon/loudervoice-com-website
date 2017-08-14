@@ -1,9 +1,8 @@
 ---
 title: Consumer reviews and personal recommendations are as important as trusted brand reviews for Internet consumers
 author: "Conor O'Neill"
-type: post
 date: 2009-07-12T08:38:15+00:00
-url: /2009/07/12/consumer-reviews-and-personal-recommendations-are-as-important-as-trusted-brand-reviews-for-internet-consumers/
+url: /blog/2009/07/12/consumer-reviews-and-personal-recommendations-are-as-important-as-trusted-brand-reviews-for-internet-consumers/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Version 2 is very very close
 author: "Conor O'Neill"
-type: post
 date: 2008-02-26T09:40:04+00:00
-url: /2008/02/26/loudervoice-version-2-is-very-very-close/
+url: /blog/2008/02/26/loudervoice-version-2-is-very-very-close/
 categories:
   - Blog
 tags:

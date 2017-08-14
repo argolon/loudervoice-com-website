@@ -1,9 +1,8 @@
 ---
 title: First pre-alpha release delivered
 author: "Conor O'Neill"
-type: post
 date: 2006-10-30T11:23:31+00:00
-url: /2006/10/30/first-pre-alpha-release-delivered/
+url: /blog/blog/2006/10/30/first-pre-alpha-release-delivered/
 categories:
   - Blog
 

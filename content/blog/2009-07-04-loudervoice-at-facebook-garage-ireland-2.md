@@ -1,9 +1,8 @@
 ---
 title: LouderVoice at Facebook Garage Ireland 2
 author: "Conor O'Neill"
-type: post
 date: 2009-07-04T08:57:19+00:00
-url: /2009/07/04/loudervoice-at-facebook-garage-ireland-2/
+url: /blog/2009/07/04/loudervoice-at-facebook-garage-ireland-2/
 categories:
   - Blog
 tags:

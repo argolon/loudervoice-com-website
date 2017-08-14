@@ -1,9 +1,8 @@
 ---
 title: LouderVoice long-listed in the Irish Web Awards
 author: "Conor O'Neill"
-type: post
 date: 2008-09-15T19:20:19+00:00
-url: /2008/09/15/loudervoice-long-listed-in-the-irish-web-awards/
+url: /blog/2008/09/15/loudervoice-long-listed-in-the-irish-web-awards/
 categories:
   - Blog
 tags:

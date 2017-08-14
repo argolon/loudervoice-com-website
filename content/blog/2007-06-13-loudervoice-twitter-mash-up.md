@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Twitter Mash-Up
 author: "Conor O'Neill"
-type: post
 date: 2007-06-13T12:53:59+00:00
-url: /2007/06/13/loudervoice-twitter-mash-up/
+url: /blog/2007/06/13/loudervoice-twitter-mash-up/
 categories:
   - Blog
 

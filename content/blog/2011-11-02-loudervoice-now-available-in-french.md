@@ -1,9 +1,8 @@
 ---
 title: LouderVoice now available in French
 author: "Catherine O'Neill"
-type: post
 date: 2011-11-02T10:54:52+00:00
-url: /2011/11/02/loudervoice-now-available-in-french/
+url: /blog/2011/11/02/loudervoice-now-available-in-french/
 categories:
   - Blog
 tags:

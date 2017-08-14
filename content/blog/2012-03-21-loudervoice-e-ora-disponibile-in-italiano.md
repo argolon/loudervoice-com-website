@@ -1,9 +1,8 @@
 ---
 title: LouderVoice è ora disponibile in italiano
 author: "Conor O'Neill"
-type: post
 date: 2012-03-21T12:59:16+00:00
-url: /2012/03/21/loudervoice-e-ora-disponibile-in-italiano/
+url: /blog/2012/03/21/loudervoice-e-ora-disponibile-in-italiano/
 ldv_limit:
   - 5
 ldv_write:

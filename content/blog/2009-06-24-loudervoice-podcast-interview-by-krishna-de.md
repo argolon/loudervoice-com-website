@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Podcast interview by Krishna De
 author: "Conor O'Neill"
-type: post
 date: 2009-06-24T18:49:29+00:00
-url: /2009/06/24/loudervoice-podcast-interview-by-krishna-de/
+url: /blog/2009/06/24/loudervoice-podcast-interview-by-krishna-de/
 categories:
   - Blog
 tags:

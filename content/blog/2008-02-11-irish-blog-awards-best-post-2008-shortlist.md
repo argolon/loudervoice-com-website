@@ -1,9 +1,8 @@
 ---
 title: Irish Blog Awards, Best Post 2008 Shortlist
 author: "Conor O'Neill"
-type: post
 date: 2008-02-11T16:41:45+00:00
-url: /2008/02/11/irish-blog-awards-best-post-2008-shortlist/
+url: /blog/2008/02/11/irish-blog-awards-best-post-2008-shortlist/
 categories:
   - Blog
 tags:

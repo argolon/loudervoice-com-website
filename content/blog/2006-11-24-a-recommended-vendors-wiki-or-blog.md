@@ -1,9 +1,8 @@
 ---
 title: A recommended vendors wiki or blog?
 author: "Conor O'Neill"
-type: post
 date: 2006-11-24T10:31:13+00:00
-url: /2006/11/24/a-recommended-vendors-wiki-or-blog/
+url: /blog/2006/11/24/a-recommended-vendors-wiki-or-blog/
 categories:
   - Blog
 

@@ -1,9 +1,8 @@
 ---
 title: LouderVoice now in Riverdance iPhone and Android App
 author: "Conor O'Neill"
-type: post
 date: 2011-08-28T16:59:30+00:00
-url: /2011/08/28/loudervoice-now-in-riverdance-iphone-and-android-app/
+url: /blog/2011/08/28/loudervoice-now-in-riverdance-iphone-and-android-app/
 categories:
   - Blog
 

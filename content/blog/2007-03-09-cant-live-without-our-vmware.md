@@ -1,9 +1,8 @@
 ---
 title: 'Can&#039;t live without our VMWare'
 author: "Conor O'Neill"
-type: post
 date: 2007-03-09T12:03:42+00:00
-url: /2007/03/09/cant-live-without-our-vmware/
+url: /blog/2007/03/09/cant-live-without-our-vmware/
 categories:
   - Blog
 

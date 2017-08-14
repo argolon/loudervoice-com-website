@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Reviews SEO Add-On for ASP.NET just released
 author: "Conor O'Neill"
-type: post
 date: 2012-05-10T18:01:27+00:00
-url: /2012/05/10/loudervoice-reviews-seo-add-on-for-asp-net-just-released/
+url: /blog/2012/05/10/loudervoice-reviews-seo-add-on-for-asp-net-just-released/
 ldv_limit:
   - 5
 ldv_write:

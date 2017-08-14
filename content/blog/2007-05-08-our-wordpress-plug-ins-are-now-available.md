@@ -1,9 +1,8 @@
 ---
 title: Our WordPress plug-ins are now available
 author: "Conor O'Neill"
-type: post
 date: 2007-05-08T21:16:08+00:00
-url: /2007/05/08/our-wordpress-plug-ins-are-now-available/
+url: /blog/2007/05/08/our-wordpress-plug-ins-are-now-available/
 categories:
   - Blog
 

@@ -1,9 +1,8 @@
 ---
 title: Irish Web Awards Nominations Open
 author: "Conor O'Neill"
-type: post
 date: 2009-08-25T07:56:43+00:00
-url: /2009/08/25/irish-web-awards-nominations-open/
+url: /blog/2009/08/25/irish-web-awards-nominations-open/
 categories:
   - Blog
 tags:

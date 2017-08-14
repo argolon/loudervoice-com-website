@@ -1,9 +1,8 @@
 ---
 title: LouderVoice WordPress Plug-in Version 2
 author: "Conor O'Neill"
-type: post
 date: 2008-03-30T13:26:36+00:00
-url: /2008/03/30/loudervoice-wordpress-plug-in-version-2/
+url: /blog/2008/03/30/loudervoice-wordpress-plug-in-version-2/
 categories:
   - Blog
 tags:

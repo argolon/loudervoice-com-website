@@ -1,9 +1,8 @@
 ---
 title: 'If you&#039;ve been waiting for a Beta invite'
 author: "Conor O'Neill"
-type: post
 date: 2007-02-06T20:42:12+00:00
-url: /2007/02/06/if-youve-been-waiting-for-a-beta-invite/
+url: /blog/2007/02/06/if-youve-been-waiting-for-a-beta-invite/
 categories:
   - Blog
 

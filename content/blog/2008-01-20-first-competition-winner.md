@@ -1,9 +1,8 @@
 ---
 title: First Competition Winner
 author: "Conor O'Neill"
-type: post
 date: 2008-01-20T13:20:31+00:00
-url: /2008/01/20/first-competition-winner/
+url: /blog/2008/01/20/first-competition-winner/
 categories:
   - Blog
 

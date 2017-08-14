@@ -1,9 +1,8 @@
 ---
 title: Mashable Open Web Awards
 author: "Conor O'Neill"
-type: post
 date: 2008-11-12T23:41:36+00:00
-url: /2008/11/12/mashable-open-web-awards/
+url: /blog/2008/11/12/mashable-open-web-awards/
 categories:
   - Blog
 tags:

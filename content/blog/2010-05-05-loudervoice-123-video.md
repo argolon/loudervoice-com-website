@@ -1,9 +1,8 @@
 ---
 title: LouderVoice 1,2,3 Video
 author: "Conor O'Neill"
-type: post
 date: 2010-05-05T14:31:34+00:00
-url: /2010/05/05/loudervoice-123-video/
+url: /blog/2010/05/05/loudervoice-123-video/
 categories:
   - Blog
 tags:

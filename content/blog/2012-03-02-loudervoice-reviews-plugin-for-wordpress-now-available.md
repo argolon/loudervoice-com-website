@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Reviews Plugin for WordPress now available
 author: "Conor O'Neill"
-type: post
 date: 2012-03-02T16:29:16+00:00
-url: /2012/03/02/loudervoice-reviews-plugin-for-wordpress-now-available/
+url: /blog/2012/03/02/loudervoice-reviews-plugin-for-wordpress-now-available/
 ldv_limit:
   - 5
 ldv_write:

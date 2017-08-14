@@ -1,9 +1,8 @@
 ---
 title: 'We&#039;re hiring!'
 author: "Conor O'Neill"
-type: post
 date: 2007-01-19T11:08:24+00:00
-url: /2007/01/19/were-hiring/
+url: /blog/2007/01/19/were-hiring/
 categories:
   - Blog
 

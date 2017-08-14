@@ -1,9 +1,8 @@
 ---
 title: LouderVoice in Le Web 3 Start-up Competition!
 author: "Conor O'Neill"
-type: post
 date: 2007-11-09T18:16:25+00:00
-url: /2007/11/09/loudervoice-in-le-web-3-start-up-competition/
+url: /blog/2007/11/09/loudervoice-in-le-web-3-start-up-competition/
 categories:
   - Blog
 

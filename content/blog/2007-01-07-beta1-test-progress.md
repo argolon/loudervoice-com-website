@@ -1,9 +1,8 @@
 ---
 title: Beta1 Test Progress
 author: "Conor O'Neill"
-type: post
 date: 2007-01-07T16:28:36+00:00
-url: /2007/01/07/beta1-test-progress/
+url: /blog/2007/01/07/beta1-test-progress/
 categories:
   - Blog
 

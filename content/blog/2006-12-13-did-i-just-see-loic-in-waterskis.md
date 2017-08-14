@@ -1,9 +1,8 @@
 ---
 title: Did I just see Loic in Waterskis?
 author: "Conor O'Neill"
-type: post
 date: 2006-12-13T09:56:02+00:00
-url: /2006/12/13/did-i-just-see-loic-in-waterskis/
+url: /blog/2006/12/13/did-i-just-see-loic-in-waterskis/
 categories:
   - Blog
 

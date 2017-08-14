@@ -1,9 +1,8 @@
 ---
 title: Competition Winner Week 1
 author: "Conor O'Neill"
-type: post
 date: 2008-11-24T20:09:17+00:00
-url: /2008/11/24/competition-winner-week-1/
+url: /blog/2008/11/24/competition-winner-week-1/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: Not long now
 author: "Conor O'Neill"
-type: post
 date: 2007-02-15T21:34:04+00:00
-url: /2007/02/15/not-long-now/
+url: /blog/2007/02/15/not-long-now/
 categories:
   - Blog
 

@@ -1,9 +1,8 @@
 ---
 title: 5 Myths About Customer Reviews and The Wild Web – TMG
 author: "Conor O'Neill"
-type: post
 date: 2011-04-01T13:50:43+00:00
-url: /2011/04/01/5-myths-about-customer-reviews-and-the-wild-web-tmg/
+url: /blog/2011/04/01/5-myths-about-customer-reviews-and-the-wild-web-tmg/
 categories:
   - Blog
 tags:

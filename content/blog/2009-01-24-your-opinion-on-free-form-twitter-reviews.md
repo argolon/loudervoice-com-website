@@ -1,9 +1,8 @@
 ---
 title: Your Opinion on Free-Form Twitter Reviews
 author: "Conor O'Neill"
-type: post
 date: 2009-01-24T14:07:35+00:00
-url: /2009/01/24/your-opinion-on-free-form-twitter-reviews/
+url: /blog/2009/01/24/your-opinion-on-free-form-twitter-reviews/
 categories:
   - Blog
 tags:

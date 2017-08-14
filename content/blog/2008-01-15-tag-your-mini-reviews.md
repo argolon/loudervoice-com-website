@@ -1,9 +1,8 @@
 ---
 title: Tag your mini-reviews
 author: "Conor O'Neill"
-type: post
 date: 2008-01-15T09:44:17+00:00
-url: /2008/01/15/tag-your-mini-reviews/
+url: /blog/2008/01/15/tag-your-mini-reviews/
 categories:
   - Blog
 

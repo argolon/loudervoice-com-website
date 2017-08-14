@@ -1,9 +1,8 @@
 ---
 title: Integration Friday
 author: "Conor O'Neill"
-type: post
 date: 2006-12-08T09:19:01+00:00
-url: /2006/12/08/integration-friday/
+url: /blog/2006/12/08/integration-friday/
 categories:
   - Blog
 

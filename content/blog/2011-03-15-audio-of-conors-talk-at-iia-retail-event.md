@@ -1,9 +1,8 @@
 ---
 title: Audio of Conor’s Talk at IIA Retail Event
 author: "Conor O'Neill"
-type: post
 date: 2011-03-15T15:56:12+00:00
-url: /2011/03/15/audio-of-conors-talk-at-iia-retail-event/
+url: /blog/2011/03/15/audio-of-conors-talk-at-iia-retail-event/
 categories:
   - Blog
 tags:

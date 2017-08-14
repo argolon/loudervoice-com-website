@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Reviewer Referenced by Wall Street Journal
 author: "Conor O'Neill"
-type: post
 date: 2007-08-08T18:37:17+00:00
-url: /2007/08/08/loudervoice-reviewer-referenced-by-wall-street-journal/
+url: /blog/2007/08/08/loudervoice-reviewer-referenced-by-wall-street-journal/
 categories:
   - Blog
 

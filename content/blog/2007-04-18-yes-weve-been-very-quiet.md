@@ -1,9 +1,8 @@
 ---
 title: 'Yes we&#039;ve been very quiet'
 author: "Conor O'Neill"
-type: post
 date: 2007-04-18T23:08:29+00:00
-url: /2007/04/18/yes-weve-been-very-quiet/
+url: /blog/2007/04/18/yes-weve-been-very-quiet/
 categories:
   - Blog
 

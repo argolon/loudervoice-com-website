@@ -1,9 +1,8 @@
 ---
 title: it@cork Leaders Award Nominations Open
 author: "Conor O'Neill"
-type: post
 date: 2009-08-25T07:46:42+00:00
-url: /2009/08/25/itcork-leaders-award-nominations-open/
+url: /blog/2009/08/25/itcork-leaders-award-nominations-open/
 categories:
   - Blog
 tags:

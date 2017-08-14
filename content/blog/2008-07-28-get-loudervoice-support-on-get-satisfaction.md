@@ -1,9 +1,8 @@
 ---
 title: Get LouderVoice support on Get Satisfaction
 author: "Conor O'Neill"
-type: post
 date: 2008-07-28T19:40:16+00:00
-url: /2008/07/28/get-loudervoice-support-on-get-satisfaction/
+url: /blog/2008/07/28/get-loudervoice-support-on-get-satisfaction/
 categories:
   - Blog
 tags:

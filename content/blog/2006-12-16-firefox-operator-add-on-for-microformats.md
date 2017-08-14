@@ -1,9 +1,8 @@
 ---
 title: Firefox Operator Add-On for Microformats
 author: "Conor O'Neill"
-type: post
 date: 2006-12-16T11:51:38+00:00
-url: /2006/12/16/firefox-operator-add-on-for-microformats/
+url: /blog/2006/12/16/firefox-operator-add-on-for-microformats/
 categories:
   - Blog
 

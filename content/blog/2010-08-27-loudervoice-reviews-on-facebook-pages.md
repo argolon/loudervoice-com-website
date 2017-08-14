@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Reviews on Facebook Pages
 author: "Conor O'Neill"
-type: post
 date: 2010-08-27T09:01:11+00:00
-url: /2010/08/27/loudervoice-reviews-on-facebook-pages/
+url: /blog/2010/08/27/loudervoice-reviews-on-facebook-pages/
 categories:
   - Blog
 tags:

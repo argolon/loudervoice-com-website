@@ -1,9 +1,8 @@
 ---
 title: Beta2 Out the Door
 author: "Conor O'Neill"
-type: post
 date: 2007-02-21T10:13:10+00:00
-url: /2007/02/21/beta2-out-the-door/
+url: /blog/2007/02/21/beta2-out-the-door/
 categories:
   - Blog
 

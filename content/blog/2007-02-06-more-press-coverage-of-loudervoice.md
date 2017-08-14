@@ -1,9 +1,8 @@
 ---
 title: More press coverage of LouderVoice
 author: "Conor O'Neill"
-type: post
 date: 2007-02-06T21:13:11+00:00
-url: /2007/02/06/more-press-coverage-of-loudervoice/
+url: /blog/2007/02/06/more-press-coverage-of-loudervoice/
 categories:
   - Blog
 

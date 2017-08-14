@@ -1,9 +1,8 @@
 ---
 title: LouderVoice in 2008
 author: "Conor O'Neill"
-type: post
 date: 2009-01-04T14:55:44+00:00
-url: /2009/01/04/loudervoice-in-2008/
+url: /blog/2009/01/04/loudervoice-in-2008/
 categories:
   - Blog
 tags:

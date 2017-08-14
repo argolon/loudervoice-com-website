@@ -1,9 +1,8 @@
 ---
 title: New version of LouderVoice WordPress Plug-in
 author: "Conor O'Neill"
-type: post
 date: 2008-06-04T07:42:17+00:00
-url: /2008/06/04/new-version-of-loudervoice-wordpress-plug-in/
+url: /blog/2008/06/04/new-version-of-loudervoice-wordpress-plug-in/
 categories:
   - Blog
 tags:

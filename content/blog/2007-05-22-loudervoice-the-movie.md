@@ -1,9 +1,8 @@
 ---
 title: LouderVoice The Movie
 author: "Conor O'Neill"
-type: post
 date: 2007-05-22T07:52:15+00:00
-url: /2007/05/22/loudervoice-the-movie/
+url: /blog/2007/05/22/loudervoice-the-movie/
 categories:
   - Blog
 

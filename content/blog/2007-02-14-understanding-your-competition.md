@@ -1,9 +1,8 @@
 ---
 title: Understanding your competition
 author: "Conor O'Neill"
-type: post
 date: 2007-02-14T23:57:39+00:00
-url: /2007/02/14/understanding-your-competition/
+url: /blog/2007/02/14/understanding-your-competition/
 categories:
   - Blog
 

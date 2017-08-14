@@ -1,9 +1,8 @@
 ---
 title: Mini-Review Tweak
 author: "Conor O'Neill"
-type: post
 date: 2007-12-03T19:27:00+00:00
-url: /2007/12/03/mini-review-tweak/
+url: /blog/2007/12/03/mini-review-tweak/
 categories:
   - Blog
 

@@ -1,9 +1,8 @@
 ---
 title: LittleQuiz this week is about LouderVoice
 author: "Conor O'Neill"
-type: post
 date: 2009-10-12T08:59:46+00:00
-url: /2009/10/12/littlequiz-this-week-is-about-loudervoice/
+url: /blog/2009/10/12/littlequiz-this-week-is-about-loudervoice/
 categories:
   - Blog
 tags:

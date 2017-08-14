@@ -1,9 +1,8 @@
 ---
 title: Updated LouderVoice WordPress Plugin
 author: "Conor O'Neill"
-type: post
 date: 2009-02-01T15:15:46+00:00
-url: /2009/02/01/updated-loudervoice-wordpress-plugin/
+url: /blog/2009/02/01/updated-loudervoice-wordpress-plugin/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: Klipsch.co.uk goes live
 author: "Conor O'Neill"
-type: post
 date: 2008-11-12T11:29:46+00:00
-url: /2008/11/12/klipschcouk-goes-live/
+url: /blog/2008/11/12/klipschcouk-goes-live/
 categories:
   - Blog
 tags:

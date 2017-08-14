@@ -1,9 +1,8 @@
 ---
 title: Love Facebook? Love LouderVoice?
 author: "Conor O'Neill"
-type: post
 date: 2009-08-27T19:06:39+00:00
-url: /2009/08/27/love-facebook-love-loudervoice/
+url: /blog/2009/08/27/love-facebook-love-loudervoice/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: More LouderTweet Instructions
 author: "Conor O'Neill"
-type: post
 date: 2007-06-18T13:14:38+00:00
-url: /2007/06/18/more-loudertweet-instructions/
+url: /blog/2007/06/18/more-loudertweet-instructions/
 categories:
   - Blog
 

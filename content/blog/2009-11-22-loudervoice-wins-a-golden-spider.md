@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Wins a Golden Spider
 author: "Conor O'Neill"
-type: post
 date: 2009-11-22T19:38:43+00:00
-url: /2009/11/22/loudervoice-wins-a-golden-spider/
+url: /blog/2009/11/22/loudervoice-wins-a-golden-spider/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: Ã‚Â£5k buys me a lot of developer hours or gets me to five conferences
 author: "Conor O'Neill"
-type: post
 date: 2007-01-15T20:08:29+00:00
-url: /2007/01/15/£5k-buys-me-a-lot-of-developer-hours-or-gets-me-to-five-conferences/
+url: /blog/2007/01/15/£5k-buys-me-a-lot-of-developer-hours-or-gets-me-to-five-conferences/
 categories:
   - Blog
 

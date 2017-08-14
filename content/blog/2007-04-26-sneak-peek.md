@@ -1,9 +1,8 @@
 ---
 title: Sneak Peek
 author: "Conor O'Neill"
-type: post
 date: 2007-04-26T11:26:42+00:00
-url: /2007/04/26/sneak-peek/
+url: /blog/2007/04/26/sneak-peek/
 categories:
   - Blog
 

@@ -1,9 +1,8 @@
 ---
 title: Today is Wine Blogging Wednesday
 author: "Conor O'Neill"
-type: post
 date: 2008-02-13T11:48:15+00:00
-url: /2008/02/13/today-is-wine-blogging-wednesday/
+url: /blog/2008/02/13/today-is-wine-blogging-wednesday/
 categories:
   - Blog
 tags:

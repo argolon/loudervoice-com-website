@@ -1,9 +1,8 @@
 ---
 title: We finally did it
 author: "Conor O'Neill"
-type: post
 date: 2007-05-02T20:19:22+00:00
-url: /2007/05/02/we-finally-did-it/
+url: /blog/2007/05/02/we-finally-did-it/
 categories:
   - Blog
 

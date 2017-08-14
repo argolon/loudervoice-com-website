@@ -1,9 +1,7 @@
 ---
 title: Generating Trust Thousands of Miles Away in Cairo with LouderVoice Reviews
 author: "Catherine O'Neill"
-type: post
 date: 2012-11-28T15:33:23+00:00
-url: /2012/11/28/generating-trust-thousands-of-miles-away-in-cairo-with-loudervoice-reviews/
 ldv_limit:
   - 5
 ldv_write:

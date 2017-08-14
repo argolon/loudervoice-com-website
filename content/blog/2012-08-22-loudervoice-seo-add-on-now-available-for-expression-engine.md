@@ -1,9 +1,8 @@
 ---
 title: LouderVoice SEO Add-On Now Available for Expression Engine
 author: "Catherine O'Neill"
-type: post
 date: 2012-08-22T11:48:38+00:00
-url: /2012/08/22/loudervoice-seo-add-on-now-available-for-expression-engine/
+url: /blog/2012/08/22/loudervoice-seo-add-on-now-available-for-expression-engine/
 ldv_limit:
   - 5
 ldv_write:

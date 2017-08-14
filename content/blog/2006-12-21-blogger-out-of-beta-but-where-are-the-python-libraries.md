@@ -1,9 +1,8 @@
 ---
 title: Blogger out of Beta but where are the Python libraries?
 author: "Conor O'Neill"
-type: post
 date: 2006-12-21T09:49:49+00:00
-url: /2006/12/21/blogger-out-of-beta-but-where-are-the-python-libraries/
+url: /blog/2006/12/21/blogger-out-of-beta-but-where-are-the-python-libraries/
 categories:
   - Blog
 

@@ -1,9 +1,8 @@
 ---
 title: Our alpha rocks!
 author: "Conor O'Neill"
-type: post
 date: 2006-11-28T13:55:45+00:00
-url: /2006/11/28/our-alpha-rocks/
+url: /blog/2006/11/28/our-alpha-rocks/
 categories:
   - Blog
 

@@ -1,9 +1,8 @@
 ---
 title: Newspaper Coverage
 author: "Conor O'Neill"
-type: post
 date: 2008-02-11T20:21:34+00:00
-url: /2008/02/11/newspaper-coverage/
+url: /blog/2008/02/11/newspaper-coverage/
 categories:
   - Blog
 tags:

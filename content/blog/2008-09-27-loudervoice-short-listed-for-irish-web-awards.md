@@ -1,9 +1,8 @@
 ---
 title: LouderVoice short-listed for Irish Web Awards
 author: "Conor O'Neill"
-type: post
 date: 2008-09-27T13:31:33+00:00
-url: /2008/09/27/loudervoice-short-listed-for-irish-web-awards/
+url: /blog/2008/09/27/loudervoice-short-listed-for-irish-web-awards/
 categories:
   - Blog
 tags:

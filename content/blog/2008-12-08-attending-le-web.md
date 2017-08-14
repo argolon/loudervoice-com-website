@@ -1,9 +1,8 @@
 ---
 title: Attending Le Web
 author: "Conor O'Neill"
-type: post
 date: 2008-12-08T19:55:10+00:00
-url: /2008/12/08/attending-le-web/
+url: /blog/2008/12/08/attending-le-web/
 categories:
   - Blog
 tags:

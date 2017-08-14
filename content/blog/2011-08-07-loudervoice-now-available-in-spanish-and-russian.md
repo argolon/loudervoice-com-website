@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Now Available in Spanish and Russian
 author: "Conor O'Neill"
-type: post
 date: 2011-08-07T14:44:53+00:00
-url: /2011/08/07/loudervoice-now-available-in-spanish-and-russian/
+url: /blog/2011/08/07/loudervoice-now-available-in-spanish-and-russian/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: 'Don&#039;t forget to say hi at Le Web 3'
 author: "Conor O'Neill"
-type: post
 date: 2006-12-08T09:23:29+00:00
-url: /2006/12/08/dont-forget-to-say-hi-at-le-web-3/
+url: /blog/2006/12/08/dont-forget-to-say-hi-at-le-web-3/
 categories:
   - Blog
 

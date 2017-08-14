@@ -1,9 +1,8 @@
 ---
 title: Irish Blog Awards Winners
 author: "Conor O'Neill"
-type: post
 date: 2008-03-03T10:10:22+00:00
-url: /2008/03/03/irish-blog-awards-winners/
+url: /blog/2008/03/03/irish-blog-awards-winners/
 categories:
   - Blog
 tags:

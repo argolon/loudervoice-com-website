@@ -1,9 +1,8 @@
 ---
 title: 'TechCrunch20, a start-up&#039;s dream conference'
 author: "Conor O'Neill"
-type: post
 date: 2007-01-31T23:42:11+00:00
-url: /2007/01/31/techcrunch20-a-start-ups-dream-conference/
+url: /blog/2007/01/31/techcrunch20-a-start-ups-dream-conference/
 categories:
   - Blog
 

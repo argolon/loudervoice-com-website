@@ -1,9 +1,8 @@
 ---
 title: 58% of E-retailers Say Primary ROI is in Listening to Customers
 author: sabrina
-type: post
 date: 2009-10-08T16:44:32+00:00
-url: /2009/10/08/34-of-e-retailers-say-social-marketing-increases-sales/
+url: /blog/2009/10/08/34-of-e-retailers-say-social-marketing-increases-sales/
 categories:
   - News
 tags:

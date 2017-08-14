@@ -1,9 +1,8 @@
 ---
 title: Twitter Users at Oxegen can phone-review too
 author: "Conor O'Neill"
-type: post
 date: 2007-07-04T20:22:45+00:00
-url: /2007/07/04/twitter-users-at-oxegen-can-phone-review-too/
+url: /blog/2007/07/04/twitter-users-at-oxegen-can-phone-review-too/
 categories:
   - Blog
 

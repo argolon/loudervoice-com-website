@@ -1,9 +1,8 @@
 ---
 title: Oh, does that make us Web 3.0?
 author: "Conor O'Neill"
-type: post
 date: 2006-11-13T10:14:52+00:00
-url: /2006/11/13/oh-does-that-make-us-web-30/
+url: /blog/2006/11/13/oh-does-that-make-us-web-30/
 categories:
   - Blog
 

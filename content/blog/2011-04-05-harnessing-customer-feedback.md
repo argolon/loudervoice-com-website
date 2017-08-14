@@ -1,9 +1,8 @@
 ---
 title: Harnessing Customer Feedback
 author: "Conor O'Neill"
-type: post
 date: 2011-04-05T15:45:28+00:00
-url: /2011/04/05/harnessing-customer-feedback/
+url: /blog/2011/04/05/harnessing-customer-feedback/
 categories:
   - Blog
 tags:

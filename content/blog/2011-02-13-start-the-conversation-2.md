@@ -1,9 +1,8 @@
 ---
 title: Start The Conversation
 author: "Conor O'Neill"
-type: post
 date: 2011-02-13T15:45:06+00:00
-url: /2011/02/13/start-the-conversation-2/
+url: /blog/2011/02/13/start-the-conversation-2/
 categories:
   - Sliders
 

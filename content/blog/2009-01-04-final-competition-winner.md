@@ -1,9 +1,8 @@
 ---
 title: Final Competition Winner
 author: "Conor O'Neill"
-type: post
 date: 2009-01-04T14:39:01+00:00
-url: /2009/01/04/final-competition-winner/
+url: /blog/2009/01/04/final-competition-winner/
 categories:
   - Blog
 tags:

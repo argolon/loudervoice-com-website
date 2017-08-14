@@ -1,9 +1,8 @@
 ---
 title: LouderVoice now supported on Profilactic
 author: "Conor O'Neill"
-type: post
 date: 2008-06-15T12:56:02+00:00
-url: /2008/06/15/loudervoice-now-supported-on-profilactic/
+url: /blog/2008/06/15/loudervoice-now-supported-on-profilactic/
 categories:
   - Blog
 tags:

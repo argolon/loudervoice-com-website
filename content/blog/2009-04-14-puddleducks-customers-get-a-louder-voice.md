@@ -1,9 +1,8 @@
 ---
 title: Puddleducks Customers Get a Louder Voice
 author: "Conor O'Neill"
-type: post
 date: 2009-04-14T23:03:16+00:00
-url: /2009/04/14/puddleducks-customers-get-a-louder-voice/
+url: /blog/2009/04/14/puddleducks-customers-get-a-louder-voice/
 categories:
   - Blog
 tags:

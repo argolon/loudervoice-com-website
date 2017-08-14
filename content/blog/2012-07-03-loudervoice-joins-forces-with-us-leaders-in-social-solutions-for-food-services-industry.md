@@ -1,9 +1,8 @@
 ---
 title: LouderVoice joins forces with US Leaders in Social Solutions for Food Services Industry
 author: "Conor O'Neill"
-type: post
 date: 2012-07-03T19:43:20+00:00
-url: /2012/07/03/loudervoice-joins-forces-with-us-leaders-in-social-solutions-for-food-services-industry/
+url: /blog/2012/07/03/loudervoice-joins-forces-with-us-leaders-in-social-solutions-for-food-services-industry/
 ldv_limit:
   - 5
 ldv_write:

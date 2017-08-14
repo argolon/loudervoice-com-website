@@ -1,9 +1,8 @@
 ---
 title: See you at FoWA
 author: "Conor O'Neill"
-type: post
 date: 2007-02-15T10:52:20+00:00
-url: /2007/02/15/see-you-at-fowa/
+url: /blog/2007/02/15/see-you-at-fowa/
 categories:
   - Blog
 

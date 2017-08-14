@@ -1,9 +1,8 @@
 ---
 title: Karl Llewellyn appointed Head of Sales for LouderVoice
 author: "Conor O'Neill"
-type: post
 date: 2010-04-07T17:29:13+00:00
-url: /2010/04/07/karl-llewellyn-appointed-head-of-sales-for-loudervoice/
+url: /blog/2010/04/07/karl-llewellyn-appointed-head-of-sales-for-loudervoice/
 categories:
   - Blog
 tags:

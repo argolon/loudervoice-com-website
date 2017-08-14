@@ -1,9 +1,8 @@
 ---
 title: Redeeming the Internet World Special Offer
 author: "Conor O'Neill"
-type: post
 date: 2010-05-06T10:44:08+00:00
-url: /2010/05/06/redeeming-the-internet-world-special-offer/
+url: /blog/2010/05/06/redeeming-the-internet-world-special-offer/
 categories:
   - Blog
 tags:

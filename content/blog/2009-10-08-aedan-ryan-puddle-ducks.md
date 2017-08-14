@@ -1,9 +1,8 @@
 ---
 title: Puddleducks
 author: sabrina
-type: post
 date: 2009-10-08T14:48:57+00:00
-url: /2009/10/08/aedan-ryan-puddle-ducks/
+url: /blog/2009/10/08/aedan-ryan-puddle-ducks/
 categories:
   - Customers
 

@@ -1,9 +1,8 @@
 ---
 title: Going to 3GSM? Live Review it!
 author: "Conor O'Neill"
-type: post
 date: 2008-02-10T11:48:07+00:00
-url: /2008/02/10/going-to-3gsm-live-review-it/
+url: /blog/2008/02/10/going-to-3gsm-live-review-it/
 categories:
   - Blog
 tags:

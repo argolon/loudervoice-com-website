@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Firefox Add-On
 author: "Conor O'Neill"
-type: post
 date: 2007-05-24T18:53:35+00:00
-url: /2007/05/24/loudervoice-firefox-add-on/
+url: /blog/2007/05/24/loudervoice-firefox-add-on/
 categories:
   - Blog
 

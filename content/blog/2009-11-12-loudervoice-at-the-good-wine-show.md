@@ -1,9 +1,8 @@
 ---
 title: LouderVoice at the Good Wine Show
 author: "Catherine O'Neill"
-type: post
 date: 2009-11-12T08:30:10+00:00
-url: /2009/11/12/loudervoice-at-the-good-wine-show/
+url: /blog/2009/11/12/loudervoice-at-the-good-wine-show/
 categories:
   - Blog
 

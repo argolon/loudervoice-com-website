@@ -1,9 +1,8 @@
 ---
 title: Watch out for debug messages
 author: "Conor O'Neill"
-type: post
 date: 2007-03-07T16:45:59+00:00
-url: /2007/03/07/watch-out-for-debug-messages/
+url: /blog/2007/03/07/watch-out-for-debug-messages/
 categories:
   - Blog
 

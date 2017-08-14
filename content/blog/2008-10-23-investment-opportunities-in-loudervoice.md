@@ -1,9 +1,8 @@
 ---
 title: Investment Opportunities in LouderVoice
 author: "Conor O'Neill"
-type: post
 date: 2008-10-23T11:39:21+00:00
-url: /2008/10/23/investment-opportunities-in-loudervoice/
+url: /blog/2008/10/23/investment-opportunities-in-loudervoice/
 categories:
   - Blog
 tags:

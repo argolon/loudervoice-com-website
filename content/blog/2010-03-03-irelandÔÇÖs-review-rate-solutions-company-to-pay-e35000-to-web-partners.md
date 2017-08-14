@@ -1,9 +1,8 @@
 ---
 title: 'Ireland’s Review & Rate Solutions Company to Pay €35,000 to Web Partners'
 author: "Conor O'Neill"
-type: post
 date: 2010-03-03T08:50:46+00:00
-url: /2010/03/03/ireland’s-review-rate-solutions-company-to-pay-e35000-to-web-partners/
+url: /blog/2010/03/03/ireland’s-review-rate-solutions-company-to-pay-e35000-to-web-partners/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: Win LouderVoice FREE for One Year
 author: "Conor O'Neill"
-type: post
 date: 2010-08-03T19:45:12+00:00
-url: /2010/08/03/win-loudervoice-free-for-one-year/
+url: /blog/2010/08/03/win-loudervoice-free-for-one-year/
 categories:
   - Blog
 tags:

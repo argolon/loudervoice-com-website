@@ -1,9 +1,8 @@
 ---
 title: Make The Conversation Social
 author: "Conor O'Neill"
-type: post
 date: 2011-02-13T15:40:17+00:00
-url: /2011/02/13/make-the-conversation-social-2/
+url: /blog/2011/02/13/make-the-conversation-social-2/
 ldv_item:
   - Make The Conversation Social
 ldv_limit:

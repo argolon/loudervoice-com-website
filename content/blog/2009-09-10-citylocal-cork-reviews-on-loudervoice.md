@@ -1,9 +1,8 @@
 ---
 title: Citylocal Cork Reviews on LouderVoice
 author: "Conor O'Neill"
-type: post
 date: 2009-09-10T10:10:03+00:00
-url: /2009/09/10/citylocal-cork-reviews-on-loudervoice/
+url: /blog/2009/09/10/citylocal-cork-reviews-on-loudervoice/
 categories:
   - Blog
 tags:

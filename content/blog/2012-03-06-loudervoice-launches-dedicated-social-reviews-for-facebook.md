@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Launches Dedicated Social Reviews for Facebook
 author: "Conor O'Neill"
-type: post
 date: 2012-03-06T12:19:04+00:00
-url: /2012/03/06/loudervoice-launches-dedicated-social-reviews-for-facebook/
+url: /blog/2012/03/06/loudervoice-launches-dedicated-social-reviews-for-facebook/
 ldv_limit:
   - 5
 ldv_write:

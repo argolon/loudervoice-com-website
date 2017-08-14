@@ -1,9 +1,8 @@
 ---
 title: LouderVoice at Le Web
 author: "Conor O'Neill"
-type: post
 date: 2009-12-07T18:05:00+00:00
-url: /2009/12/07/loudervoice-at-le-web/
+url: /blog/2009/12/07/loudervoice-at-le-web/
 categories:
   - Blog
 tags:

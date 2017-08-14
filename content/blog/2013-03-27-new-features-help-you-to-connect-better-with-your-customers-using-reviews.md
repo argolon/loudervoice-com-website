@@ -1,9 +1,7 @@
 ---
 title: New features help you to connect better with your customers using reviews
 author: "Catherine O'Neill"
-type: post
 date: 2013-03-27T10:49:40+00:00
-url: /2013/03/27/new-features-help-you-to-connect-better-with-your-customers-using-reviews/
 ldv_limit:
   - 5
 ldv_write:

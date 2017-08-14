@@ -1,9 +1,8 @@
 ---
 title: Word of Mouth Still Most Trusted Resource Says Nielsen
 author: "Conor O'Neill"
-type: post
 date: 2012-04-16T09:29:15+00:00
-url: /2012/04/16/word-of-mouth-still-most-trusted-resource-says-nielsen/
+url: /blog/2012/04/16/word-of-mouth-still-most-trusted-resource-says-nielsen/
 ldv_limit:
   - 5
 ldv_write:

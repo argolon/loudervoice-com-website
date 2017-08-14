@@ -1,9 +1,8 @@
 ---
 title: The design over at loudervoice.com
 author: "Conor O'Neill"
-type: post
 date: 2006-11-07T23:41:35+00:00
-url: /2006/11/07/the-design-over-at-loudervoicecom/
+url: /blog/2006/11/07/the-design-over-at-loudervoicecom/
 categories:
   - Blog
 

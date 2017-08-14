@@ -1,9 +1,8 @@
 ---
 title: Win a Gift Hamper for Taste of Cork Reviews
 author: "Conor O'Neill"
-type: post
 date: 2008-06-24T11:46:38+00:00
-url: /2008/06/24/win-a-gift-hamper-for-taste-of-cork-reviews/
+url: /blog/2008/06/24/win-a-gift-hamper-for-taste-of-cork-reviews/
 categories:
   - Blog
 tags:

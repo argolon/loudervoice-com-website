@@ -1,9 +1,8 @@
 ---
 title: Our Beta1 should start in the next few days
 author: "Conor O'Neill"
-type: post
 date: 2006-12-24T08:38:47+00:00
-url: /2006/12/24/our-beta1-should-start-in-the-next-few-days/
+url: /blog/2006/12/24/our-beta1-should-start-in-the-next-few-days/
 categories:
   - Blog
 

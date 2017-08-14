@@ -1,9 +1,8 @@
 ---
 title: Champing at the bit
 author: "Conor O'Neill"
-type: post
 date: 2007-03-05T10:53:20+00:00
-url: /2007/03/05/champing-at-the-bit/
+url: /blog/2007/03/05/champing-at-the-bit/
 categories:
   - Blog
 

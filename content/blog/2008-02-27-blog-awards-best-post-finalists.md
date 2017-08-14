@@ -1,9 +1,8 @@
 ---
 title: Blog Awards Best Post Finalists
 author: "Conor O'Neill"
-type: post
 date: 2008-02-27T19:39:59+00:00
-url: /2008/02/27/blog-awards-best-post-finalists/
+url: /blog/2008/02/27/blog-awards-best-post-finalists/
 categories:
   - Blog
 tags:

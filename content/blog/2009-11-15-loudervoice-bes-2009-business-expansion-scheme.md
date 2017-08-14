@@ -1,9 +1,8 @@
 ---
 title: LouderVoice BES 2009 (Business Expansion Scheme)
 author: "Conor O'Neill"
-type: post
 date: 2009-11-15T15:23:58+00:00
-url: /2009/11/15/loudervoice-bes-2009-business-expansion-scheme/
+url: /blog/2009/11/15/loudervoice-bes-2009-business-expansion-scheme/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: Mini-Reviews now on Jaiku too!
 author: "Conor O'Neill"
-type: post
 date: 2007-06-25T08:59:02+00:00
-url: /2007/06/25/mini-reviews-now-on-jaiku-too/
+url: /blog/2007/06/25/mini-reviews-now-on-jaiku-too/
 categories:
   - Blog
 

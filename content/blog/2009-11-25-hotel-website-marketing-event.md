@@ -1,9 +1,8 @@
 ---
 title: Hotel Website Marketing Event
 author: "Conor O'Neill"
-type: post
 date: 2009-11-25T13:17:52+00:00
-url: /2009/11/25/hotel-website-marketing-event/
+url: /blog/2009/11/25/hotel-website-marketing-event/
 categories:
   - Blog
 tags:

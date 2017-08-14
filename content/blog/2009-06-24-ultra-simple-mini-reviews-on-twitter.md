@@ -1,9 +1,8 @@
 ---
 title: Ultra Simple Mini-Reviews on Twitter
 author: "Conor O'Neill"
-type: post
 date: 2009-06-24T18:43:16+00:00
-url: /2009/06/24/ultra-simple-mini-reviews-on-twitter/
+url: /blog/2009/06/24/ultra-simple-mini-reviews-on-twitter/
 categories:
   - Blog
 tags:

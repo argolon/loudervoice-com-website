@@ -1,7 +1,6 @@
 ---
 title: Start The Conversation
 author: sabrina
-type: post
 date: 2009-10-06T01:43:46+00:00
 excerpt: |
   Your customers want to talk about you online. Let them do that on your own site, not some third-party hub. Authentic reviews by verified customers are now a must-have if you are selling online.
@@ -12,7 +11,7 @@ excerpt: |
   .addthis_container, .addthis_toolbox { display:none !important; }
   </style>
   <!--end_raw-->
-url: /2009/10/06/home-content-2/
+url: /blog/2009/10/06/home-content-2/
 ldv_item:
   - Start The Conversation
 ldv_limit:

@@ -1,9 +1,8 @@
 ---
 title: Web2Ireland Conference 2007
 author: "Conor O'Neill"
-type: post
 date: 2007-02-06T13:47:08+00:00
-url: /2007/02/06/web2ireland-conference-2007/
+url: /blog/2007/02/06/web2ireland-conference-2007/
 categories:
   - Blog
 

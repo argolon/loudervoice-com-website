@@ -1,9 +1,8 @@
 ---
 title: Why a negative review may not be so bad after all
 author: "Conor O'Neill"
-type: post
 date: 2011-06-12T10:10:17+00:00
-url: /2011/06/12/why-a-negative-review-may-not-be-so-bad-after-all/
+url: /blog/2011/06/12/why-a-negative-review-may-not-be-so-bad-after-all/
 categories:
   - Blog
 tags:

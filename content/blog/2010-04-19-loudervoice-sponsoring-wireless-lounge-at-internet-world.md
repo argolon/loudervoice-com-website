@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Sponsoring Wireless Lounge at Internet World
 author: "Conor O'Neill"
-type: post
 date: 2010-04-19T17:22:01+00:00
-url: /2010/04/19/loudervoice-sponsoring-wireless-lounge-at-internet-world/
+url: /blog/2010/04/19/loudervoice-sponsoring-wireless-lounge-at-internet-world/
 categories:
   - Blog
 tags:

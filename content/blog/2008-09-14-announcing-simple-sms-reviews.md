@@ -1,9 +1,8 @@
 ---
 title: Announcing Simple SMS Reviews
 author: "Conor O'Neill"
-type: post
 date: 2008-09-14T18:20:30+00:00
-url: /2008/09/14/announcing-simple-sms-reviews/
+url: /blog/2008/09/14/announcing-simple-sms-reviews/
 categories:
   - Blog
 tags:

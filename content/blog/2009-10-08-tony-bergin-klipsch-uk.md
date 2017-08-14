@@ -1,9 +1,8 @@
 ---
 title: Castlemartyr Resort
 author: sabrina
-type: post
 date: 2009-10-08T14:51:58+00:00
-url: /2009/10/08/tony-bergin-klipsch-uk/
+url: /blog/2009/10/08/tony-bergin-klipsch-uk/
 categories:
   - Customers
 

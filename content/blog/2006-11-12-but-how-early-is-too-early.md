@@ -1,9 +1,8 @@
 ---
 title: But how early is too early?
 author: "Conor O'Neill"
-type: post
 date: 2006-11-12T09:43:34+00:00
-url: /2006/11/12/but-how-early-is-too-early/
+url: /blog/2006/11/12/but-how-early-is-too-early/
 categories:
   - Blog
 

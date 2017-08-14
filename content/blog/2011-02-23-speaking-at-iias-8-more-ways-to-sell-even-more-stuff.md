@@ -1,9 +1,8 @@
 ---
 title: Speaking at IIA’s “8 More Ways to Sell Even More Stuff”
 author: "Conor O'Neill"
-type: post
 date: 2011-02-23T16:02:22+00:00
-url: /2011/02/23/speaking-at-iias-8-more-ways-to-sell-even-more-stuff/
+url: /blog/2011/02/23/speaking-at-iias-8-more-ways-to-sell-even-more-stuff/
 categories:
   - Blog
 tags:

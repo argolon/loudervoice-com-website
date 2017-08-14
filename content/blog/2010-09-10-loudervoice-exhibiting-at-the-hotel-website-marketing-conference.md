@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Exhibiting at The Hotel Website Marketing Conference
 author: "Conor O'Neill"
-type: post
 date: 2010-09-10T14:18:23+00:00
-url: /2010/09/10/loudervoice-exhibiting-at-the-hotel-website-marketing-conference/
+url: /blog/2010/09/10/loudervoice-exhibiting-at-the-hotel-website-marketing-conference/
 categories:
   - Blog
 tags:

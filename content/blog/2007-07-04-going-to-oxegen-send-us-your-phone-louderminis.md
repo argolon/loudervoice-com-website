@@ -1,9 +1,8 @@
 ---
 title: Going to Oxegen? Send us your phone LouderMinis!
 author: "Conor O'Neill"
-type: post
 date: 2007-07-04T12:31:46+00:00
-url: /2007/07/04/going-to-oxegen-send-us-your-phone-louderminis/
+url: /blog/2007/07/04/going-to-oxegen-send-us-your-phone-louderminis/
 categories:
   - Blog
 

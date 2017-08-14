@@ -1,9 +1,8 @@
 ---
 title: LouderVoice and Ireland in French Business Magazine Stratégies
 author: "Conor O'Neill"
-type: post
 date: 2011-12-28T00:30:58+00:00
-url: /2011/12/28/loudervoice-and-ireland-in-french-business-magazine-strategies/
+url: /blog/2011/12/28/loudervoice-and-ireland-in-french-business-magazine-strategies/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: LouderVoice In The Press
 author: "Conor O'Neill"
-type: post
 date: 2009-02-02T10:46:01+00:00
-url: /2009/02/02/loudervoice-in-the-press-2/
+url: /blog/2009/02/02/loudervoice-in-the-press-2/
 categories:
   - Blog
 tags:

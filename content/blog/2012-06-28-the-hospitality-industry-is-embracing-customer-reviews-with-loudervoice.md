@@ -1,9 +1,8 @@
 ---
 title: The hospitality industry is embracing customer reviews with LouderVoice
 author: "Conor O'Neill"
-type: post
 date: 2012-06-28T17:12:59+00:00
-url: /2012/06/28/the-hospitality-industry-is-embracing-customer-reviews-with-loudervoice/
+url: /blog/2012/06/28/the-hospitality-industry-is-embracing-customer-reviews-with-loudervoice/
 ldv_item:
   - How the hospitality industry is embracing customer reviews with LouderVoice
 ldv_limit:

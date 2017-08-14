@@ -1,9 +1,8 @@
 ---
 title: 12 Statistics on Consumer Reviews
 author: "Conor O'Neill"
-type: post
 date: 2010-08-07T14:34:16+00:00
-url: /2010/08/07/12-statistics-on-consumer-reviews/
+url: /blog/2010/08/07/12-statistics-on-consumer-reviews/
 categories:
   - Blog
 tags:

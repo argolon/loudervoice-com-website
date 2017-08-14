@@ -1,7 +1,6 @@
 ---
 title: Whose Sales are Growing with LouderVoice?
 author: sabrina
-type: post
 date: 2009-10-05T05:43:48+00:00
 excerpt: |
   LouderVoice can be found on a massive range of sites in the UK, US, Ireland and mainland Europe. From small businesses to a global entertainment phenomenon, our Social Reviews are driving sales.
@@ -13,7 +12,7 @@ excerpt: |
   .addthis_container, .addthis_toolbox { display:none !important; }
   </style>
   <!--end_raw-->
-url: /2009/10/05/try-louder-voice-today/
+url: /blog/2009/10/05/try-louder-voice-today/
 ldv_item:
   - Whose Sales are Growing with LouderVoice?
 ldv_limit:

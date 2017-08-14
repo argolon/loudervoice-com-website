@@ -1,9 +1,8 @@
 ---
 title: West Cork Hotel now using LouderVoice Reviews
 author: "Conor O'Neill"
-type: post
 date: 2010-06-10T15:02:20+00:00
-url: /2010/06/10/west-cork-hotel-now-using-loudervoice-reviews/
+url: /blog/2010/06/10/west-cork-hotel-now-using-loudervoice-reviews/
 categories:
   - Blog
 tags:

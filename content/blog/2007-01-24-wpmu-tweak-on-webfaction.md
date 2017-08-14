@@ -1,9 +1,8 @@
 ---
 title: WPMU tweak on WebFaction
 author: "Conor O'Neill"
-type: post
 date: 2007-01-24T15:21:49+00:00
-url: /2007/01/24/wpmu-tweak-on-webfaction/
+url: /blog/2007/01/24/wpmu-tweak-on-webfaction/
 categories:
   - Blog
 

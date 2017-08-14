@@ -1,9 +1,8 @@
 ---
 title: MeeboMe widget + Gaim = Killer App
 author: "Conor O'Neill"
-type: post
 date: 2007-02-27T22:21:25+00:00
-url: /2007/02/27/meebome-widget-gaim-killer-app/
+url: /blog/2007/02/27/meebome-widget-gaim-killer-app/
 categories:
   - Blog
 

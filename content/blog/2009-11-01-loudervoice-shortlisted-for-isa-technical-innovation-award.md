@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Shortlisted for ISA Technical Innovation Award
 author: "Conor O'Neill"
-type: post
 date: 2009-11-01T20:16:49+00:00
-url: /2009/11/01/loudervoice-shortlisted-for-isa-technical-innovation-award/
+url: /blog/2009/11/01/loudervoice-shortlisted-for-isa-technical-innovation-award/
 categories:
   - Blog
 

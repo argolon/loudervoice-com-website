@@ -1,9 +1,8 @@
 ---
 title: Fastnet Line Cork-Swansea Ferry on-board with LouderVoice
 author: "Conor O'Neill"
-type: post
 date: 2010-08-06T14:16:58+00:00
-url: /2010/08/06/fastnet-line-cork-swansea-ferry-on-board-with-loudervoice/
+url: /blog/2010/08/06/fastnet-line-cork-swansea-ferry-on-board-with-loudervoice/
 categories:
   - Blog
 tags:

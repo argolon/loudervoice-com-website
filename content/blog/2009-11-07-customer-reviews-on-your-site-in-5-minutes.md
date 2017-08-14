@@ -1,9 +1,8 @@
 ---
 title: Customer Reviews on your site in 5 minutes?
 author: "Conor O'Neill"
-type: post
 date: 2009-11-07T17:39:00+00:00
-url: /2009/11/07/customer-reviews-on-your-site-in-5-minutes/
+url: /blog/2009/11/07/customer-reviews-on-your-site-in-5-minutes/
 categories:
   - Blog
 tags:

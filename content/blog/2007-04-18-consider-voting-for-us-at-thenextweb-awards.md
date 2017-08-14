@@ -1,9 +1,8 @@
 ---
 title: Consider voting for us at TheNextWeb Awards
 author: "Conor O'Neill"
-type: post
 date: 2007-04-18T23:14:29+00:00
-url: /2007/04/18/consider-voting-for-us-at-thenextweb-awards/
+url: /blog/2007/04/18/consider-voting-for-us-at-thenextweb-awards/
 categories:
   - Blog
 

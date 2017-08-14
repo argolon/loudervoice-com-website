@@ -1,9 +1,8 @@
 ---
 title: French restaurant delights with live LouderVoice customer reviews on iPad
 author: "Catherine O'Neill"
-type: post
 date: 2012-11-06T16:53:12+00:00
-url: /2012/11/06/french-restaurant-delights-with-live-loudervoice-customer-reviews-on-ipad/
+url: /blog/2012/11/06/french-restaurant-delights-with-live-loudervoice-customer-reviews-on-ipad/
 ldv_item:
   - French Restaurant flying with live customer reviews on iPad
 ldv_limit:

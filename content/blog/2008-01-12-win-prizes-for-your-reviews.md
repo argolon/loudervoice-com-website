@@ -1,9 +1,8 @@
 ---
 title: Win Prizes for your Reviews
 author: "Conor O'Neill"
-type: post
 date: 2008-01-12T12:59:49+00:00
-url: /2008/01/12/win-prizes-for-your-reviews/
+url: /blog/2008/01/12/win-prizes-for-your-reviews/
 categories:
   - Blog
 

@@ -1,9 +1,8 @@
 ---
 title: Three Ireland Competition Launches
 author: "Conor O'Neill"
-type: post
 date: 2008-11-18T15:01:11+00:00
-url: /2008/11/18/three-ireland-competition-launches/
+url: /blog/2008/11/18/three-ireland-competition-launches/
 categories:
   - Blog
 tags:

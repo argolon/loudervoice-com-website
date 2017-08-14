@@ -1,9 +1,8 @@
 ---
 title: Great deal from our web hosting provider
 author: "Conor O'Neill"
-type: post
 date: 2006-12-24T08:45:37+00:00
-url: /2006/12/24/great-deal-from-our-web-hosting-provider/
+url: /blog/2006/12/24/great-deal-from-our-web-hosting-provider/
 categories:
   - Blog
 

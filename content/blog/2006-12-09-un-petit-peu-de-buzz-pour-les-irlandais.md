@@ -1,9 +1,8 @@
 ---
 title: Un petit peu de buzz pour les Irlandais
 author: "Conor O'Neill"
-type: post
 date: 2006-12-09T12:46:10+00:00
-url: /2006/12/09/un-petit-peu-de-buzz-pour-les-irlandais/
+url: /blog/2006/12/09/un-petit-peu-de-buzz-pour-les-irlandais/
 categories:
   - Blog
 

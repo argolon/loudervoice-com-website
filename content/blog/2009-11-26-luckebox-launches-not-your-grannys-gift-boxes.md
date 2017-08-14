@@ -1,9 +1,8 @@
 ---
 title: Luckebox launches. Not your granny’s gift boxes
 author: "Conor O'Neill"
-type: post
 date: 2009-11-26T09:13:59+00:00
-url: /2009/11/26/luckebox-launches-not-your-grannys-gift-boxes/
+url: /blog/2009/11/26/luckebox-launches-not-your-grannys-gift-boxes/
 categories:
   - Blog
 tags:

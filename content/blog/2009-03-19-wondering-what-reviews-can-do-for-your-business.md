@@ -1,9 +1,8 @@
 ---
 title: Wondering what reviews can do for your business?
 author: "Conor O'Neill"
-type: post
 date: 2009-03-19T13:17:23+00:00
-url: /2009/03/19/wondering-what-reviews-can-do-for-your-business/
+url: /blog/2009/03/19/wondering-what-reviews-can-do-for-your-business/
 categories:
   - Blog
 tags:

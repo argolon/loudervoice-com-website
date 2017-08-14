@@ -1,9 +1,8 @@
 ---
 title: LouderVoice a finalist in the Irish Web Awards
 author: "Conor O'Neill"
-type: post
 date: 2010-10-11T16:32:20+00:00
-url: /2010/10/11/loudervoice-a-finalist-in-the-irish-web-awards/
+url: /blog/2010/10/11/loudervoice-a-finalist-in-the-irish-web-awards/
 categories:
   - Blog
 tags:

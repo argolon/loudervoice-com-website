@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Reviews on Fitzgerald Group Hotels
 author: "Conor O'Neill"
-type: post
 date: 2009-10-12T08:15:39+00:00
-url: /2009/10/12/loudervoice-reviews-on-fitzgerald-group-hotels/
+url: /blog/2009/10/12/loudervoice-reviews-on-fitzgerald-group-hotels/
 categories:
   - Blog
 tags:

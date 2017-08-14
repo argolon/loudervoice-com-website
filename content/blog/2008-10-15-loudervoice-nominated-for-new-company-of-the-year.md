@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Nominated for New Company of The Year
 author: "Conor O'Neill"
-type: post
 date: 2008-10-15T14:56:34+00:00
-url: /2008/10/15/loudervoice-nominated-for-new-company-of-the-year/
+url: /blog/2008/10/15/loudervoice-nominated-for-new-company-of-the-year/
 categories:
   - Blog
 tags:

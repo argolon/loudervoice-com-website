@@ -1,9 +1,8 @@
 ---
 title: LouderVoice Reviews for Google Android
 author: "Conor O'Neill"
-type: post
 date: 2009-05-23T15:15:37+00:00
-url: /2009/05/23/loudervoice-reviews-for-google-android/
+url: /blog/2009/05/23/loudervoice-reviews-for-google-android/
 categories:
   - Blog
 tags:

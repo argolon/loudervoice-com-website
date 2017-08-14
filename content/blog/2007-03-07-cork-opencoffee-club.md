@@ -1,9 +1,8 @@
 ---
 title: Cork OpenCoffee Club
 author: "Conor O'Neill"
-type: post
 date: 2007-03-07T23:01:40+00:00
-url: /2007/03/07/cork-opencoffee-club/
+url: /blog/2007/03/07/cork-opencoffee-club/
 categories:
   - Blog
 

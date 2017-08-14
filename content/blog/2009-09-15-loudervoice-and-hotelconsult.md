@@ -1,9 +1,8 @@
 ---
 title: LouderVoice and HotelConsult
 author: "Conor O'Neill"
-type: post
 date: 2009-09-15T09:54:18+00:00
-url: /2009/09/15/loudervoice-and-hotelconsult/
+url: /blog/2009/09/15/loudervoice-and-hotelconsult/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: Internet shoppers rate recommendations and user reviews over price
 author: "Conor O'Neill"
-type: post
 date: 2009-04-08T16:06:52+00:00
-url: /2009/04/08/internet-shoppers-rate-personal-recommendations-and-user-reviews-over-price/
+url: /blog/2009/04/08/internet-shoppers-rate-personal-recommendations-and-user-reviews-over-price/
 categories:
   - Blog
 tags:

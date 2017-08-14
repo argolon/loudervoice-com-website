@@ -1,9 +1,8 @@
 ---
 title: LouderVoice in Ireland Demozone at Le Web
 author: "Conor O'Neill"
-type: post
 date: 2010-12-02T09:58:07+00:00
-url: /2010/12/02/loudervoice-in-ireland-demozone-at-le-web/
+url: /blog/2010/12/02/loudervoice-in-ireland-demozone-at-le-web/
 categories:
   - Blog
 tags:

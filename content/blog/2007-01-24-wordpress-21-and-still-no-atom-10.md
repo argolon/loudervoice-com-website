@@ -1,9 +1,8 @@
 ---
 title: WordPress 2.1 and still no ATOM 1.0?
 author: "Conor O'Neill"
-type: post
 date: 2007-01-24T23:34:31+00:00
-url: /2007/01/24/wordpress-21-and-still-no-atom-10/
+url: /blog/2007/01/24/wordpress-21-and-still-no-atom-10/
 categories:
   - Blog
 

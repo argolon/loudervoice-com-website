@@ -1,9 +1,8 @@
 ---
 title: LouderVoice sponsoring The Irish Blog Awards
 author: "Conor O'Neill"
-type: post
 date: 2008-01-15T10:10:25+00:00
-url: /2008/01/15/loudervoice-sponsoring-the-irish-blog-awards/
+url: /blog/2008/01/15/loudervoice-sponsoring-the-irish-blog-awards/
 categories:
   - Blog
 

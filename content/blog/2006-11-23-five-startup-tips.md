@@ -1,9 +1,8 @@
 ---
 title: Five Startup Tips
 author: "Conor O'Neill"
-type: post
 date: 2006-11-23T16:40:18+00:00
-url: /2006/11/23/five-startup-tips/
+url: /blog/2006/11/23/five-startup-tips/
 categories:
   - Blog
 

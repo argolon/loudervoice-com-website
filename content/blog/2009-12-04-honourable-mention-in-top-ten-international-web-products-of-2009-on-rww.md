@@ -1,9 +1,8 @@
 ---
 title: Honourable Mention in Top Ten International Web Products of 2009 on RWW
 author: "Conor O'Neill"
-type: post
 date: 2009-12-04T14:03:17+00:00
-url: /2009/12/04/honourable-mention-in-top-ten-international-web-products-of-2009-on-rww/
+url: /blog/2009/12/04/honourable-mention-in-top-ten-international-web-products-of-2009-on-rww/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: Rapid Web Applications With TurboGears is now shipping
 author: "Conor O'Neill"
-type: post
 date: 2006-11-19T14:17:05+00:00
-url: /2006/11/19/rapid-web-applications-with-turbogears-is-now-shipping/
+url: /blog/2006/11/19/rapid-web-applications-with-turbogears-is-now-shipping/
 categories:
   - Blog
 

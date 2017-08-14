@@ -1,9 +1,8 @@
 ---
 title: Castlemartyr Resort gives its guests a LouderVoice
 author: "Catherine O'Neill"
-type: post
 date: 2009-11-13T09:46:37+00:00
-url: /2009/11/13/castlemartyr-resort-gives-its-guests-a-loudervoice/
+url: /blog/2009/11/13/castlemartyr-resort-gives-its-guests-a-loudervoice/
 categories:
   - Blog
 

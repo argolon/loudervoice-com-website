@@ -1,9 +1,8 @@
 ---
 title: Chips in Tipp
 author: "Conor O'Neill"
-type: post
 date: 2008-02-27T10:11:07+00:00
-url: /2008/02/27/chips-in-tipp/
+url: /blog/2008/02/27/chips-in-tipp/
 categories:
   - Blog
 tags:

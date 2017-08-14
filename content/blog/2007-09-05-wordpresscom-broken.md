@@ -1,9 +1,8 @@
 ---
 title: WordPress.com Broken
 author: "Conor O'Neill"
-type: post
 date: 2007-09-05T20:47:54+00:00
-url: /2007/09/05/wordpresscom-broken/
+url: /blog/2007/09/05/wordpresscom-broken/
 categories:
   - Blog
 

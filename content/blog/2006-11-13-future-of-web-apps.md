@@ -1,9 +1,8 @@
 ---
 title: Future of Web Apps
 author: "Conor O'Neill"
-type: post
 date: 2006-11-13T10:29:06+00:00
-url: /2006/11/13/future-of-web-apps/
+url: /blog/2006/11/13/future-of-web-apps/
 categories:
   - Blog
 

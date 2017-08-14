@@ -1,9 +1,8 @@
 ---
 title: Easy Blog Reviews with Flag Tags
 author: "Conor O'Neill"
-type: post
 date: 2008-01-29T01:44:19+00:00
-url: /2008/01/29/easy-blog-reviews-with-flag-tags/
+url: /blog/2008/01/29/easy-blog-reviews-with-flag-tags/
 categories:
   - Blog
 tags:

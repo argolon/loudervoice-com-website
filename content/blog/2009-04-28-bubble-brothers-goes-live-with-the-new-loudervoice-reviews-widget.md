@@ -1,9 +1,8 @@
 ---
 title: Bubble Brothers goes live with the new LouderVoice Reviews Widget
 author: "Conor O'Neill"
-type: post
 date: 2009-04-28T18:05:10+00:00
-url: /2009/04/28/bubble-brothers-goes-live-with-the-new-loudervoice-reviews-widget/
+url: /blog/2009/04/28/bubble-brothers-goes-live-with-the-new-loudervoice-reviews-widget/
 categories:
   - Blog
 tags:

@@ -1,9 +1,8 @@
 ---
 title: Parcel 2 Ship
 author: sabrina
-type: post
 date: 2009-10-05T07:58:41+00:00
-url: /2009/10/05/juilan-bubble-brothers/
+url: /blog/2009/10/05/juilan-bubble-brothers/
 categories:
   - Customers
 

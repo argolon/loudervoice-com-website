@@ -1,9 +1,8 @@
 ---
 title: Third Competition Winner
 author: "Conor O'Neill"
-type: post
 date: 2008-02-04T13:10:36+00:00
-url: /2008/02/04/third-competition-winner/
+url: /blog/2008/02/04/third-competition-winner/
 categories:
   - Blog
 tags:

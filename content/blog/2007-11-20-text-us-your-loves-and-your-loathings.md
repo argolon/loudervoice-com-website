@@ -1,9 +1,8 @@
 ---
 title: Text Us Your Loves and Your Loathings
 author: "Conor O'Neill"
-type: post
 date: 2007-11-20T16:48:46+00:00
-url: /2007/11/20/text-us-your-loves-and-your-loathings/
+url: /blog/2007/11/20/text-us-your-loves-and-your-loathings/
 categories:
   - Blog
 

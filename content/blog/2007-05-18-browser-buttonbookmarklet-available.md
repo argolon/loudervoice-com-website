@@ -1,9 +1,8 @@
 ---
 title: Browser Button/Bookmarklet Available
 author: "Conor O'Neill"
-type: post
 date: 2007-05-18T14:42:22+00:00
-url: /2007/05/18/browser-buttonbookmarklet-available/
+url: /blog/2007/05/18/browser-buttonbookmarklet-available/
 categories:
   - Blog
 

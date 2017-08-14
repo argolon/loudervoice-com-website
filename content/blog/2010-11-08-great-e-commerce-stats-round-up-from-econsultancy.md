@@ -1,9 +1,8 @@
 ---
 title: Great e-commerce stats round up from Econsultancy
 author: "Conor O'Neill"
-type: post
 date: 2010-11-08T07:22:36+00:00
-url: /2010/11/08/great-e-commerce-stats-round-up-from-econsultancy/
+url: /blog/2010/11/08/great-e-commerce-stats-round-up-from-econsultancy/
 categories:
   - Blog
 tags:

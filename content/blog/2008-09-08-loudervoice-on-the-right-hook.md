@@ -1,9 +1,8 @@
 ---
 title: LouderVoice on The Right Hook
 author: "Conor O'Neill"
-type: post
 date: 2008-09-08T15:13:13+00:00
-url: /2008/09/08/loudervoice-on-the-right-hook/
+url: /blog/2008/09/08/loudervoice-on-the-right-hook/
 categories:
   - Blog
 tags:

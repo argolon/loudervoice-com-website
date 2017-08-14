@@ -1,9 +1,8 @@
 ---
 title: LouderVoice nominated in The Europas
 author: "Conor O'Neill"
-type: post
 date: 2009-06-24T19:01:04+00:00
-url: /2009/06/24/loudervoice-nominated-in-the-europas/
+url: /blog/2009/06/24/loudervoice-nominated-in-the-europas/
 categories:
   - Blog
 tags:

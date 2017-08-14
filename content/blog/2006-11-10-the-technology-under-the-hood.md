@@ -1,9 +1,8 @@
 ---
 title: The technology under the hood
 author: "Conor O'Neill"
-type: post
 date: 2006-11-10T10:44:16+00:00
-url: /2006/11/10/the-technology-under-the-hood/
+url: /blog/2006/11/10/the-technology-under-the-hood/
 categories:
   - Blog
 

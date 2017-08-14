@@ -1,9 +1,8 @@
 ---
 title: Think LouderVoice should win a Europa Award?
 author: "Conor O'Neill"
-type: post
 date: 2010-10-27T15:55:35+00:00
-url: /2010/10/27/think-loudervoice-should-win-a-europa-award/
+url: /blog/2010/10/27/think-loudervoice-should-win-a-europa-award/
 categories:
   - Blog
 tags:

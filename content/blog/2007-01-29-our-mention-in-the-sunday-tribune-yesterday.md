@@ -1,9 +1,8 @@
 ---
 title: Our mention in The Sunday Tribune yesterday
 author: "Conor O'Neill"
-type: post
 date: 2007-01-29T09:15:22+00:00
-url: /2007/01/29/our-mention-in-the-sunday-tribune-yesterday/
+url: /blog/2007/01/29/our-mention-in-the-sunday-tribune-yesterday/
 categories:
   - Blog
 

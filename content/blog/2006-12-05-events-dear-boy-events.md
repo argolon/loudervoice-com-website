@@ -1,9 +1,8 @@
 ---
 title: Events, dear boy, events.
 author: "Conor O'Neill"
-type: post
 date: 2006-12-05T08:23:09+00:00
-url: /2006/12/05/events-dear-boy-events/
+url: /blog/2006/12/05/events-dear-boy-events/
 categories:
   - Blog
 

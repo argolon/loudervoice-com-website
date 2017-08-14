@@ -1,9 +1,8 @@
 ---
 title: LouderVoice for Business shortlisted for Golden Spiders 2009
 author: "Catherine O'Neill"
-type: post
 date: 2009-11-06T14:31:00+00:00
-url: /2009/11/06/loudervoice-for-business-shortlisted-for-golden-spiders-2009/
+url: /blog/2009/11/06/loudervoice-for-business-shortlisted-for-golden-spiders-2009/
 categories:
   - Blog
 

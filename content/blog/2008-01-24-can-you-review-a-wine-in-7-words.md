@@ -1,9 +1,8 @@
 ---
 title: Can you review a wine in 7 words?
 author: "Conor O'Neill"
-type: post
 date: 2008-01-24T18:39:09+00:00
-url: /2008/01/24/can-you-review-a-wine-in-7-words/
+url: /blog/2008/01/24/can-you-review-a-wine-in-7-words/
 categories:
   - Blog
 

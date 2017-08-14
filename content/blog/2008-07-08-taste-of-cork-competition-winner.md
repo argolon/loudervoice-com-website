@@ -1,9 +1,8 @@
 ---
 title: Taste of Cork Competition Winner
 author: "Conor O'Neill"
-type: post
 date: 2008-07-08T17:00:32+00:00
-url: /2008/07/08/taste-of-cork-competition-winner/
+url: /blog/2008/07/08/taste-of-cork-competition-winner/
 categories:
   - Blog
 tags:

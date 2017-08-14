@@ -1,9 +1,8 @@
 ---
 title: A new look for LouderVoice for business
 author: "Conor O'Neill"
-type: post
 date: 2009-11-05T16:31:51+00:00
-url: /2009/11/05/a-new-look-for-loudervoice-for-business/
+url: /blog/2009/11/05/a-new-look-for-loudervoice-for-business/
 categories:
   - Blog
 

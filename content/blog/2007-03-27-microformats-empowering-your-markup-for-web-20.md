@@ -1,9 +1,8 @@
 ---
 title: Microformats – empowering your markup for Web 2.0
 author: "Conor O'Neill"
-type: post
 date: 2007-03-27T07:53:29+00:00
-url: /2007/03/27/microformats-empowering-your-markup-for-web-20/
+url: /blog/2007/03/27/microformats-empowering-your-markup-for-web-20/
 categories:
   - Blog
 

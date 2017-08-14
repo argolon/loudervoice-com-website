@@ -1,9 +1,8 @@
 ---
 title: Cloud Computing Summit Reviews
 author: "Conor O'Neill"
-type: post
 date: 2009-09-15T10:44:44+00:00
-url: /2009/09/15/cloud-computing-summit-reviews/
+url: /blog/2009/09/15/cloud-computing-summit-reviews/
 categories:
   - Blog
 tags:

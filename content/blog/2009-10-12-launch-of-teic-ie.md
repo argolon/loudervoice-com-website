@@ -1,9 +1,8 @@
 ---
 title: Launch of teic.ie
 author: "Conor O'Neill"
-type: post
 date: 2009-10-12T13:01:51+00:00
-url: /2009/10/12/launch-of-teic-ie/
+url: /blog/2009/10/12/launch-of-teic-ie/
 categories:
   - Blog
 tags:

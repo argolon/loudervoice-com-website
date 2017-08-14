@@ -1,9 +1,8 @@
 ---
 title: Well that was a surprise!
 author: "Conor O'Neill"
-type: post
 date: 2006-11-29T09:42:07+00:00
-url: /2006/11/29/well-that-was-a-surprise/
+url: /blog/2006/11/29/well-that-was-a-surprise/
 categories:
   - Blog
 

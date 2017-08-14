@@ -1,9 +1,8 @@
 ---
 title: Parcel2Ship Reviews Powered by LouderVoice
 author: "Conor O'Neill"
-type: post
 date: 2010-07-30T09:57:54+00:00
-url: /2010/07/30/parcel2ship-reviews-powered-by-loudervoice/
+url: /blog/2010/07/30/parcel2ship-reviews-powered-by-loudervoice/
 categories:
   - Blog
 tags:

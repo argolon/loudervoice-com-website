@@ -1,9 +1,8 @@
 ---
 title: New look and improved functionality
 author: "Conor O'Neill"
-type: post
 date: 2007-02-27T10:25:59+00:00
-url: /2007/02/27/new-look-and-improved-functionality/
+url: /blog/2007/02/27/new-look-and-improved-functionality/
 categories:
   - Blog
 

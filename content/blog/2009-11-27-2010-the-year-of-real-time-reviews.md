@@ -1,9 +1,8 @@
 ---
 title: 2010 The Year of Real-Time Reviews?
 author: "Conor O'Neill"
-type: post
 date: 2009-11-27T09:51:26+00:00
-url: /2009/11/27/2010-the-year-of-real-time-reviews/
+url: /blog/2009/11/27/2010-the-year-of-real-time-reviews/
 categories:
   - Blog
 tags:

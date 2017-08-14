@@ -1,9 +1,8 @@
 ---
 title: LouderVoice for Business launched
 author: "Conor O'Neill"
-type: post
 date: 2008-10-06T22:11:44+00:00
-url: /2008/10/06/loudervoice-for-business-launched/
+url: /blog/2008/10/06/loudervoice-for-business-launched/
 categories:
   - Blog
 tags:
