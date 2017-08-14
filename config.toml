@@ -27,25 +27,14 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Pricing"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
-
-[[menu.main]]
     name = "Contact"
-    url  = "/contact-us/"
+    url  = "/contact/"
     weight = 4
 
 [[menu.main]]
-    name = "Industry Solutions"
-    url  = "/industry-solutions/"
+    name = "Our Reviews"
+    url  = "/our-reviews/"
     weight = 5
-
-[[menu.main]]
-    name = "Examples"
-    url  = "/customers/"
-    weight = 6
 
 # Top bar social links menu
 
@@ -75,7 +64,7 @@ paginate = 10
     defaultDescription = "Customer Reviews for your site"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = ""
+    googleMapsApiKey = "AIzaSyBzyDSCd0uJ-xyJ8HUjPDPc8Ta7Whsaeq4"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
@@ -95,8 +84,8 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "sales@argolon.com"
 
-    about_us = "<p>Fueling your sales with customer reviews.</p>"
-    copyright = "Copyright (c) 2006 - 2017, Argolon Solutions Ltd; all rights reserved."
+    about_us = '<p><a href="/terms-and-conditions">Terms and Conditions</a></p><p><a href="/privacy-policy">Privacy Policy</a></p><p><a href="/credits">Credits</a></p>'
+    copyright = "Copyright (c) 2006 - 2017, Argolon Solutions Ltd; all rights reserved. "
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -152,7 +141,7 @@ paginate = 10
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
@@ -164,10 +153,10 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Some of Our Clients"
     subtitle = ""
 
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = '<a href="/blog">Read all</a> of our posts about customer reviews and why they make sense for your business. If you have not embraced customer feedback yet, let us help you do so.'
