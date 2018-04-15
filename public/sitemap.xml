@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://www.loudervoice.com/blog/2013/03/27/2013-03-27-new-features-help-you-to-connect-better-with-your-customers-using-reviews/</loc>
@@ -2522,12 +2523,6 @@
   </url>
   
   <url>
-    <loc>https://www.loudervoice.com/tags/review-and-rate/</loc>
-    <lastmod>2010-04-19T17:22:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.loudervoice.com/tags/review-api/</loc>
     <lastmod>2010-04-07T17:29:13+00:00</lastmod>
     <priority>0</priority>
@@ -2560,6 +2555,12 @@
   <url>
     <loc>https://www.loudervoice.com/tags/review-widgets/</loc>
     <lastmod>2009-11-07T17:39:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loudervoice.com/tags/review-and-rate/</loc>
+    <lastmod>2010-04-19T17:22:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
