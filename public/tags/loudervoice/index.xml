@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2006 - 2017, Argolon Solutions Ltd; all rights reserved. </copyright>
-    <lastBuildDate>Wed, 27 Mar 2013 10:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Apr 2018 08:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.loudervoice.com/tags/loudervoice/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Updated Privacy Policy and Consent</title>
+      <link>https://www.loudervoice.com/blog/2018/04/24/2018-04-24-updated-privacy-policy-and-consent/</link>
+      <pubDate>Tue, 24 Apr 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://www.loudervoice.com/blog/2018/04/24/2018-04-24-updated-privacy-policy-and-consent/</guid>
+      <description>We have updated our privacy policy to include GDPR provisions. This includes information on how to request that your personal information be deleted from our systems.
+In addition, anyone submitting reviews using our solution on our clients&amp;rsquo; sites must now actively provide their consent that their name and email address can be shared with LouderVoice.</description>
+    </item>
     
     <item>
       <title>New features help you to connect better with your customers using reviews</title>
