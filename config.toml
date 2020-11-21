@@ -86,8 +86,6 @@ paginate = 10
         <strong>Ireland</strong>
       </p>
       """
-    latitude = "51.7350423"
-    longitude = "-8.7519707"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
