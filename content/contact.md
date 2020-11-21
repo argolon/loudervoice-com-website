@@ -5,7 +5,10 @@ id = "contact"
 
 # We are here to help you
 
-Please contact us with any questions about the service or any sales enquiries.
+Existing customers can email us at <a href="mailto:support@loudervoice.com">support@loudervoice.com</a>. 
+
+As of November 2020, we are no longer accepting new customers for our reviews service.
+
 
 <p>Argolon Solutions Ltd</p>
 <p>Old Chapel, Bandon, Co Cork, Ireland</p>

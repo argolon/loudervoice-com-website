@@ -68,29 +68,11 @@ paginate = 10
     defaultKeywords = ["loudervoice", "reviews", "feedback"]
     defaultDescription = "Customer Reviews for your site"
 
-    # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyBzyDSCd0uJ-xyJ8HUjPDPc8Ta7Whsaeq4"
-
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
 
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    #
-    # Enable the contact form by entering your Formspree.io email
-    email = "sales@argolon.com"
-
     about_us = '<p><a href="/terms-and-conditions">Terms and Conditions</a></p><p><a href="/privacy-policy">Privacy Policy</a></p><p><a href="/credits">Credits</a></p>'
-    copyright = "Copyright (c) 2006 - 2017, Argolon Solutions Ltd; all rights reserved. "
+    copyright = "Copyright (c) 2006 - 2020, Argolon Solutions Ltd; all rights reserved. "
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
