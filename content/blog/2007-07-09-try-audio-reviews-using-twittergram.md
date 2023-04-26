@@ -12,19 +12,19 @@ We thought we&#8217;d have some fun with [Dave Winer][1]&#8216;s [TwitterGram][2
 If you want to do an audio review it really is trivial.
 
   * Sign Up on [Twitter][5]
-[<img src="http://www.loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/761605460_924d67e8db_m.jpg" width="201" height="240" alt="Twitter Signup" />][6]
+[<img src="https://loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/761605460_924d67e8db_m.jpg" width="201" height="240" alt="Twitter Signup" />][6]
 
   * Add the Twitter user &#8220;[review][7]&#8221; as a friend
-[<img src="http://www.loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/760745207_ae5883d16d_m.jpg" width="240" height="163" alt="Adding &quot;review&quot; user on Twitter" />][8]
+[<img src="https://loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/760745207_ae5883d16d_m.jpg" width="240" height="163" alt="Adding &quot;review&quot; user on Twitter" />][8]
 
   * Add the twitter user &#8220;[twittergram][9]&#8221; as a friend
-[<img src="http://www.loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/760745973_fdef1015e1_m.jpg" width="240" height="170" alt="Adding twittergram user on Twitter" />][10]
+[<img src="https://loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/760745973_fdef1015e1_m.jpg" width="240" height="170" alt="Adding twittergram user on Twitter" />][10]
 
   * Record your review as an MP3. I use [Audacity][11] on Windows. Please suggest better/easier tools in the comments! We&#8217;ve also had good success with [Evoca][12], an online recorder, so you don&#8217;t even need to install anything.
-[<img src="http://www.loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/761606022_ba01e92fb1_m.jpg" width="240" height="188" alt="Audacity Sound  Recorder" />][13]
+[<img src="https://loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/761606022_ba01e92fb1_m.jpg" width="240" height="188" alt="Audacity Sound  Recorder" />][13]
 
   * Go to [TwitterGram][2] to upload your MP3
-[<img src="http://www.loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/761606440_304525fde0_m.jpg" width="240" height="235" alt="Front page of TwitterGram" />][14]
+[<img src="https://loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/761606440_304525fde0_m.jpg" width="240" height="235" alt="Front page of TwitterGram" />][14]
 
   * The Title of the TwitterGram must be in this format:
   * @review 5 Heroes TV Series. Audio:
@@ -33,11 +33,11 @@ If you want to do an audio review it really is trivial.
 
 You&#8217;ll now have a new Tweet on twitter with a link to your MP3.
 
-[<img src="http://www.loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/760747039_5533c58121_m.jpg" width="240" height="213" alt="The TwitterGram on Twitter" />][15]
+[<img src="https://loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/760747039_5533c58121_m.jpg" width="240" height="213" alt="The TwitterGram on Twitter" />][15]
 
 Within thirty minutes, that review can be found, rated, bookmarked and grouped on LouderVoice.
 
-[<img src="http://www.loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/761604808_d42da707e6_m.jpg" width="240" height="183" alt="The TwitterGram found on LouderVoice" />][16]
+[<img src="https://loudervoice.com/wp-content/uploads/2007/07/09/try-audio-reviews-using-twittergram/761604808_d42da707e6_m.jpg" width="240" height="183" alt="The TwitterGram found on LouderVoice" />][16]
 
 Let us know how you get on.
 

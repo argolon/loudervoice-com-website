@@ -29,7 +29,7 @@ However, many clients would also like to see Star Ratings in search associated d
 
 It means that Expression Engine sites can also have results like this in Google Search:
 
-[<img class="wp-image-2722 aligncenter" title="astutehr" src="http://www.loudervoice.com/wp-content/uploads/2012/05/02/loudervoice-reviews-seo-add-on-for-asp-net-just-released/astutehr1.png" alt="" width="554" height="269" />][3]
+[<img class="wp-image-2722 aligncenter" title="astutehr" src="https://www.loudervoice.com/wp-content/uploads/2012/05/02/loudervoice-reviews-seo-add-on-for-asp-net-just-released/astutehr1.png" alt="" width="554" height="269" />][3]
 
 We have found that deployment takes just an extra few minutes over our JavaScript solutions. A simple template change is all that is required.
 
@@ -37,4 +37,4 @@ Any questions at all about this, drop us a line via email or on Live Chat.
 
  [1]: http://www.louderyou.com/
  [2]: http://expressionengine.com/
- [3]: http://www.loudervoice.com/wp-content/uploads/2012/05/02/loudervoice-reviews-seo-add-on-for-asp-net-just-released/astutehr1.png
+ [3]: https://www.loudervoice.com/wp-content/uploads/2012/05/02/loudervoice-reviews-seo-add-on-for-asp-net-just-released/astutehr1.png

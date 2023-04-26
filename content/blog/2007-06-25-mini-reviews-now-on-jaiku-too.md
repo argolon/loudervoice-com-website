@@ -29,10 +29,10 @@ Of course if you have registered your mobile with Jaiku, you can send reviews fr
   * #reviews 3 Oyster Bay Sauvignon Blanc. Cheap for Marlborough. Not at Villa Maria or Montana level
   * That&#8217;s all there is to it! Give it a twirl. We have some fun ideas for it that we&#8217;ll announce next week
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/
  [2]: http://twitter.com/
  [3]: http://jaiku.com/
  [4]: http://www.jaiku.com/
  [5]: http://jaiku.com/channel/reviews
  [6]: http://jaiku.com/channel/reviews/presence/5136802
- [7]: http://www.loudervoice.com/search?q=Oyster+Bay
+ [7]: https://loudervoice.com/search?q=Oyster+Bay

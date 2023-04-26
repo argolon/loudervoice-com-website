@@ -21,7 +21,7 @@ Based on this user feedback, we are now launching Simple SMS Reviews. The idea h
 <div class="mceTemp">
   <dl id="attachment_132" class="wp-caption alignnone" style="width: 250px;">
     <dt class="wp-caption-dt">
-      <a href="http://www.loudervoice.com/wp-content/uploads/2008/09/simple_sms_01.jpg"><img class="size-full wp-image-132" title="Simple SMS" src="http://www.loudervoice.com/wp-content/uploads/2008/09/simple_sms_01.jpg" alt="How to send Simple SMS to LouderVoice" width="240" height="320" /></a>
+      <a href="https://loudervoice.com/wp-content/uploads/2008/09/simple_sms_01.jpg"><img class="size-full wp-image-132" title="Simple SMS" src="https://loudervoice.com/wp-content/uploads/2008/09/simple_sms_01.jpg" alt="How to send Simple SMS to LouderVoice" width="240" height="320" /></a>
     </dt>
     
     <dd class="wp-caption-dd">
@@ -36,7 +36,7 @@ Based on this user feedback, we are now launching Simple SMS Reviews. The idea h
 <div class="mceTemp">
   <dl id="attachment_132" class="wp-caption alignnone" style="width: 250px;">
     <dt class="wp-caption-dt">
-      <a href="http://www.loudervoice.com/wp-content/uploads/2008/09/simple_sms_01.jpg"><img class="size-full wp-image-132" title="Simple SMS" src="http://www.loudervoice.com/wp-content/uploads/2008/09/simple_sms_01.jpg" alt="How to send Simple SMS to LouderVoice" width="240" height="320" /></a>
+      <a href="https://loudervoice.com/wp-content/uploads/2008/09/simple_sms_01.jpg"><img class="size-full wp-image-132" title="Simple SMS" src="https://loudervoice.com/wp-content/uploads/2008/09/simple_sms_01.jpg" alt="How to send Simple SMS to LouderVoice" width="240" height="320" /></a>
     </dt>
     
     <dd class="wp-caption-dd">
@@ -61,4 +61,4 @@ The main things to note are:
   Try it out and let us know what you think. If you run into any problems, let us know over on <a href="http://getsatisfaction.com/loudervoice">Get Satisfaction</a>.
 </div>
 
- [1]: http://www.loudervoice.com/wp-content/uploads/2008/09/simplesms01.jpg
+ [1]: https://loudervoice.com/wp-content/uploads/2008/09/simplesms01.jpg

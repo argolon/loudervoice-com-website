@@ -34,7 +34,7 @@ We&#8217;ve had a fantastic year in [LouderVoice][1] and it looks like 2009 is g
   * In November, our first B2B client, [Klipsch][8], went live
   * In December we successfully closed a BES investment round which will ensure our continued success through 2009
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/
  [2]: http://business.loudervoice.com/2008/01/29/easy-blog-reviews-with-flag-tags/
  [3]: http://www.awards.ie/
  [4]: http://getsatisfaction.com/loudervoice

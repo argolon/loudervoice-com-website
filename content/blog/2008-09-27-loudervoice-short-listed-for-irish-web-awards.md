@@ -29,7 +29,7 @@ If we were excited to be on the long-list, we&#8217;re utterly gobsmacked to be 
 
 Ã‚Â We&#8217;re days away from formally launching LouderVoice for Business. Watch this space.
 
-<span style="color: #0000ee; text-decoration: underline;"><a href="http://www.loudervoice.com/wp-content/uploads/2008/09/lv4biz.jpg"></a><a href="http://www.loudervoice.com/wp-content/uploads/2008/09/lv4biz2.jpg"><img class="alignnone size-medium wp-image-140" title="lv4biz2" src="http://www.loudervoice.com/wp-content/uploads/2008/09/lv4biz2-300x115.jpg" alt="" width="300" height="115" /></a></span>
+<span style="color: #0000ee; text-decoration: underline;"><a href="https://loudervoice.com/wp-content/uploads/2008/09/lv4biz.jpg"></a><a href="https://loudervoice.com/wp-content/uploads/2008/09/lv4biz2.jpg"><img class="alignnone size-medium wp-image-140" title="lv4biz2" src="https://loudervoice.com/wp-content/uploads/2008/09/lv4biz2-300x115.jpg" alt="" width="300" height="115" /></a></span>
 
  [1]: http://awards.ie/webawards/2008/09/shortlist-for-best-new-web-applicationservice/
  [2]: http://bookmeetingroom.com/

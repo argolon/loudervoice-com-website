@@ -45,6 +45,6 @@ Based on the reviews of [Taste Of Dublin][6] recently, this should be a great fe
  [1]: http://79.170.40.33/tastefestivals.ie/index.php?option=com_content&task=view&id=73&Itemid=92
  [2]: http://www.ummera.com/wordpress/?p=117
  [3]: http://www.bubblebrothers.com/blog
- [4]: http://www.loudervoice.com/mobile
+ [4]: https://loudervoice.com/mobile
  [5]: http://spicendipity.com/
- [6]: http://www.loudervoice.com/tags/Taste%20of%20dublin
+ [6]: https://loudervoice.com/tags/Taste%20of%20dublin

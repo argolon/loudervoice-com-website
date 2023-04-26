@@ -21,7 +21,7 @@ We were terribly disappointed last Thursday that massive flooding in West Cork p
 So imagine our shock to hear that [we won the e-business category][2]! We were up against some incredibly impressive competition. Getting this recognition from our industry peers on the judging panel really is satisfying.
 
 <p style="text-align: center;">
-  <img class="aligncenter" title="LouderVoice Golden Spiders e-business" src="http://www.loudervoice.com/wp-content/uploads/2009/11/22/loudervoice-wins-a-golden-spider/winner_5.jpg" alt="" width="480" height="360" />
+  <img class="aligncenter" title="LouderVoice Golden Spiders e-business" src="https://loudervoice.com/wp-content/uploads/2009/11/22/loudervoice-wins-a-golden-spider/winner_5.jpg" alt="" width="480" height="360" />
 </p>
 
 The timing couldn&#8217;t be better. November sees us announce our 2009 BES for investors, win that award, launch on our first major US site (stay tuned!),Â  and announce our channel partner program (also stay tuned!). You can expect even more big announcements at [Le Web][3] in Paris on Dec 9th and 10th.

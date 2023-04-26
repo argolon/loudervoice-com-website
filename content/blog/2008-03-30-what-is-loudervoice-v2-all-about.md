@@ -30,5 +30,5 @@ We are going live very soon with our API on a major partner site. Our SMS custom
 
 And you wondered why we had been so quiet here!
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/
  [2]: http://doepud.co.uk/

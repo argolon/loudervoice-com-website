@@ -26,4 +26,4 @@ So who should sign up? Actually a few different groups of people.
 
 So go on, we&#8217;re sure you are going to love this site and the only thing you need to provide is your e-mail address. We promise never to use it for any purpose other than inviting you to try the Beta. We will never sell your e-mail address to anyone.
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/

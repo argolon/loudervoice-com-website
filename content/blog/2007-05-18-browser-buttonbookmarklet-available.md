@@ -15,5 +15,5 @@ Head on over to [our extras page][2] for information on how to put the button in
 
 Our Firefox plug-in which does this even more slickly is imminent!
 
- [1]: http://www.loudervoice.com/
- [2]: http://www.loudervoice.com/extras
+ [1]: https://loudervoice.com/
+ [2]: https://loudervoice.com/extras

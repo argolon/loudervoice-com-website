@@ -41,7 +41,7 @@ With 65% of restaurants owning a website, very few have been upgraded to include
 LouderVoice CEO Conor O&#8217;Neill highlighted: &#8220;Piecemeal online offerings simply don&#8217;t add-up for most businesses. They need something that just works, straight out of the box. By partnering with FohBoh and PMG, we are turning the Social Media Challenge into the Social Media Opportunity for all foodservice operations.&#8221;
 
 <p style="text-align: center;">
-  <a href="http://www.custombuiltpizza.com/page/home"><img class=" wp-image-2646 aligncenter" title="custombuilt" src="http://www.loudervoice.com/wp-content/uploads/2012/07/custombuilt.png" alt="" width="560" height="453" srcset="/wp-content/uploads/2012/07/custombuilt.png 800w, /wp-content/uploads/2012/07/custombuilt-300x242.png 300w" sizes="(max-width: 560px) 100vw, 560px" /></a>
+  <a href="http://www.custombuiltpizza.com/page/home"><img class=" wp-image-2646 aligncenter" title="custombuilt" src="https://loudervoice.com/wp-content/uploads/2012/07/custombuilt.png" alt="" width="560" height="453" srcset="/wp-content/uploads/2012/07/custombuilt.png 800w, /wp-content/uploads/2012/07/custombuilt-300x242.png 300w" sizes="(max-width: 560px) 100vw, 560px" /></a>
 </p>
 
 The first client for this new social website product, is [Custom Built Pizza][4], a fast casual “chipotle-like” restaurant that serves up wood fired artisan pizza instead of a burrito. Custom Built opened its first location in Las Vegas in June 2012.
@@ -67,7 +67,7 @@ Conor O&#8217;Neill, LouderVoice Reviews, conor@loudervoice.com, www.loudervoice
 Creed Ford IV, PMG, cford@pictoric.com, www.pictoric.com, 866-496-9998
 
  [1]: http://www.fohboh.com
- [2]: http://www.loudervoice.com/
+ [2]: https://loudervoice.com/
  [3]: http://www.pictoric.com
  [4]: http://www.custombuiltpizza.com/page/home
  [5]: http://www.fohboh,com

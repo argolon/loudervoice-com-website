@@ -18,7 +18,7 @@ tags:
 We&#8217;re absolutely delighted to be nominated in the inaugural [Europa Awards][1] in the category of [Best Web Application or Service][2] (EMEA). The Europas are the Techcrunch Europe technology innovation awards for European tech companies and the ceremony will be held on July 9 in London. Public voting is now open in all categories.
 
 <p style="text-align: center;">
-  <a href="http://uk.techcrunch.com/2009/06/24/the-europas-voting-opens-in-the-european-tech-awards/"><img class="aligncenter" title="The Europas" src="http://www.loudervoice.com/wp-content/uploads/2009/06/24/loudervoice-nominated-in-the-europas/tc_europas82.jpg" alt="" width="312" height="100" /></a>
+  <a href="http://uk.techcrunch.com/2009/06/24/the-europas-voting-opens-in-the-european-tech-awards/"><img class="aligncenter" title="The Europas" src="https://loudervoice.com/wp-content/uploads/2009/06/24/loudervoice-nominated-in-the-europas/tc_europas82.jpg" alt="" width="312" height="100" /></a>
 </p>
 
 Major congratulations also go to Joe Drumgoole of [Putplace][3] who is nominated in the Best Startup Founder(s) (EMEA) category ([Vote here][4]) and [Decisions for Heroes][5] which is nominated in the Best Social Innovation (which benefits society, EMEA) category. ([Vote here][6]).

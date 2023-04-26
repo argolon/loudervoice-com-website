@@ -17,7 +17,7 @@ We&#8217;ve had lots of feedback that our support mechanisms on LouderVoice were
 You&#8217;ll see the Get Satisfaction logo in the sidebar of every page. If you run into any problems at all with the site or find things you don&#8217;t understand, then click on the logo. As time goes by, hopefully you&#8217;ll find a solution or answer already there.
 
 <p style="text-align: center;">
-  <a href="http://getsatisfaction.com/loudervoice"><img class="aligncenter" src="http://www.loudervoice.com/wp-content/uploads/2008/07/28/get-loudervoice-support-on-get-satisfaction/badge_get_help.png" alt="Badge_get_help" /></a>
+  <a href="http://getsatisfaction.com/loudervoice"><img class="aligncenter" src="https://loudervoice.com/wp-content/uploads/2008/07/28/get-loudervoice-support-on-get-satisfaction/badge_get_help.png" alt="Badge_get_help" /></a>
 </p>
 
 We&#8217;ll add all the known problems with the site in the coming days.

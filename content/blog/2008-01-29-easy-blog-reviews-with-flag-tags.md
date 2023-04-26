@@ -28,7 +28,7 @@ A review on Blogger (or WordPress, Typepad, Movable Type etc) might look like th
 [][3]
 
 <p style="text-align: center">
-  <a href="http://www.reviewerblogs.com/2008/01/review-of-bobby-movie.html" title="Flag Tag Review on Blogger by bandon1, on Flickr"><img src="http://www.loudervoice.com/wp-content/uploads/2008/01/29/easy-blog-reviews-with-flag-tags/2226787307_b89d502343.jpg" alt="Flag Tag Review on Blogger" height="443" width="476" /></a>
+  <a href="http://www.reviewerblogs.com/2008/01/review-of-bobby-movie.html" title="Flag Tag Review on Blogger by bandon1, on Flickr"><img src="https://loudervoice.com/wp-content/uploads/2008/01/29/easy-blog-reviews-with-flag-tags/2226787307_b89d502343.jpg" alt="Flag Tag Review on Blogger" height="443" width="476" /></a>
 </p>
 
 Once you let us know the RSS feed for you blog, we&#8217;ll monitor it for those three things in your posts and pull in the reviews that we see. As always, we link back to your blog on our site so that people can read the full review. That review above would appear like this on LouderVoice:
@@ -36,14 +36,14 @@ Once you let us know the RSS feed for you blog, we&#8217;ll monitor it for those
 [][4]
 
 <p style="text-align: center">
-  <a href="http://www.loudervoice.com/reviews/clickthrough/975777055/" title="Flag Tag Review on LouderVoice by bandon1, on Flickr"><img src="http://www.loudervoice.com/wp-content/uploads/2008/01/29/easy-blog-reviews-with-flag-tags/2226787869_c270b0af6e.jpg" alt="Flag Tag Review on LouderVoice" height="220" width="432" /></a>
+  <a href="https://loudervoice.com/reviews/clickthrough/975777055/" title="Flag Tag Review on LouderVoice by bandon1, on Flickr"><img src="https://loudervoice.com/wp-content/uploads/2008/01/29/easy-blog-reviews-with-flag-tags/2226787869_c270b0af6e.jpg" alt="Flag Tag Review on LouderVoice" height="220" width="432" /></a>
 </p>
 
 In a few days we&#8217;ll provide a little &#8220;bookmarklet&#8221; which will provide a nice easy way to optionally insert star graphics in your post.
 
 So head on over to your &#8220;My Settings&#8221; page on LouderVoice and add your Blog&#8217;s RSS feed to the &#8220;Flag Tags Reviews&#8221; source type. Of course you can always mix and match between the two types of reviews on your blog.
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/
  [2]: http://bifsniff.com/
  [3]: http://www.reviewerblogs.com/2008/01/review-of-bobby-movie.html "Flag Tag Review on Blogger by bandon1, on Flickr"
- [4]: http://www.loudervoice.com/reviews/clickthrough/975777055/ "Flag Tag Review on LouderVoice by bandon1, on Flickr"
+ [4]: https://loudervoice.com/reviews/clickthrough/975777055/ "Flag Tag Review on LouderVoice by bandon1, on Flickr"

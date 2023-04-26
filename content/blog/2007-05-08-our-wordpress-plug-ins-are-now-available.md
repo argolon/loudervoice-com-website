@@ -21,8 +21,8 @@ You can grab them over at our [extras page][2] our just use these links:
 
 Many thanks to [John Blackbourn][5] for developing these plug-ins for us.
 
- [1]: http://www.loudervoice.com/
- [2]: http://www.loudervoice.com/extras
- [3]: http://www.loudervoice.com/static/extras/loudervoice_hreview_plugin_wordpress_org_v10.zip
- [4]: http://www.loudervoice.com/static/extras/loudervoice_hreview_plugin_wordpress_mu_v10.zip
+ [1]: https://loudervoice.com/
+ [2]: https://loudervoice.com/extras
+ [3]: https://loudervoice.com/static/extras/loudervoice_hreview_plugin_wordpress_org_v10.zip
+ [4]: https://loudervoice.com/static/extras/loudervoice_hreview_plugin_wordpress_mu_v10.zip
  [5]: http://johnblackbourn.com/

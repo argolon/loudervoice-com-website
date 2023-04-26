@@ -36,6 +36,6 @@ p.s. of course you can send your Oxegen reviews to @review as usual but using @o
  [1]: http://www.oxegen.ie
  [2]: http://twitter.com/oxegen
  [3]: http://twitter.com/devices
- [4]: http://www.loudervoice.com/
- [5]: http://www.loudervoice.com/tags/oxegen
+ [4]: https://loudervoice.com/
+ [5]: https://loudervoice.com/tags/oxegen
  [6]: http://reviewblogs.loudervoice.com/

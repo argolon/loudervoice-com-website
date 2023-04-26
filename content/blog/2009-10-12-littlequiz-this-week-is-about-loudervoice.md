@@ -15,7 +15,7 @@ tags:
 ---
 The brilliant [LittleQuiz][1] site runs a different quiz each week with some fantastic prizes which could be yours by answering three simple questions. [This week][2] those questions are about LouderVoice. Head on over and you could be in with a chance to win a mobile phone and call credit.
 
-[<img class="aligncenter size-full wp-image-259" title="littlequiz" src="http://www.loudervoice.com/wp-content/uploads/2009/10/littlequiz.png" alt="littlequiz" width="338" height="336" />][1]
+[<img class="aligncenter size-full wp-image-259" title="littlequiz" src="https://loudervoice.com/wp-content/uploads/2009/10/littlequiz.png" alt="littlequiz" width="338" height="336" />][1]
 
 If you are a business looking for simple effective promotional opportunities, I can highly recommend talking to Joe Scanlon who runs the site.
 

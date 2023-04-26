@@ -19,10 +19,10 @@ What to review? What ever interests you! Movies, restaurants, food, Christmas gi
 
 [Read all the details here][7] and get reviewing and voting!
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/
  [2]: http://www.hairybaby.com/
- [3]: http://www.loudervoice.com/wp-content/uploads/2008/01/HB0379.bookkhaki.jpg
- [4]: http://www.loudervoice.com/sms_help
- [5]: http:http://www.loudervoice.com/help/#blogs//
- [6]: http://www.loudervoice.com/help/#twitter
- [7]: http://www.loudervoice.com/competition01
+ [3]: https://loudervoice.com/wp-content/uploads/2008/01/HB0379.bookkhaki.jpg
+ [4]: https://loudervoice.com/sms_help
+ [5]: http:https://loudervoice.com/help/#blogs//
+ [6]: https://loudervoice.com/help/#twitter
+ [7]: https://loudervoice.com/competition01

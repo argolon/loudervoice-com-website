@@ -15,7 +15,7 @@ tags:
 How about adding $2.7B to you bottom line?
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="http://www.loudervoice.com/wp-content/uploads/2009/03/19/wondering-what-reviews-can-do-for-your-business/navAmazonLogoFooter._V28243301_.gif" alt="Amazon.co.uk" />
+  <img class="aligncenter" src="https://loudervoice.com/wp-content/uploads/2009/03/19/wondering-what-reviews-can-do-for-your-business/navAmazonLogoFooter._V28243301_.gif" alt="Amazon.co.uk" />
 </p>
 
 Via [Econsultancy][1]:

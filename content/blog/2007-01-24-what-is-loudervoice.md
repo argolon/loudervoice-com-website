@@ -21,4 +21,4 @@ If you ever decide to set up your own blog elsewhere, we&#8217;ll help you to mo
 
 If this sounds interesting to you, head on over to the [Beta Sign-Up page][1] and enter your details.
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/

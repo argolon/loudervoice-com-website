@@ -20,7 +20,7 @@ We&#8217;ve been promising it forever and now we&#8217;re finally ready to unvei
 The new plug-in is a total re-write based on lots of user feedback and, in particular, some fantastic suggestions and guidance from [Robin Blandford][1].
 
 <p style="text-align: center;">
-  <a href="http://www.loudervoice.com/wp-content/uploads/2008/03/plugin2.png"><img class="aligncenter size-medium wp-image-115" title="LouderVoicePLuginV2Screenshot" src="http://www.loudervoice.com/wp-content/uploads/2008/03/plugin2-300x231.png" alt="The all new look" width="300" height="231" /></a>
+  <a href="https://loudervoice.com/wp-content/uploads/2008/03/plugin2.png"><img class="aligncenter size-medium wp-image-115" title="LouderVoicePLuginV2Screenshot" src="https://loudervoice.com/wp-content/uploads/2008/03/plugin2-300x231.png" alt="The all new look" width="300" height="231" /></a>
 </p>
 
 So what&#8217;s changed? Everything!
@@ -41,4 +41,4 @@ Download it [from here][3] and please let us know what you think. Heck, why not 
 
  [1]: http://www.bytesurgery.com/blog/
  [2]: http://johnblackbourn.com/
- [3]: http://www.loudervoice.com/static/extras/loudervoice_wordpress_plugin_v20.zip
+ [3]: https://loudervoice.com/static/extras/loudervoice_wordpress_plugin_v20.zip

@@ -54,25 +54,25 @@ Each weekly winner is decided byÂ [Newstalk Radio][22]. Winners will be contac
 
 If you have any questions at all about the competition just email info AT loudervoice DOT com.
 
- [1]: http://www.loudervoice.com/static/images/competition/three_logo_black.gif
- [2]: http://www.loudervoice.com/static/images/competition/newstalk01.jpg
- [3]: http://www.loudervoice.com/static/images/competition/klipsch.gif
- [4]: http://www.loudervoice.com/static/images/competition/GeorgeHook.jpg
+ [1]: https://loudervoice.com/static/images/competition/three_logo_black.gif
+ [2]: https://loudervoice.com/static/images/competition/newstalk01.jpg
+ [3]: https://loudervoice.com/static/images/competition/klipsch.gif
+ [4]: https://loudervoice.com/static/images/competition/GeorgeHook.jpg
  [5]: http://www.three.ie/
  [6]: http://www.newstalk.ie/
  [7]: http://www.klipsch.co.uk/
  [8]: http://www.newstalk.ie/newstalk/programmes/6/the-right-hook.html
- [9]: http://www.loudervoice.com/static/images/competition/w880i_thumb.jpg "Sony Ericsson W880i"
+ [9]: https://loudervoice.com/static/images/competition/w880i_thumb.jpg "Sony Ericsson W880i"
  [10]: http://www.three.ie/handsets_new/prepay-mobiles-sony-ericsson-w880i-overview.htm?gclid=COuf1Kjj_pYCFQ6R1QodA2PUYg
- [11]: http://www.loudervoice.com/static/images/competition/C902_thumb.jpg "Sony Ericsson C902"
+ [11]: https://loudervoice.com/static/images/competition/C902_thumb.jpg "Sony Ericsson C902"
  [12]: http://www.three.ie/mobileshop/postpay-mobiles-sony-ericsson-c902-overview.htm?gclid=COeK5J_j_pYCFQXO1Aod9GzMXQ
- [13]: http://www.loudervoice.com/static/images/competition/samsung_tocco_thumb.jpg "Samsung Tocco"
+ [13]: https://loudervoice.com/static/images/competition/samsung_tocco_thumb.jpg "Samsung Tocco"
  [14]: http://www.three.ie/handsets_new/samsung-f480-tocco-black-relax-350.htm
- [15]: http://www.loudervoice.com/static/images/competition/lg_renoir_thumb.jpg "LG Renoir "
+ [15]: https://loudervoice.com/static/images/competition/lg_renoir_thumb.jpg "LG Renoir "
  [16]: http://www.three.ie/handsets_new/postpay-mobiles-lg-kc910-renoir-overview.htm?gclid=CN-rj77j_pYCFQuT1Qodyz2TYg
- [17]: http://www.loudervoice.com/static/images/competition/custom-1_thumb.jpg "Klipsch Custom-1 "
+ [17]: https://loudervoice.com/static/images/competition/custom-1_thumb.jpg "Klipsch Custom-1 "
  [18]: http://www.klipsch.co.uk/cat/personal/product/custom1
- [19]: http://www.loudervoice.com/static/images/competition/therighthook_sms.jpg
- [20]: http://www.loudervoice.com/
- [21]: http://www.loudervoice.com/static/images/competition/therighthook_web_instrs.jpg
+ [19]: https://loudervoice.com/static/images/competition/therighthook_sms.jpg
+ [20]: https://loudervoice.com/
+ [21]: https://loudervoice.com/static/images/competition/therighthook_web_instrs.jpg
  [22]: http://therighthook.wordpress.com/2008/11/17/three-and-loudervoice-gadget-review-competition/

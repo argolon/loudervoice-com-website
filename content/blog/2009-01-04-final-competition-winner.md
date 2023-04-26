@@ -30,11 +30,11 @@ Well done to all the winners and thanks again to George Hook for making this all
 
 We&#8217;ll be kicking off some new competitions shortly. Keep an eye out here, [on Twitter][8]Â or on the site itself for details.
 
- [1]: http://www.loudervoice.com/reviews/738810887
- [2]: http://www.loudervoice.com/static/images/competition/three_logo_black.gif
- [3]: http://www.loudervoice.com/static/images/competition/newstalk01.jpg
- [4]: http://www.loudervoice.com/static/images/competition/klipsch.gif
- [5]: http://www.loudervoice.com/static/images/competition/GeorgeHook.jpg
+ [1]: https://loudervoice.com/reviews/738810887
+ [2]: https://loudervoice.com/static/images/competition/three_logo_black.gif
+ [3]: https://loudervoice.com/static/images/competition/newstalk01.jpg
+ [4]: https://loudervoice.com/static/images/competition/klipsch.gif
+ [5]: https://loudervoice.com/static/images/competition/GeorgeHook.jpg
  [6]: http://www.three.ie/
  [7]: http://www.klipsch.co.uk/
  [8]: http://twitter.com/loudervoice

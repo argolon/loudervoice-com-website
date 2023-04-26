@@ -26,17 +26,17 @@ We&#8217;ll add those to LouderVoice throughout the day and link right back to y
 You don&#8217;t even need an account on LouderVoice to do this!
 
 <p style="text-align: center;">
-  So you go from this:<br /> <a href="http://twitter.com/evath/statuses/2301287502"><img class="size-full wp-image-222  aligncenter" title="cloverfield1" src="http://www.loudervoice.com/wp-content/uploads/2009/06/cloverfield1.jpg" alt="cloverfield1" width="569" height="400" /></a>
+  So you go from this:<br /> <a href="http://twitter.com/evath/statuses/2301287502"><img class="size-full wp-image-222  aligncenter" title="cloverfield1" src="https://loudervoice.com/wp-content/uploads/2009/06/cloverfield1.jpg" alt="cloverfield1" width="569" height="400" /></a>
 </p>
 
 To this:
 
 <p style="text-align: center;">
-  <a href="http://www.loudervoice.com/reviews/290157583"><img class="size-full wp-image-223  aligncenter" title="cloverfield2" src="http://www.loudervoice.com/wp-content/uploads/2009/06/cloverfield2.jpg" alt="cloverfield2" width="574" height="315" /></a>
+  <a href="https://loudervoice.com/reviews/290157583"><img class="size-full wp-image-223  aligncenter" title="cloverfield2" src="https://loudervoice.com/wp-content/uploads/2009/06/cloverfield2.jpg" alt="cloverfield2" width="574" height="315" /></a>
 </p>
 
 Happy reviewing.
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/
  [2]: http://twitter.com/loudervoice
  [3]: http://twitter.com/review

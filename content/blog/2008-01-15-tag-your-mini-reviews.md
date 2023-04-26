@@ -23,10 +23,10 @@ This is an experimental feature and based on your feedback we may make it less f
 
 Let us know what you think.
 
- [1]: http://www.loudervoice.com/
- [2]: http://www.loudervoice.com/sms_help
+ [1]: https://loudervoice.com/
+ [2]: https://loudervoice.com/sms_help
  [3]: http://www.twitter.com/
  [4]: http://www.jaiku.com/
  [5]: http://www.pownce.com/
- [6]: http://www.loudervoice.com/tags/wine
- [7]: http://www.loudervoice.com/tags/new+zealand
+ [6]: https://loudervoice.com/tags/wine
+ [7]: https://loudervoice.com/tags/new+zealand

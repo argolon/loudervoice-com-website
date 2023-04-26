@@ -17,7 +17,7 @@ tags:
 It&#8217;s always a delight to work with like-minded companies so we were doubly pleased when [Puddleducks.ie][1] contacted us recently about using the [LouderVoice][2] customer reviews system on their site.
 
 <p style="text-align: center;">
-  <a href="http://www.puddleducks.ie/"><img class="aligncenter" title="PuddleDucks" src="http://www.loudervoice.com/wp-content/uploads/2009/04/14/puddleducks-customers-get-a-louder-voice/IMG_1275-1-LARGE-01.jpg" alt="" width="507" height="393" /></a>
+  <a href="http://www.puddleducks.ie/"><img class="aligncenter" title="PuddleDucks" src="https://loudervoice.com/wp-content/uploads/2009/04/14/puddleducks-customers-get-a-louder-voice/IMG_1275-1-LARGE-01.jpg" alt="" width="507" height="393" /></a>
 </p>
 
 Puddleducks is a rapidly growing online retailer of outdoor clothing for bothÂ childrenâ€™s and adults. In fact, Â we first encountered them as personal customers of their fantastic products.Â Their range includes Swedish designed dungarees, jackets and trousers for children, as well as waterproof clothing and work wear for adults.
@@ -29,5 +29,5 @@ After a very short implementation period, [all of their customers][3] can now re
  [1]: http://www.puddleducks.ie/
  [2]: http://business.loudervoice.com
  [3]: http://blog.puddleducks.ie/2009/04/15/puddleducks-customers-given-a-louder-voice/
- [4]: http://www.loudervoice.com/
+ [4]: https://loudervoice.com/
  [5]: http://www.iia.ie/net-visionary/vote/

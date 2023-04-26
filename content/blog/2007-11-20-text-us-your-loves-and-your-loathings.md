@@ -17,7 +17,7 @@ _
 
 It should look like this on your phone:
 
-[<img src="http://www.loudervoice.com/wp-content/uploads/2007/11/20/text-us-your-loves-and-your-loathings/2084716900_f50bc8510f_m.jpg" width="240" height="180" alt="SMS New Format" />][2]
+[<img src="https://loudervoice.com/wp-content/uploads/2007/11/20/text-us-your-loves-and-your-loathings/2084716900_f50bc8510f_m.jpg" width="240" height="180" alt="SMS New Format" />][2]
 
 Then a few moments later, it will appear on LouderVoice.
 
@@ -29,5 +29,5 @@ And if you are feeling strongly opinionated, we do accept multi-message SMSes up
 
 Just add your mobile number to your LouderVoice account, try it out and let us know what you think.
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/
  [2]: http://www.flickr.com/photos/bandon1/2084716900/ "SMS New Format by bandon1, on Flickr"

@@ -19,7 +19,7 @@ tags:
 ---
 Yesterday evening we uploaded the first public beta of our Google Android mobile application to the Android Market.
 
-<img class="aligncenter size-full wp-image-218" title="lv_android_01" src="http://www.loudervoice.com/wp-content/uploads/2009/05/lv_android_01.png" alt="lv_android_01" width="320" height="480" />
+<img class="aligncenter size-full wp-image-218" title="lv_android_01" src="https://loudervoice.com/wp-content/uploads/2009/05/lv_android_01.png" alt="lv_android_01" width="320" height="480" />
 
 This is the first Irish Android application and one of the very first reviewing applications on the platform.
 
@@ -29,15 +29,15 @@ If you aren&#8217;t familiar with [Android][3], it is a new mobile platform crea
 
 Our application is all about writing and finding reviews when you are out and about with your Android phone. It makes full use of cell-tower location and GPS to give you the reviews you need for where you are now.
 
-<img class="aligncenter size-full wp-image-219" title="lv_android_04" src="http://www.loudervoice.com/wp-content/uploads/2009/05/lv_android_04.png" alt="lv_android_04" width="320" height="480" />
+<img class="aligncenter size-full wp-image-219" title="lv_android_04" src="https://loudervoice.com/wp-content/uploads/2009/05/lv_android_04.png" alt="lv_android_04" width="320" height="480" />
 
 In addition to finding reviews written on our [www site][5] and Android, you can also browse/search reviews from our partners and clients. That includes reviews of many of [Roomex][6]&#8216;s 20,000 hotels, [Puddleducks][7] outdoor gear, [Klipsch][8] audio products and [Bubble Brothers][9] wines.
 
-<img class="aligncenter size-full wp-image-220" title="lv_hotels_01" src="http://www.loudervoice.com/wp-content/uploads/2009/05/lv_hotels_01.png" alt="lv_hotels_01" width="320" height="480" />
+<img class="aligncenter size-full wp-image-220" title="lv_hotels_01" src="https://loudervoice.com/wp-content/uploads/2009/05/lv_hotels_01.png" alt="lv_hotels_01" width="320" height="480" />
 
-<img class="aligncenter size-full wp-image-221" title="lv_hotels_02" src="http://www.loudervoice.com/wp-content/uploads/2009/05/lv_hotels_02.png" alt="lv_hotels_02" width="320" height="480" />
+<img class="aligncenter size-full wp-image-221" title="lv_hotels_02" src="https://loudervoice.com/wp-content/uploads/2009/05/lv_hotels_02.png" alt="lv_hotels_02" width="320" height="480" />
 
-<img class="aligncenter size-full wp-image-222" title="lv_hotels_03" src="http://www.loudervoice.com/wp-content/uploads/2009/05/lv_hotels_03.png" alt="lv_hotels_03" width="320" height="480" />
+<img class="aligncenter size-full wp-image-222" title="lv_hotels_03" src="https://loudervoice.com/wp-content/uploads/2009/05/lv_hotels_03.png" alt="lv_hotels_03" width="320" height="480" />
 
 The application is also available in white-label OEM form and would be an ideal pre-install for many networks!
 
@@ -53,7 +53,7 @@ In the meantime, if you want to have a look at our application in action, you sh
  [2]: http://gizmodo.com/5229244/meet-the-i7500-samsungs-first-android-phone
  [3]: http://www.android.com/
  [4]: http://www.t-mobileg1.com/
- [5]: http://www.loudervoice.com/
+ [5]: https://loudervoice.com/
  [6]: http://www.roomex.com/
  [7]: http://www.puddleducks.ie/
  [8]: http://klipsch.co.uk/

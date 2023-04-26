@@ -41,6 +41,6 @@ Our site can index reviews you write on Blogger, WordPress, Typepad, our own [Re
  [3]: http://twitter.com/
  [4]: http://www.jaiku.com/channel/oxegen
  [5]: http://jaiku.com/settings/mobile
- [6]: http://www.loudervoice.com/
- [7]: http://www.loudervoice.com/tags/oxegen
+ [6]: https://loudervoice.com/
+ [7]: https://loudervoice.com/tags/oxegen
  [8]: http://reviewblogs.loudervoice.com/

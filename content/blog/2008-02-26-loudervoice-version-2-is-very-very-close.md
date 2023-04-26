@@ -29,4 +29,4 @@ We&#8217;ve been working round the clock to get the next version of [LouderVoice
 
 Keep an eye out, we know you&#8217;re going to like it.
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/

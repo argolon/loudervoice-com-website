@@ -20,6 +20,6 @@ If you like what we are doing on [LouderVoice][1], why not vote for us in the [M
 
 Don&#8217;t forget to vote for all your favourite Irish WebApps, many of which can be found over at [Web2Ireland.org][3].
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/
  [2]: http://mashable.com/openwebawards
  [3]: http://www.web2ireland.org/

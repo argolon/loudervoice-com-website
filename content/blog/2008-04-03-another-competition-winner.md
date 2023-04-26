@@ -17,7 +17,7 @@ tags:
 We closed the first phase of the reviews competition a few weeks ago but we were so blown away by the review by Alx Cahiz of the [stunning Dervish Longboard][1] that we had to give him a prize.
 
 <p style="text-align: center;">
-  <img src="http://www.loudervoice.com/wp-content/uploads/2008/04/03/another-competition-winner/2294966258_e944203188_m.jpg" alt="" width="240" height="160" />
+  <img src="https://loudervoice.com/wp-content/uploads/2008/04/03/another-competition-winner/2294966258_e944203188_m.jpg" alt="" width="240" height="160" />
 </p>
 
 This wasn&#8217;t just review of the week, I think it was review of the month! Looking forward to seeing what else he comes up with. It should also be said that [TeamGearedUp][2] is one of the best blogs out there about outdoor sports and activities.

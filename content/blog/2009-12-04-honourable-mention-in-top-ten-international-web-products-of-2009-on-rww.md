@@ -18,7 +18,7 @@ Wow.
 Jolie O&#8217;Dell just did the [Top Ten International Web Products of 2009][1] on the always brilliant [ReadWriteWeb][2].
 
 <p style="text-align: center;">
-  <img class="aligncenter" title="ReadWriteWeb" src="http://www.loudervoice.com/wp-content/uploads/2009/12/04/honourable-mention-in-top-ten-international-web-products-of-2009-on-rww/logo.png" alt="" width="440" height="62" />
+  <img class="aligncenter" title="ReadWriteWeb" src="https://loudervoice.com/wp-content/uploads/2009/12/04/honourable-mention-in-top-ten-international-web-products-of-2009-on-rww/logo.png" alt="" width="440" height="62" />
 </p>
 
 We didn&#8217;t make the Top Ten yet but that&#8217;s OK, we&#8217;ll be there in 2010 🙂

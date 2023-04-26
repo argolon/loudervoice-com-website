@@ -23,9 +23,9 @@ Nielsen’s latest Global Trust in Advertising report, which surveyed more than 
 
 Here are the highlight stats. Read the great piece about it over on [Social Commerce Today][1].
 
-[<img class="size-full wp-image-2605 aligncenter" title="trust-in-advertising" src="http://www.loudervoice.com/wp-content/uploads/2012/04/trust-in-advertising.png" alt="" width="570" height="486" srcset="/wp-content/uploads/2012/04/trust-in-advertising.png 570w, /wp-content/uploads/2012/04/trust-in-advertising-300x255.png 300w" sizes="(max-width: 570px) 100vw, 570px" />][2]
+[<img class="size-full wp-image-2605 aligncenter" title="trust-in-advertising" src="https://loudervoice.com/wp-content/uploads/2012/04/trust-in-advertising.png" alt="" width="570" height="486" srcset="/wp-content/uploads/2012/04/trust-in-advertising.png 570w, /wp-content/uploads/2012/04/trust-in-advertising-300x255.png 300w" sizes="(max-width: 570px) 100vw, 570px" />][2]
 
 We&#8217;ve been in the reviews business for quite a few years so we&#8217;re not remotely surprised by this data. But our experience over the past 12 months is that small businesses are now realising the importance of reviews and adding customer reviews solutions to their sites and Facebook. This is as true in rural Ireland as it is in Del Mar California.
 
  [1]: http://socialcommercetoday.com/word-of-mouth-still-most-trusted-resource-says-nielsen-implications-for-social-commerce/
- [2]: http://www.loudervoice.com/wp-content/uploads/2012/04/trust-in-advertising.png
+ [2]: https://loudervoice.com/wp-content/uploads/2012/04/trust-in-advertising.png

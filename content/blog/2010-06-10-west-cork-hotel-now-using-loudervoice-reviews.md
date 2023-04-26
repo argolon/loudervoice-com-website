@@ -25,7 +25,7 @@ The hospitality industry is a big focus for LouderVoice at the moment. Hotels ha
 [West Cork Hotel][1] is based in Skibbereen in Co Cork and has been doing an amazing job with revamping every aspect of the business and then getting that message out to the world through Facebook and Twitter.
 
 <p style="text-align: center;">
-  <a href="http://www.loudervoice.com/wp-content/uploads/2010/06/10/west-cork-hotel-now-using-loudervoice-reviews/5116_94172901579_94172666579_2492337_7781431_n.jpg"><img class="size-full wp-image-1530  aligncenter" title="West Cork Hotel, Skibbereen, Co Cork, Ireland" src="http://www.loudervoice.com/wp-content/uploads/2010/06/10/west-cork-hotel-now-using-loudervoice-reviews/5116_94172901579_94172666579_2492337_7781431_n.jpg" alt="" width="248" height="294" /></a>
+  <a href="https://loudervoice.com/wp-content/uploads/2010/06/10/west-cork-hotel-now-using-loudervoice-reviews/5116_94172901579_94172666579_2492337_7781431_n.jpg"><img class="size-full wp-image-1530  aligncenter" title="West Cork Hotel, Skibbereen, Co Cork, Ireland" src="https://loudervoice.com/wp-content/uploads/2010/06/10/west-cork-hotel-now-using-loudervoice-reviews/5116_94172901579_94172666579_2492337_7781431_n.jpg" alt="" width="248" height="294" /></a>
 </p>
 
 With [the addition of LouderVoice][2] they can now benefit from everything that our reviews system offers including:

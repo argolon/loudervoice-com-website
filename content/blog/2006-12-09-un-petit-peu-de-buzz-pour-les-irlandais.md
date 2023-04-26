@@ -12,5 +12,5 @@ categories:
  [1]: http://www.enn.ie/frontpage/news-9856206.html
  [2]: http://www.pxn8.com/
  [3]: http://www.putplace.com/
- [4]: http://www.loudervoice.com/
+ [4]: https://loudervoice.com/
  [5]: http://www.mulley.net/

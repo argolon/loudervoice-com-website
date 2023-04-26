@@ -22,7 +22,7 @@ We have just added a new Facebook capability for all of our customers. They can 
 Now a simple review written on a client&#8217;s site or submitted by SMS can appear on their Facebook Page within minutes, building confidence and guiding others who want to know more about that business. Fundamentally it&#8217;s about selling by word of mouth.
 
 <p style="text-align: center;">
-  <a href="http://www.cagliariapartments.co.uk/"><img class="size-full wp-image-1754  aligncenter" title="Cagliari Holiday Apartments" src="http://www.loudervoice.com/wp-content/uploads/2010/08/27/loudervoice-reviews-on-facebook-pages/cagliari2.jpg" alt="" width="500" height="292" srcset="/wp-content/uploads/2010/08/27/loudervoice-reviews-on-facebook-pages/cagliari2.jpg 500w, /wp-content/uploads/2010/08/27/loudervoice-reviews-on-facebook-pages/cagliari2-300x175.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+  <a href="http://www.cagliariapartments.co.uk/"><img class="size-full wp-image-1754  aligncenter" title="Cagliari Holiday Apartments" src="https://loudervoice.com/wp-content/uploads/2010/08/27/loudervoice-reviews-on-facebook-pages/cagliari2.jpg" alt="" width="500" height="292" srcset="/wp-content/uploads/2010/08/27/loudervoice-reviews-on-facebook-pages/cagliari2.jpg 500w, /wp-content/uploads/2010/08/27/loudervoice-reviews-on-facebook-pages/cagliari2-300x175.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 </p>
 
 Some of our clients who have already turned the new feature on (total effort 2 minutes each!) are:

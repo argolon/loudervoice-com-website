@@ -18,7 +18,7 @@ We were delighted to get two pieces on LouderVoice in the [Irish Examiner][1] ne
 
 Then on Monday 4th, Dan MacCarthy published an extensive interview with Conor the LouderVoice CEO. As there is no online copy, I have uploaded a scan of it. Apologies for the roughness of the scan and for not OCRing it. The photograph is by Denis Minihane. Click on picture to see high-res original.
 
-[<img src="http://www.loudervoice.com/wp-content/uploads/2008/02/11/newspaper-coverage/2258051705_b55dfb7a09.jpg" alt="Irish Examiner coverage of LouderVoice" height="500" width="363" />][3]
+[<img src="https://loudervoice.com/wp-content/uploads/2008/02/11/newspaper-coverage/2258051705_b55dfb7a09.jpg" alt="Irish Examiner coverage of LouderVoice" height="500" width="363" />][3]
 
  [1]: http://www.examiner.ie/
  [2]: http://www.insideview.ie/irisheyes/2008/02/mini-reviews-on.html

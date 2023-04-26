@@ -15,5 +15,5 @@ If you don&#8217;t have a blog, try our [ReviewBlogs site][2].
 
 Heck maybe make your first review about LouderVoice!
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/
  [2]: http://reviewblogs.loudervoice.com/

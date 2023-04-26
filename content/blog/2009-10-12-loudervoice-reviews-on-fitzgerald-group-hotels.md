@@ -19,7 +19,7 @@ We&#8217;ve spent the past few months in [LouderVoice][1] creating Version 2 of 
 
 We recently began working with [Hotel Consult][2] in Cork and the first fruits of that relationship are already here. The Fitzgerald Group of hotels have just begun rolling the widget out on their web-sites. First up is [The Arlington Hotel][3] at O&#8217;Connell Bridge and they will be joined this week by [The Arlington Temple Bar][4] and [The Louis Fitzgerald Hotel][5].
 
-<img class="aligncenter size-full wp-image-254" title="three_fitzgerald_logos" src="http://www.loudervoice.com/wp-content/uploads/2009/10/three_fitzgerald_logos.jpg" alt="three_fitzgerald_logos" width="620" height="200" />
+<img class="aligncenter size-full wp-image-254" title="three_fitzgerald_logos" src="https://loudervoice.com/wp-content/uploads/2009/10/three_fitzgerald_logos.jpg" alt="three_fitzgerald_logos" width="620" height="200" />
 
 There are many reasons for hotels to use our solution and the Fitzgerald Group grasped that instantly. Some of the top reasons are:
 
@@ -33,10 +33,10 @@ There are many reasons for hotels to use our solution and the Fitzgerald Group g
 
 We will have several more announcements in the hospitality area this week, and our new business site, so stay tuned!
 
- [1]: http://www.loudervoice.com/business
+ [1]: https://loudervoice.com/business
  [2]: http://www.hotelconsult.ie/the-arlington-hotel-dublin-goes-live-with-loudervoice-reviews
  [3]: http://www.arlington.ie/
  [4]: http://www.arlingtonhoteltemplebar.com
  [5]: http://www.louisfitzgeraldhotel.com/
- [6]: http://www.loudervoice.com/reviews/999968432
+ [6]: https://loudervoice.com/reviews/999968432
  [7]: http://greengathering.blogspot.com/2009/10/craic-that-is-social-media.html

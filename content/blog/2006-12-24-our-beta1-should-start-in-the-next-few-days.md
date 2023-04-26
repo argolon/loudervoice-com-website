@@ -13,4 +13,4 @@ If you are even remotely interested in trying out Beta1 or Beta2, head on over t
 
 Happy Christmas from the LouderVoice team!
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/

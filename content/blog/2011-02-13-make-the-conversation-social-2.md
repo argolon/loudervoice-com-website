@@ -23,4 +23,4 @@ Your customers love talking about you. Use LouderVoice to connect those conversa
 
 <!--end_raw-->
 
- [1]: http://www.loudervoice.com/wp-content/uploads/2011/03/weddingdates-slider-01.png
+ [1]: https://loudervoice.com/wp-content/uploads/2011/03/weddingdates-slider-01.png

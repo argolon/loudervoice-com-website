@@ -13,9 +13,9 @@ tags:
 ---
 What a fantastic couple of weeks in the life of LouderVoice. Yesterday we found out we&#8217;ve been shortlisted for New Company of The Year by [The Irish Software Association][1]. This is one helluva heavy-duty event and we&#8217;re nervous about the interview process already.
 
-[<img class="alignnone size-full wp-image-145" title="isa" src="http://www.loudervoice.com/wp-content/uploads/2008/10/isa.jpg" alt="" width="500" height="117" />][2]
+[<img class="alignnone size-full wp-image-145" title="isa" src="https://loudervoice.com/wp-content/uploads/2008/10/isa.jpg" alt="" width="500" height="117" />][2]
 
 There willÂ be lots more announcements and coverage in the next two weeks so watch closely.
 
  [1]: http://www.software.ie/awards
- [2]: http://www.loudervoice.com/wp-content/uploads/2008/10/isa.jpg
+ [2]: https://loudervoice.com/wp-content/uploads/2008/10/isa.jpg

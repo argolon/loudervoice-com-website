@@ -11,5 +11,5 @@ We are absolutely delighted to announce that [LouderVoice][1] made it to the fin
 
 The eagle-eyed amongst you will have noticed several recent changes to the site. We released them quietly but will be telling you all about them in the coming days. The plans for December are even more exciting again!
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/
  [2]: http://www.leweb3.com/leweb3/2007/11/start-up-comp-1.html

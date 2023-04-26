@@ -29,11 +29,11 @@ One of the prize phones from [Three][7] and Custom-1 headphones from [Klipsch][8
 There are another three weeks left in the competition. So get [writing gadget reviews][9] on the site or via SMS! The winner will be announced each Monday on the show.
 
  [1]: http://newstalk.ie/newstalk/programmes/6/the-right-hook.html
- [2]: http://www.loudervoice.com/reviews/892460903
- [3]: http://www.loudervoice.com/static/images/competition/three_logo_black.gif
- [4]: http://www.loudervoice.com/static/images/competition/newstalk01.jpg
- [5]: http://www.loudervoice.com/static/images/competition/klipsch.gif
- [6]: http://www.loudervoice.com/static/images/competition/GeorgeHook.jpg
+ [2]: https://loudervoice.com/reviews/892460903
+ [3]: https://loudervoice.com/static/images/competition/three_logo_black.gif
+ [4]: https://loudervoice.com/static/images/competition/newstalk01.jpg
+ [5]: https://loudervoice.com/static/images/competition/klipsch.gif
+ [6]: https://loudervoice.com/static/images/competition/GeorgeHook.jpg
  [7]: http://www.three.ie/
  [8]: http://www.klipsch.co.uk/
- [9]: http://www.loudervoice.com/competition
+ [9]: https://loudervoice.com/competition

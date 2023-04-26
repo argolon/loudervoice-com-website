@@ -16,6 +16,6 @@ tags:
 ---
 Scott Adams nails it beautifully as always.
 
-[<img src="http://www.loudervoice.com/wp-content/uploads/2009/02/01/fake-reviews-in-a-nutshell/39711.strip.sunday.gif" border="0" alt="Dilbert.com" />][1]
+[<img src="https://loudervoice.com/wp-content/uploads/2009/02/01/fake-reviews-in-a-nutshell/39711.strip.sunday.gif" border="0" alt="Dilbert.com" />][1]
 
  [1]: http://dilbert.com/strips/comic/2009-02-01/ "Dilbert.com"

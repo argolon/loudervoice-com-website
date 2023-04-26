@@ -18,10 +18,10 @@ We are incredibly happy to announce that [Klipsch][1] has just launched its [UK 
 
 When you are investing Â£1000 in a sub-woofer, you want to be sure you are picking the right one. Reviews by other customers can help you make that decision. The Klipsch guys understand that those reviews are a win-win for everyone.
 
-[<img class="alignnone size-full wp-image-153" title="Klipsch Ultra2 KW-120-THX Subwoofer" src="http://www.loudervoice.com/wp-content/uploads/2008/11/klipsch01.jpg" alt="" width="500" height="392" />][3]
+[<img class="alignnone size-full wp-image-153" title="Klipsch Ultra2 KW-120-THX Subwoofer" src="https://loudervoice.com/wp-content/uploads/2008/11/klipsch01.jpg" alt="" width="500" height="392" />][3]
 
 We&#8217;ll be announcing more great Klipsch news in the next two weeks.
 
  [1]: http://www.klipsch.co.uk/
  [2]: http://business.loudervoice.com
- [3]: http://www.loudervoice.com/wp-content/uploads/2008/11/klipsch01.jpg
+ [3]: https://loudervoice.com/wp-content/uploads/2008/11/klipsch01.jpg

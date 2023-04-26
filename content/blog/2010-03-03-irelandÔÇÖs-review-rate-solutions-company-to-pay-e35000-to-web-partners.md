@@ -27,12 +27,12 @@ Launch Partners include [Webtrade][3], [WSI – Proactive E-Biz][4], [Hotel C
 
 As our VP of Sales, Karl Llewellyn tells our customers: ‘All serious web business should have a Review & Rate tool on their site, today. They are missing out on sales without it. We provide our partners with all the sales material and support to allow them convert the maximum number of their customers; all they have to do is implement one of our ready-made campaigns.’
 
-For more information on becoming a LouderVoice partner go to [**http://www.loudervoice.com/partner-program/**][1]
+For more information on becoming a LouderVoice partner go to [**https://loudervoice.com/partner-program/**][1]
 
 <small>*26% of US e-businesses surveyed use an R&R Solution with a further 73% citing customer reviews as being an investment priority in the next 12 months. Jan 2010, Forrester Research</small>
 
- [1]: http://www.loudervoice.com/partner-program/
- [2]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/partner-program/
+ [2]: https://loudervoice.com/
  [3]: http://www.webtrade.ie/
  [4]: http://www.mywsiteam.ie/
  [5]: http://www.hotelconsult.ie/

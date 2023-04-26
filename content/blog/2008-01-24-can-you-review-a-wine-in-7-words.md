@@ -24,7 +24,7 @@ So for SMS, Twitter and Pownce:
 [][6]
 
 <p style="text-align: center">
-  <a href="http://www.flickr.com/photos/bandon1/2217164958/" title="sms_wine by bandon1, on Flickr"><img src="http://www.loudervoice.com/wp-content/uploads/2008/01/24/can-you-review-a-wine-in-7-words/2217164958_f704eeae64_o.jpg" alt="sms_wine" height="320" width="240" /></a>
+  <a href="http://www.flickr.com/photos/bandon1/2217164958/" title="sms_wine by bandon1, on Flickr"><img src="https://loudervoice.com/wp-content/uploads/2008/01/24/can-you-review-a-wine-in-7-words/2217164958_f704eeae64_o.jpg" alt="sms_wine" height="320" width="240" /></a>
 </p>
 
 [[Julian from Bubble Brothers][1] let us know about the wonderful [Wine Blogging Wednesday][2] community and what they get up to.
@@ -44,7 +44,7 @@ So for SMS, Twitter and Pownce:
 [][6]
 
 <p style="text-align: center">
-  <a href="http://www.flickr.com/photos/bandon1/2217164958/" title="sms_wine by bandon1, on Flickr"><img src="http://www.loudervoice.com/wp-content/uploads/2008/01/24/can-you-review-a-wine-in-7-words/2217164958_f704eeae64_o.jpg" alt="sms_wine" height="320" width="240" /></a>
+  <a href="http://www.flickr.com/photos/bandon1/2217164958/" title="sms_wine by bandon1, on Flickr"><img src="https://loudervoice.com/wp-content/uploads/2008/01/24/can-you-review-a-wine-in-7-words/2217164958_f704eeae64_o.jpg" alt="sms_wine" height="320" width="240" /></a>
 </p>
 
 ][7] 
@@ -68,7 +68,7 @@ p.s. Bloggers &#8211; we have a new ultra-lightweight way of getting your review
  [1]: http://bubblebrothers.com/blog/?p=333
  [2]: http://www.winebloggingwednesday.org/
  [3]: http://www.spittoon.biz/wbw_just_seven_words.html
- [4]: http://www.loudervoice.com/
- [5]: http://www.loudervoice.com/tags/wine
+ [4]: https://loudervoice.com/
+ [5]: https://loudervoice.com/tags/wine
  [6]: http://www.flickr.com/photos/bandon1/2217164958/ "sms_wine by bandon1, on Flickr"
  [7]: http://www.flickr.com/photos/bandon1/2216347687/ "twitter_wine2 by bandon1, on Flickr"

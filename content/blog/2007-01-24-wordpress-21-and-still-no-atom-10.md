@@ -18,5 +18,5 @@ UPDATE 2: I&#8217;ve installed 2.1 on one of our blogs. Impressions so far are g
 UPDATE 3: Of course, I forgot we were using FeedBurner to provide all our feeds as ATOM 1.0 anyway. As soon as the new ATOM code makes it into WPMU, I&#8217;ll be grabbing a nightly. There is an ATOM 1.0 plug-in for standard WordPress right now, I may check to see if it also works with WPMU.
 
  [1]: http://intertwingly.net/blog/2007/01/24/WordPress-and-Atom-1-0
- [2]: http://www.loudervoice.com/
+ [2]: https://loudervoice.com/
  [3]: http://photomatt.net/2007/01/23/21-and-forward/

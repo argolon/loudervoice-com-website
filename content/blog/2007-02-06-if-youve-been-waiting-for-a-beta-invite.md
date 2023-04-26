@@ -13,4 +13,4 @@ Not only will the site be a lot slicker in two weeks time, it&#8217;s going to l
 
 So please bear with us if you have signed up already. If you haven&#8217;t and you are a blogger, shoot on over to [the main site][1] and add your name to the list.
 
- [1]: http://www.loudervoice.com/
+ [1]: https://loudervoice.com/

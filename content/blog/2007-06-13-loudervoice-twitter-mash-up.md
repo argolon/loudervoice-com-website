@@ -22,7 +22,7 @@ And how do you send LouderTweets as a Twitter user? It&#8217;s very simple:
 
 You can see examples here:
 
-<http://www.loudervoice.com/tags/louderminis>
+<https://loudervoice.com/tags/louderminis>
 
 As with all tweets, you can send your review tweet using whatever tool you like: web-page, Google GTalk, SMS, Tweetr etc
 
