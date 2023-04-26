@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plugin on LouderVoice Customer Reviews</title>
-    <link>https://www.loudervoice.com/tags/plugin/</link>
+    <link>https://loudervoice.com/tags/plugin/</link>
     <description>Recent content in Plugin on LouderVoice Customer Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2006 - 2023, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Fri, 02 Mar 2012 16:29:16 +0000</lastBuildDate>
     
-	<atom:link href="https://www.loudervoice.com/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://loudervoice.com/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LouderVoice Reviews Plugin for WordPress now available</title>
-      <link>https://www.loudervoice.com/blog/2012/03/02/loudervoice-reviews-plugin-for-wordpress-now-available/</link>
+      <link>https://loudervoice.com/blog/2012/03/02/loudervoice-reviews-plugin-for-wordpress-now-available/</link>
       <pubDate>Fri, 02 Mar 2012 16:29:16 +0000</pubDate>
       
-      <guid>https://www.loudervoice.com/blog/2012/03/02/loudervoice-reviews-plugin-for-wordpress-now-available/</guid>
+      <guid>https://loudervoice.com/blog/2012/03/02/loudervoice-reviews-plugin-for-wordpress-now-available/</guid>
       <description>More and more sites are moving to WordPress as their platform. We have long been WP users and all of our sites are built on it.
 The LouderVoice reviews system has always supported WordPress sites but we recently decided to make it even easier to deploy on them.
  The new LouderVoice Reviews plug-in is now available and included in the price of all of our Packages. With a few quick clicks, you can install the plug-in and configure reviews for one or more pages on any WP site.</description>
@@ -25,20 +25,20 @@ The LouderVoice reviews system has always supported WordPress sites but we recen
     
     <item>
       <title>New version of LouderVoice WordPress Plug-in</title>
-      <link>https://www.loudervoice.com/blog/2008/06/04/new-version-of-loudervoice-wordpress-plug-in/</link>
+      <link>https://loudervoice.com/blog/2008/06/04/new-version-of-loudervoice-wordpress-plug-in/</link>
       <pubDate>Wed, 04 Jun 2008 07:42:17 +0000</pubDate>
       
-      <guid>https://www.loudervoice.com/blog/2008/06/04/new-version-of-loudervoice-wordpress-plug-in/</guid>
+      <guid>https://loudervoice.com/blog/2008/06/04/new-version-of-loudervoice-wordpress-plug-in/</guid>
       <description>Many thanks to Loud Reviewer Frank Prendergast for spotting a bug in our WordPress plug-in. This bug prevented users from setting review posts to publish in the future. The bug has now been fixed and the updated plug-in is available here.
 You&amp;#8217;ve probably noticed how quiet we&amp;#8217;ve been on the blog. Not only have we been fixing a lot of small bugs on the site that crept in with the Version2 launch but we&amp;#8217;re been working hard on building our API.</description>
     </item>
     
     <item>
       <title>LouderVoice WordPress Plug-in Version 2</title>
-      <link>https://www.loudervoice.com/blog/2008/03/30/loudervoice-wordpress-plug-in-version-2/</link>
+      <link>https://loudervoice.com/blog/2008/03/30/loudervoice-wordpress-plug-in-version-2/</link>
       <pubDate>Sun, 30 Mar 2008 13:26:36 +0000</pubDate>
       
-      <guid>https://www.loudervoice.com/blog/2008/03/30/loudervoice-wordpress-plug-in-version-2/</guid>
+      <guid>https://loudervoice.com/blog/2008/03/30/loudervoice-wordpress-plug-in-version-2/</guid>
       <description>We&amp;#8217;ve been promising it forever and now we&amp;#8217;re finally ready to unveil the all-new LouderVoice WordPress plug-in V2.0. This enables you to write reviews on your blog using an open standard called hReview. Sites like LouderVoice can then index and interpret them more intelligently than raw blog-posts.
 The new plug-in is a total re-write based on lots of user feedback and, in particular, some fantastic suggestions and guidance from Robin Blandford.</description>
     </item>

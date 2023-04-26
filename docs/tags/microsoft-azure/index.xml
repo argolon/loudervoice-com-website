@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microsoft Azure on LouderVoice Customer Reviews</title>
-    <link>https://www.loudervoice.com/tags/microsoft-azure/</link>
+    <link>https://loudervoice.com/tags/microsoft-azure/</link>
     <description>Recent content in Microsoft Azure on LouderVoice Customer Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2006 - 2023, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Thu, 10 May 2012 18:01:27 +0000</lastBuildDate>
     
-	<atom:link href="https://www.loudervoice.com/tags/microsoft-azure/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://loudervoice.com/tags/microsoft-azure/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LouderVoice Reviews SEO Add-On for ASP.NET just released</title>
-      <link>https://www.loudervoice.com/blog/2012/05/10/loudervoice-reviews-seo-add-on-for-asp-net-just-released/</link>
+      <link>https://loudervoice.com/blog/2012/05/10/loudervoice-reviews-seo-add-on-for-asp-net-just-released/</link>
       <pubDate>Thu, 10 May 2012 18:01:27 +0000</pubDate>
       
-      <guid>https://www.loudervoice.com/blog/2012/05/10/loudervoice-reviews-seo-add-on-for-asp-net-just-released/</guid>
+      <guid>https://loudervoice.com/blog/2012/05/10/loudervoice-reviews-seo-add-on-for-asp-net-just-released/</guid>
       <description>One of the most common requests we get from partners and customers is to have the same reviews SEO functionality on ASP.NET as they do for PHP and WordPress sites. And we&amp;#8217;re delighted to say that this is now available.
 All of our Packages provide Google Juice and Star Ratings in Search results to client sites via our review Hub, LouderYou. The advantage of this approach is ease of deployment. Our code can be added in seconds to a web-page and reviews are then live.</description>
     </item>

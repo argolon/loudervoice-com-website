@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wine Reviews on LouderVoice Customer Reviews</title>
-    <link>https://www.loudervoice.com/tags/wine-reviews/</link>
+    <link>https://loudervoice.com/tags/wine-reviews/</link>
     <description>Recent content in Wine Reviews on LouderVoice Customer Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2006 - 2023, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Tue, 28 Apr 2009 18:05:10 +0000</lastBuildDate>
     
-	<atom:link href="https://www.loudervoice.com/tags/wine-reviews/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://loudervoice.com/tags/wine-reviews/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bubble Brothers goes live with the new LouderVoice Reviews Widget</title>
-      <link>https://www.loudervoice.com/blog/2009/04/28/bubble-brothers-goes-live-with-the-new-loudervoice-reviews-widget/</link>
+      <link>https://loudervoice.com/blog/2009/04/28/bubble-brothers-goes-live-with-the-new-loudervoice-reviews-widget/</link>
       <pubDate>Tue, 28 Apr 2009 18:05:10 +0000</pubDate>
       
-      <guid>https://www.loudervoice.com/blog/2009/04/28/bubble-brothers-goes-live-with-the-new-loudervoice-reviews-widget/</guid>
+      <guid>https://loudervoice.com/blog/2009/04/28/bubble-brothers-goes-live-with-the-new-loudervoice-reviews-widget/</guid>
       <description>We&amp;#8217;re pleased as punch to announce that our brand new customer reviews widget has just gone live on the Bubble Brothers wine site. Julian, their Wine 2.0 guru, has always been at the forefront of social media adoption and the addition of our widget complements all of their other online activities beautifully.
 
 The key thing about the widget is the ease of implementation. One line of code was added to the Bubble Brothers product page template (they use Ecommerce Templates for their site), a few minor logo tweaks later and they were up and running.</description>

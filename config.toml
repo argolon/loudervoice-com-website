@@ -1,4 +1,4 @@
-baseurl = "https://www.loudervoice.com/"
+baseurl = "https://loudervoice.com/"
 title = "LouderVoice Customer Reviews"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
