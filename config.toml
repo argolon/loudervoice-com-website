@@ -2,6 +2,8 @@ baseurl = "https://www.loudervoice.com/"
 title = "LouderVoice Customer Reviews"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
+publishdir = "docs"
+
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
