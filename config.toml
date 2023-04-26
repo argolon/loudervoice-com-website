@@ -72,7 +72,7 @@ paginate = 10
     style = "blue"
 
     about_us = '<p><a href="/terms-and-conditions">Terms and Conditions</a></p><p><a href="/privacy-policy">Privacy Policy</a></p><p><a href="/credits">Credits</a></p>'
-    copyright = "Copyright (c) 2006 - 2020, Argolon Solutions Ltd; all rights reserved. "
+    copyright = "Copyright (c) 2006 - 2023, Argolon Solutions Ltd; all rights reserved. "
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -109,19 +109,19 @@ paginate = 10
     enable = true
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
 
 [params.features]
     enable = true
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
 
 [params.testimonials]
     enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
     title = "Testimonials"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
@@ -137,7 +137,7 @@ paginate = 10
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
     title = "Some of Our Clients"
     subtitle = ""
 
