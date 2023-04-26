@@ -26,7 +26,7 @@ More and more sites are moving to [WordPress][1] as their platform. We have long
 The LouderVoice reviews system has always supported WordPress sites but we recently decided to make it even easier to deploy on them.
 
 <p style="text-align: center;">
-  <a href="http://www.loudervoicereviews.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/blue-l.png"><img class="size-full wp-image-2676 aligncenter" title="blue-l" src="http://www.loudervoicereviews.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/blue-l.png" alt="" width="150" height="150" /></a>
+  <a href="http://www.loudervoice.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/blue-l.png"><img class="size-full wp-image-2676 aligncenter" title="blue-l" src="http://www.loudervoice.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/blue-l.png" alt="" width="150" height="150" /></a>
 </p>
 
 The new LouderVoice Reviews plug-in is now available and included in the price of all of our Packages. With a few quick clicks, you can install the plug-in and configure reviews for one or more pages on any WP site.
@@ -38,7 +38,7 @@ You need no technical experience to install and setup the plugin.
 Here is how you add reviews to any page on the site.
 
 <p style="text-align: center;">
-  <a href="http://www.loudervoicereviews.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/page.png"><img class="wp-image-2639 aligncenter" style="border-image: initial; border-width: 1px; border-color: black; border-style: solid;" title="page" src="http://www.loudervoicereviews.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/page.png" alt="" width="565" height="260" /></a>
+  <a href="http://www.loudervoice.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/page.png"><img class="wp-image-2639 aligncenter" style="border-image: initial; border-width: 1px; border-color: black; border-style: solid;" title="page" src="http://www.loudervoice.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/page.png" alt="" width="565" height="260" /></a>
 </p>
 
 In addition to being simple to install, it provides a major SEO benefit by making the reviews directly indexable by Google so that they can appear as star ratings in Search results.

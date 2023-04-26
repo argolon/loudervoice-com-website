@@ -35,7 +35,7 @@ It means that ASP.NET sites can also have results like this in Google Search:
 
 &nbsp;
 
-[<img class="alignnone  wp-image-2722" title="astutehr" src="http://www.loudervoicereviews.com/wp-content/uploads/2012/05/02/loudervoice-reviews-seo-add-on-for-asp-net-just-released/astutehr1.png" alt="" width="554" height="269" />][2]
+[<img class="alignnone  wp-image-2722" title="astutehr" src="http://www.loudervoice.com/wp-content/uploads/2012/05/02/loudervoice-reviews-seo-add-on-for-asp-net-just-released/astutehr1.png" alt="" width="554" height="269" />][2]
 
 <p style="text-align: center;">
   <p>
@@ -47,4 +47,4 @@ It means that ASP.NET sites can also have results like this in Google Search:
   </p>
 
  [1]: http://www.louderyou.com/
- [2]: http://www.loudervoicereviews.com/wp-content/uploads/2012/05/02/loudervoice-reviews-seo-add-on-for-asp-net-just-released/astutehr1.png
+ [2]: http://www.loudervoice.com/wp-content/uploads/2012/05/02/loudervoice-reviews-seo-add-on-for-asp-net-just-released/astutehr1.png
