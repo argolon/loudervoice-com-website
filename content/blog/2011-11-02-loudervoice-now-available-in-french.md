@@ -18,7 +18,7 @@ tags:
 Due to ongoing strong demand both in France and Canada, LouderVoice is now available fully localised to French.
 
 <p style="text-align: center;">
-  <a href="http://www.loudervoice.com/wp-content/uploads/2011/11/guysavoy.png"><img class="aligncenter size-full wp-image-2375" title="guysavoy" src="http://www.loudervoice.com/wp-content/uploads/2011/11/guysavoy.png" alt="" width="541" height="542" srcset="http://127.0.0.1.nip.io/wp-content/uploads/2011/11/guysavoy.png 676w, http://127.0.0.1.nip.io/wp-content/uploads/2011/11/guysavoy-150x150.png 150w, http://127.0.0.1.nip.io/wp-content/uploads/2011/11/guysavoy-300x300.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></a>
+  <a href="http://www.loudervoice.com/wp-content/uploads/2011/11/guysavoy.png"><img class="aligncenter size-full wp-image-2375" title="guysavoy" src="http://www.loudervoice.com/wp-content/uploads/2011/11/guysavoy.png" alt="" width="541" height="542" srcset="/wp-content/uploads/2011/11/guysavoy.png 676w, /wp-content/uploads/2011/11/guysavoy-150x150.png 150w, /wp-content/uploads/2011/11/guysavoy-300x300.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></a>
 </p>
 
 As with Spanish and Russian, this includes both the entire end-user experience and the review management back-end for businesses.

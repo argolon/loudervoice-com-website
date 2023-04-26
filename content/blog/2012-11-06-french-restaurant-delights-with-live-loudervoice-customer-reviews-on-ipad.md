@@ -28,7 +28,7 @@ We always strongly encourage our clients to request reviews using every channel 
 This is simply a superb idea by [l&#8217;Auberge des Trois Pucelles][1] near Grenoble and our partners [Thierry André FOUCHER][2] and [WSI Belledonne Digital Strategies][3]. They have an iPad at the cash-register with their reviews page pre-loaded in the browser. As customers wait to complete payment, staff members ask if they&#8217;d like to leave a review. A few moments later that review is live on their site and on their [Facebook Page too][4].
 
 <p style="text-align: center;">
-  <a href="http://www.auberge-des-trois-pucelles.fr/avis-clients/"><img class="aligncenter  wp-image-2866" title="auberge" src="http://www.loudervoice.com/wp-content/uploads/2012/11/auberge.png" alt="" width="538" height="375" srcset="http://127.0.0.1.nip.io/wp-content/uploads/2012/11/auberge.png 768w, http://127.0.0.1.nip.io/wp-content/uploads/2012/11/auberge-300x209.png 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
+  <a href="http://www.auberge-des-trois-pucelles.fr/avis-clients/"><img class="aligncenter  wp-image-2866" title="auberge" src="http://www.loudervoice.com/wp-content/uploads/2012/11/auberge.png" alt="" width="538" height="375" srcset="/wp-content/uploads/2012/11/auberge.png 768w, /wp-content/uploads/2012/11/auberge-300x209.png 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
 </p>
 
 This is a perfect example of a business that has a seamless view of online and face-to-face when it comes to customer service and marketing. Online for them is not an afterthought, it&#8217;s fully integrated into everything they do.

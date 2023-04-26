@@ -31,7 +31,7 @@ We were very interested to see an MSNBC article on how hotels are [embracing onl
 As part of this growth, we&#8217;re delighted to announce that we have have just gone live with [the Dalata Group&#8217;s][2] 11 Maldron and 14 partner hotels in Ireland.
 
 <p style="text-align: center;">
-  <a href="http://www.maldronhotelcardifflane.com/reviews.html"><img class="aligncenter  wp-image-2635" title="maldron" src="http://www.loudervoice.com/wp-content/uploads/2012/06/maldron.png" alt="" width="501" height="401" srcset="http://127.0.0.1.nip.io/wp-content/uploads/2012/06/maldron.png 783w, http://127.0.0.1.nip.io/wp-content/uploads/2012/06/maldron-300x239.png 300w" sizes="(max-width: 501px) 100vw, 501px" /></a>
+  <a href="http://www.maldronhotelcardifflane.com/reviews.html"><img class="aligncenter  wp-image-2635" title="maldron" src="http://www.loudervoice.com/wp-content/uploads/2012/06/maldron.png" alt="" width="501" height="401" srcset="/wp-content/uploads/2012/06/maldron.png 783w, /wp-content/uploads/2012/06/maldron-300x239.png 300w" sizes="(max-width: 501px) 100vw, 501px" /></a>
 </p>
 
 By providing extremely flexible solutions that have been battle-hardened over several years, hotels and others can benefit from the four pillars of the our platform: SEO, Social Reviews, Customer Feedback and Visitor Confidence. All of these are fully integrated on-site, not via some Third-Party site or clunky pop-up.
