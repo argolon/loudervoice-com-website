@@ -11,6 +11,9 @@ disqusShortname = "loudervoice"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-88888-5"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 # Define the number of posts per page
 paginate = 10
 
@@ -74,7 +77,7 @@ paginate = 10
     style = "blue"
 
     about_us = '<p><a href="/terms-and-conditions">Terms and Conditions</a></p><p><a href="/privacy-policy">Privacy Policy</a></p><p><a href="/credits">Credits</a></p>'
-    copyright = "Copyright (c) 2006 - 2023, Argolon Solutions Ltd; all rights reserved. "
+    copyright = "Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. "
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

@@ -6,7 +6,7 @@
     <description>Recent content on LouderVoice Customer Reviews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2023, Argolon Solutions Ltd; all rights reserved. </copyright>
+    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Tue, 24 Apr 2018 08:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://loudervoice.com/index.xml" rel="self" type="application/rss+xml" />
@@ -2254,7 +2254,7 @@ A higher volume of reviews, semi-custom implementations and mobile integrations 
       
       <guid>https://loudervoice.com/our-reviews/</guid>
       <description>Here are some reviews of LouderVoice itself from our customers. Of course it uses LouderVoice Social Commerce Reviews!
-  .lv-avg-stars { display: inline; }  Read Reviews (24) LouderVoice       (5.00/5) based on 24 reviews.    LouderVoice  by Pete Saunders on Jan 30 2013 14:56 Excellent solution for website reviews that was simple and painless to implement, largely due to Louder Voice&amp;#39;s fantastic customer support!</description>
+&amp;nbsp;var loudervoice = new LouderVoice(); loudervoice.reviews(&amp;ldquo;#lv_reviews&amp;rdquo;, {language: &amp;ldquo;en&amp;rdquo;, key: &amp;ldquo;c6bf0630-4b15-40d3-b348-3688267b7f6d&amp;rdquo;,SERVER: &amp;ldquo;https://api.loudervoice.com/&amp;quot;,itemurl: &amp;ldquo;https://loudervoice.com/our-reviews/&amp;quot;, limit: 10,item: &amp;ldquo;LouderVoice Reviews&amp;rdquo;, tags: &amp;ldquo;loudervoice, lv:group=business&amp;rdquo;, authMethods:{facebook: false, openid: false, gauth: false, twitter: false}, writerOnly: false,readerOnly: true,allowAnonymous: true,defaultAnonymousName: &amp;ldquo;LouderVoice Reviewer&amp;rdquo;, lv_receiver: &amp;ldquo;/lv_receiver_apiupg.htm&amp;rdquo;, tweetThis: true, facebookLike: true,facebook: {appid: &amp;lsquo;198941560307049&amp;rsquo;,key: &amp;lsquo;198941560307049&amp;rsquo;},css: [&amp;ldquo;https://cdn.loudervoice.com/static/customers/lv4biz/css/jquery-ui-1.7.1.custom.css&amp;quot;, &amp;ldquo;https://cdn.loudervoice.com/static/customers/lv4biz/css/widget.css&amp;quot; ],activeTab:1});LouderVoice and LouderYou</description>
     </item>
     
     <item>
