@@ -46,7 +46,7 @@ paginate = 10
 
 [params]
     text_color = ""
-    favicon = ""
+    favicon = "img/favicon.ico"
     site_logo = "img/LouderVoice_Logo_White_Text_2024_Site.png"
     viewMorePostLink = "/blog/"
     author = "LouderVoice"
