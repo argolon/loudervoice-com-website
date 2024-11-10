@@ -1,6 +1,7 @@
 baseurl = "https://loudervoice.com/"
 title = "LouderVoice Customer Reviews"
-theme = "hugo-universal-theme"
+#theme = "hugo-universal-theme"
+theme = "ananke"
 languageCode = "en-us"
 publishdir = "docs"
 
@@ -41,33 +42,12 @@ paginate = 10
     url  = "/our-reviews/"
     weight = 4
 
-[[menu.main]]
-    name = "Client Login"
-    url  = "http://client.loudervoice.com/"
-    weight = 5
-
 # Top bar social links menu
 
-[[menu.topbar]]
-    weight = 1
-    name = "Facebook"
-    url = "http://facebook.com/LouderVoice"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 2
-    name = "Twitter"
-    url = "http://twitter.com/loudervoice"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Email"
-    url = "mailto:sales@loudervoice.com"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
-
-
 [params]
+    text_color = ""
+    favicon = ""
+    site_logo = "img/LouderVoice_Logo_White_Text_2024_Site.png"
     viewMorePostLink = "/blog/"
     author = "LouderVoice"
     defaultKeywords = ["loudervoice", "reviews", "feedback"]

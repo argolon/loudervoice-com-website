@@ -1,28 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifestreaming on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/lifestreaming/</link>
     <description>Recent content in Lifestreaming on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Sun, 15 Jun 2008 12:56:02 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/lifestreaming/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/lifestreaming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LouderVoice now supported on Profilactic</title>
       <link>https://loudervoice.com/blog/2008/06/15/loudervoice-now-supported-on-profilactic/</link>
       <pubDate>Sun, 15 Jun 2008 12:56:02 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2008/06/15/loudervoice-now-supported-on-profilactic/</guid>
-      <description>Profilactic has been doing Lifestreaming longer than most.
-
-It&amp;#8217;s a site where you pull in your profiles from all your social sites like Twitter/Jaiku/Pownce/Bebo/MySpace etc so that your aggregated activity online is visible from one place. It currently supports 186 different social sites and we&amp;#8217;re thrilled that they have just added LouderVoice.
-Once you&amp;#8217;ve signed up for an account, you just have to provide your LouderVoice username for them to pull in the titles of your reviews into your Profilactic lifestream.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.profilactic.com/&#34;&gt;Profilactic&lt;/a&gt; has been doing Lifestreaming longer than most.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://loudervoice.com/wp-content/uploads/2008/06/profilactic.jpg&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-119&#34; title=&#34;profilactic&#34; src=&#34;https://loudervoice.com/wp-content/uploads/2008/06/profilactic.jpg&#34; alt=&#34;&#34; width=&#34;179&#34; height=&#34;43&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;It’s a site where you pull in your profiles from all your social sites like Twitter/Jaiku/Pownce/Bebo/MySpace etc so that your aggregated activity online is visible from one place. It currently supports 186 different social sites and we’re thrilled that they have just added LouderVoice.&lt;/p&gt;&#xA;&lt;p&gt;Once you’ve signed up for an account, you just have to provide your LouderVoice username for them to pull in the titles of your reviews into your Profilactic lifestream.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

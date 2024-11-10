@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Site on LouderVoice Customer Reviews</title>
+    <link>http://localhost:1313/tags/multi-site/</link>
+    <description>Recent content in Multi-Site on LouderVoice Customer Reviews</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Mar 2012 16:29:16 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/multi-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LouderVoice Reviews Plugin for WordPress now available</title>
+      <link>http://localhost:1313/blog/2012/03/02/loudervoice-reviews-plugin-for-wordpress-now-available/</link>
+      <pubDate>Fri, 02 Mar 2012 16:29:16 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2012/03/02/loudervoice-reviews-plugin-for-wordpress-now-available/</guid>
+      <description>&lt;p&gt;More and more sites are moving to &lt;a href=&#34;http://wordpress.org&#34;&gt;WordPress&lt;/a&gt; as their platform. We have long been WP users and all of our sites are built on it.&lt;/p&gt;&#xA;&lt;p&gt;The LouderVoice reviews system has always supported WordPress sites but we recently decided to make it even easier to deploy on them.&lt;/p&gt;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;&#xA;  &lt;a href=&#34;https://loudervoice.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/blue-l.png&#34;&gt;&lt;img class=&#34;size-full wp-image-2676 aligncenter&#34; title=&#34;blue-l&#34; src=&#34;https://loudervoice.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/blue-l.png&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The new LouderVoice Reviews plug-in is now available and included in the price of all of our Packages. With a few quick clicks, you can install the plug-in and configure reviews for one or more pages on any WP site.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fan Page on LouderVoice Customer Reviews</title>
+    <link>http://localhost:1313/tags/fan-page/</link>
+    <description>Recent content in Fan Page on LouderVoice Customer Reviews</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Aug 2010 09:01:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fan-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LouderVoice Reviews on Facebook Pages</title>
+      <link>http://localhost:1313/blog/2010/08/27/loudervoice-reviews-on-facebook-pages/</link>
+      <pubDate>Fri, 27 Aug 2010 09:01:11 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2010/08/27/loudervoice-reviews-on-facebook-pages/</guid>
+      <description>&lt;p&gt;We have just added a new Facebook capability for all of our customers. They can now show all their latest reviews in a dedicated “Our Reviews” tab on &lt;a href=&#34;http://www.facebook.com/LouderVoice?v=app_140294209327173&amp;amp;ref=ts#!/LouderVoice?v=wall&amp;amp;ref=ts&#34;&gt;their Facebook Page&lt;/a&gt;. Whilst our Facebook Connect implementation has always given reviewers the ability to post their reviews to their personal wall, this new feature enables our clients to showcase their reviews from all their products and services in one place.&lt;/p&gt;&#xA;&lt;p&gt;Now a simple review written on a client’s site or submitted by SMS can appear on their Facebook Page within minutes, building confidence and guiding others who want to know more about that business. Fundamentally it’s about selling by word of mouth.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

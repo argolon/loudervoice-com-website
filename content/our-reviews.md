@@ -4,7 +4,7 @@ description = "A selection of reviews from our customers"
 keywords = ["reviews","customer reviews","our reviews","feedback"]
 +++
 
-Here are some reviews of LouderVoice itself from our customers. Of course it uses LouderVoice Social Commerce Reviews!
+Here are some reviews of LouderVoice itself from our customers over the years.
 
 
 

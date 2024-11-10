@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wine Blogging Wednesday on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/wine-blogging-wednesday/</link>
     <description>Recent content in Wine Blogging Wednesday on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Wed, 13 Feb 2008 11:48:15 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/wine-blogging-wednesday/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/wine-blogging-wednesday/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Today is Wine Blogging Wednesday</title>
       <link>https://loudervoice.com/blog/2008/02/13/today-is-wine-blogging-wednesday/</link>
       <pubDate>Wed, 13 Feb 2008 11:48:15 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2008/02/13/today-is-wine-blogging-wednesday/</guid>
-      <description>We hope you have your bottle of Italian Red ready. The challenge is to write a review of it in just seven words! All the details on how to send your review to LouderVoice are here. Leave a comment if you have any questions.</description>
+      <description>&lt;p&gt;We hope you have your bottle of Italian Red ready. The challenge is to write a review of it in just seven words! All the details on how to send your review to LouderVoice &lt;a href=&#34;http://business.loudervoice.com/2008/01/24/can-you-review-a-wine-in-7-words/&#34;&gt;are here&lt;/a&gt;. Leave a comment if you have any questions.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

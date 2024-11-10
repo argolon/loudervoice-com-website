@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hotel on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/hotel/</link>
     <description>Recent content in Hotel on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Wed, 25 Nov 2009 13:17:52 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/hotel/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/hotel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hotel Website Marketing Event</title>
       <link>https://loudervoice.com/blog/2009/11/25/hotel-website-marketing-event/</link>
       <pubDate>Wed, 25 Nov 2009 13:17:52 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2009/11/25/hotel-website-marketing-event/</guid>
-      <description>Yesterday I attended the excellent Hotel Website Marketing event in Dublin organised by Proactiv Marketing. It was a real highlight of 2009 for me with fantastic speaker after fantastic speaker. I walked away with a ton of to-dos for LouderVoice.
-I spoke on the benefit of on-site customer reviews for hotels. The core message was that you can grow on-site sales, reduce online ad spend and improve your customer service by adding reviews to your site.</description>
+      <description>&lt;p&gt;Yesterday I attended the excellent &lt;a href=&#34;http://www.hotelwebsitemarketing.com/&#34;&gt;Hotel Website Marketing&lt;/a&gt; event in Dublin organised by &lt;a href=&#34;http://www.proactivmarketing.ie/&#34;&gt;Proactiv Marketing&lt;/a&gt;. It was a real highlight of 2009 for me with fantastic speaker after fantastic speaker. I walked away with a ton of to-dos for LouderVoice.&lt;/p&gt;&#xA;&lt;p&gt;I spoke on the benefit of on-site customer reviews for hotels. The core message was that you can grow on-site sales, reduce online ad spend and improve your customer service by adding reviews to your site.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

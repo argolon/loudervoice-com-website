@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on LouderVoice Customer Reviews</title>
+    <link>http://localhost:1313/tags/wordpress/</link>
+    <description>Recent content in Wordpress on LouderVoice Customer Reviews</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Mar 2012 16:29:16 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LouderVoice Reviews Plugin for WordPress now available</title>
+      <link>http://localhost:1313/blog/2012/03/02/loudervoice-reviews-plugin-for-wordpress-now-available/</link>
+      <pubDate>Fri, 02 Mar 2012 16:29:16 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2012/03/02/loudervoice-reviews-plugin-for-wordpress-now-available/</guid>
+      <description>&lt;p&gt;More and more sites are moving to &lt;a href=&#34;http://wordpress.org&#34;&gt;WordPress&lt;/a&gt; as their platform. We have long been WP users and all of our sites are built on it.&lt;/p&gt;&#xA;&lt;p&gt;The LouderVoice reviews system has always supported WordPress sites but we recently decided to make it even easier to deploy on them.&lt;/p&gt;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;&#xA;  &lt;a href=&#34;https://loudervoice.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/blue-l.png&#34;&gt;&lt;img class=&#34;size-full wp-image-2676 aligncenter&#34; title=&#34;blue-l&#34; src=&#34;https://loudervoice.com/wp-content/uploads/2012/02/02/loudervoice-reviews-plugin-for-wordpress-now-available/blue-l.png&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;150&#34; /&gt;&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The new LouderVoice Reviews plug-in is now available and included in the price of all of our Packages. With a few quick clicks, you can install the plug-in and configure reviews for one or more pages on any WP site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Updated LouderVoice WordPress Plugin</title>
+      <link>http://localhost:1313/blog/2009/02/01/updated-loudervoice-wordpress-plugin/</link>
+      <pubDate>Sun, 01 Feb 2009 15:15:46 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2009/02/01/updated-loudervoice-wordpress-plugin/</guid>
+      <description>&lt;p&gt;We have two bits of news about our LouderVoice plug-in. The first is that it is now WordPress 2.7 compatible and the second is that we have moved the hosting over to &lt;a href=&#34;http://wordpress.org/extend/plugins/loudervoice/&#34;&gt;WordPress.org&lt;/a&gt;. This means that from now on, when we update it, you’ll see a notification in your WordPress Admin Panel.&lt;/p&gt;&#xA;&lt;p&gt;Apart from the 2.7 compatibility change, the only other major feature is that you can opt to have all the contextual information about the review, including the stars, at the end of the text. Full instructions in the readme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New version of LouderVoice WordPress Plug-in</title>
+      <link>http://localhost:1313/blog/2008/06/04/new-version-of-loudervoice-wordpress-plug-in/</link>
+      <pubDate>Wed, 04 Jun 2008 07:42:17 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2008/06/04/new-version-of-loudervoice-wordpress-plug-in/</guid>
+      <description>&lt;p&gt;Many thanks to Loud Reviewer &lt;a href=&#34;https://loudervoice.com/people/frankp/&#34;&gt;Frank Prendergast&lt;/a&gt; for spotting a bug in our WordPress plug-in. This bug prevented users from setting review posts to publish in the future. The bug has now been fixed and the updated plug-in is &lt;a href=&#34;https://loudervoice.com/wordpress_plugin&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You’ve probably noticed how quiet we’ve been on the blog. Not only have we been fixing a lot of small bugs on the site that crept in with the Version2 launch but we’re been working hard on building our API. This will enable other sites to embed our reviewing functionality on their pages. We’ll be going live very shortly with the first partner on this. This XML API is accessible directly, using a PHP library or using a JS library (with more coming soon).Ã‚Â  If this is something you’d like to hear more about, please contact conor AT loudervoice DOT com. We’re putting together some information pages on it at the moment too.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LouderVoice WordPress Plug-in Version 2</title>
+      <link>http://localhost:1313/blog/2008/03/30/loudervoice-wordpress-plug-in-version-2/</link>
+      <pubDate>Sun, 30 Mar 2008 13:26:36 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2008/03/30/loudervoice-wordpress-plug-in-version-2/</guid>
+      <description>&lt;p&gt;We’ve been promising it forever and now we’re finally ready to unveil the all-new LouderVoice WordPress plug-in V2.0. This enables you to write reviews on your blog using an open standard called hReview. Sites like LouderVoice can then index and interpret them more intelligently than raw blog-posts.&lt;/p&gt;&#xA;&lt;p&gt;The new plug-in is a total re-write based on lots of user feedback and, in particular, some fantastic suggestions and guidance from &lt;a href=&#34;http://www.bytesurgery.com/blog/&#34;&gt;Robin Blandford&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,38 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Twitter on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/twitter/</link>
     <description>Recent content in Twitter on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Wed, 24 Jun 2009 18:43:16 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ultra Simple Mini-Reviews on Twitter</title>
       <link>https://loudervoice.com/blog/2009/06/24/ultra-simple-mini-reviews-on-twitter/</link>
       <pubDate>Wed, 24 Jun 2009 18:43:16 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2009/06/24/ultra-simple-mini-reviews-on-twitter/</guid>
-      <description>LouderVoice was the first reviews company to realise the importance of Twitter. That&amp;#8217;s why we&amp;#8217;re the people behind @review which we launched in June 2007.
-Since then we&amp;#8217;ve played and tweaked mini-reviews based on user feedback.
-Following more research we realised that many people were doing mini-reviews using the simple method of just adding #review on to the end of the tweet. This was also the preferred approach in our recent poll.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://loudervoice.com/&#34;&gt;LouderVoice&lt;/a&gt; was the first reviews company to realise the importance of &lt;a href=&#34;http://twitter.com/loudervoice&#34;&gt;Twitter&lt;/a&gt;. That’s why we’re the people behind &lt;a href=&#34;http://twitter.com/review&#34;&gt;@review&lt;/a&gt; which we launched in June 2007.&lt;/p&gt;&#xA;&lt;p&gt;Since then we’ve played and tweaked mini-reviews based on user feedback.&lt;/p&gt;&#xA;&lt;p&gt;Following more research we realised that many people were doing mini-reviews using the simple method of just adding #review on to the end of the tweet. This was also the preferred approach in our recent poll.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Your Opinion on Free-Form Twitter Reviews</title>
       <link>https://loudervoice.com/blog/2009/01/24/your-opinion-on-free-form-twitter-reviews/</link>
       <pubDate>Sat, 24 Jan 2009 14:07:35 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2009/01/24/your-opinion-on-free-form-twitter-reviews/</guid>
-      <description>As you probably know, LouderVoice was the first company to identify Twitter as an important source of reviews. We launched LouderTweets structured reviews all the way back in June 2007. We are also the people behind the @review user.
-Whilst many people have used the structured reviews since then, many others have found the structure difficult to remember or just plain awkward.
-We turned on free-form reviews on SMS last year and most people are much happier with that.</description>
+      <description>&lt;p&gt;As you probably know, LouderVoice was the first company to identify Twitter as an important source of reviews. We launched LouderTweets structured reviews all the way back in June 2007. We are also the people behind the @review user.&lt;/p&gt;&#xA;&lt;p&gt;Whilst many people have used the structured reviews since then, many others have found the structure difficult to remember or just plain awkward.&lt;/p&gt;&#xA;&lt;p&gt;We turned on free-form reviews on SMS last year and most people are much happier with that. They simply send an SMS to us beginning with “RE” (or one of our partners’ keywords) and the remainder of the review is in whatever style they like.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

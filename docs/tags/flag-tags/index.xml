@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flag Tags on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/flag-tags/</link>
     <description>Recent content in Flag Tags on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Tue, 29 Jan 2008 01:44:19 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/flag-tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/flag-tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Blog Reviews with Flag Tags</title>
       <link>https://loudervoice.com/blog/2008/01/29/easy-blog-reviews-with-flag-tags/</link>
       <pubDate>Tue, 29 Jan 2008 01:44:19 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2008/01/29/easy-blog-reviews-with-flag-tags/</guid>
-      <description>The approach we have taken with reviews on blogs until now has been built around a standard called hreview. Many bloggers are a fan of this portable format and we continue to support it strongly. But we have received many requests for something more lightweight which still enables people to get their reviews into LouderVoice but takes much less effort.
-After trying a variety of approaches we have settled on something we are calling Flag Tags (thanks to Frank Prendergast for coining this).</description>
+      <description>&lt;p&gt;The approach we have taken with reviews on blogs until now has been built around a standard called hreview. Many bloggers are a fan of this portable format and we continue to support it strongly. But we have received many requests for something more lightweight which still enables people to get their reviews into &lt;a href=&#34;https://loudervoice.com/&#34;&gt;LouderVoice&lt;/a&gt; but takes much less effort.&lt;/p&gt;&#xA;&lt;p&gt;After trying a variety of approaches we have settled on something we are calling Flag Tags (thanks to &lt;a href=&#34;http://bifsniff.com/&#34;&gt;Frank Prendergast&lt;/a&gt; for coining this). The idea is simple. If you are writing a blog post that is a review, you need to ensure three very basic things:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

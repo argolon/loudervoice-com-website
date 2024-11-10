@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Review Engine on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/review-engine/</link>
     <description>Recent content in Review Engine on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Mon, 06 Oct 2008 22:11:44 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/review-engine/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/review-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LouderVoice for Business launched</title>
       <link>https://loudervoice.com/blog/2008/10/06/loudervoice-for-business-launched/</link>
       <pubDate>Mon, 06 Oct 2008 22:11:44 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2008/10/06/loudervoice-for-business-launched/</guid>
-      <description>Over the past few months we have been trialling our business services with several clients. Some of those are already live, others will go live over the next quarter. We now have a very nice brochure site to go with these services and a very powerful content moderation back-end for our clients.
-The LouderVoice for Business site gives the high level overview of our services which are currently in three areas:</description>
+      <description>&lt;p&gt;Over the past few months we have been trialling our business services with several clients. Some of those are already live, others will go live over the next quarter. We now have &lt;a href=&#34;http://business.loudervoice.com/&#34;&gt;a very nice brochure site&lt;/a&gt; to go with these services and a very powerful content moderation back-end for our clients.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://business.loudervoice.com/&#34;&gt;LouderVoice for Business site&lt;/a&gt; gives the high level overview of our services which are currently in three areas:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;White-label review service based on a secure XML API&lt;/li&gt;&#xA;&lt;li&gt;SMS reviews and customer feedback&lt;/li&gt;&#xA;&lt;li&gt;Custom review widgets&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div&gt;&#xA;  These can be used by businesses of any size and we are currently talking to clients that range from one-person operations to some in the Fortune 500.Ã‚Â &#xA;&lt;/div&gt;&#xA;&lt;div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div&gt;&#xA;  Please check out the site and &lt;a href=&#34;http://business.loudervoice.com/contact&#34;&gt;contact us&lt;/a&gt; if you would like to find out more about getting review-enabled.Ã‚Â &#xA;&lt;/div&gt;&#xA;&lt;div&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>

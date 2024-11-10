@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Localisation on LouderVoice Customer Reviews</title>
+    <link>http://localhost:1313/tags/localisation/</link>
+    <description>Recent content in Localisation on LouderVoice Customer Reviews</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Aug 2011 14:44:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/localisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LouderVoice Now Available in Spanish and Russian</title>
+      <link>http://localhost:1313/blog/2011/08/07/loudervoice-now-available-in-spanish-and-russian/</link>
+      <pubDate>Sun, 07 Aug 2011 14:44:53 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2011/08/07/loudervoice-now-available-in-spanish-and-russian/</guid>
+      <description>&lt;p&gt;Our development team have been hard at work this summer building a ton of new features for LouderVoice. The first fruits of their labour is the full front-end and back-end localisation of the service. We’ve always been internationalised but now our clients and their customers can use every part of LouderVoice in their own native language.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://loudervoice.com/wp-content/uploads/2011/08/spanish2.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-2310&#34; title=&#34;spanish2&#34; src=&#34;https://loudervoice.com/wp-content/uploads/2011/08/spanish2.png&#34; alt=&#34;&#34; width=&#34;504&#34; height=&#34;542&#34; srcset=&#34;http://localhost:1313/wp-content/uploads/2011/08/spanish2.png 504w, http://localhost:1313/wp-content/uploads/2011/08/spanish2-278x300.png 278w&#34; sizes=&#34;(max-width: 504px) 100vw, 504px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The first two languages that are available right now are Spanish and Russian with French coming soon. If you have a requirement for any other language, &lt;a href=&#34;https://loudervoice.com/ask-us/&#34;&gt;just let us know&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

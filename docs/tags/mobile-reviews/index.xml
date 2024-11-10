@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile Reviews on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/mobile-reviews/</link>
     <description>Recent content in Mobile Reviews on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Sun, 14 Sep 2008 18:20:30 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/mobile-reviews/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/mobile-reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Announcing Simple SMS Reviews</title>
       <link>https://loudervoice.com/blog/2008/09/14/announcing-simple-sms-reviews/</link>
       <pubDate>Sun, 14 Sep 2008 18:20:30 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2008/09/14/announcing-simple-sms-reviews/</guid>
-      <description>We kicked off SMS reviewing last year using the same structured message format which we devised for Twitter and Jaiku. Whilst it suits a lot of our users, particularly those who want their reviews to appear instantly, many others felt that the structure was overly complex.
-Based on this user feedback, we are now launching Simple SMS Reviews. The idea here is that you send your review to the same number as before (+353-87-9409325 or +44-778-6205133), you begin your SMS with the keyword &amp;#8220;Re&amp;#8221; and then the remainder of the SMS is your review in whatever style you like.</description>
+      <description>&lt;p&gt;We kicked off SMS reviewing last year using the same structured message format which we devised for Twitter and Jaiku. Whilst it suits a lot of our users, particularly those who want their reviews to appear instantly, many others felt that the structure was overly complex.&lt;/p&gt;&#xA;&lt;p&gt;Based on this user feedback, we are now launching Simple SMS Reviews. The idea here is that you send your review to the same number as before (+353-87-9409325 or +44-778-6205133), you begin your SMS with the &lt;strong&gt;&lt;em&gt;&lt;span style=&#34;font-weight: normal;&#34;&gt;&lt;span style=&#34;font-style: normal;&#34;&gt;keyword &lt;/span&gt;&lt;/span&gt;“Re”&lt;/em&gt;&lt;/strong&gt; and then the remainder of the SMS is your review in whatever style you like.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

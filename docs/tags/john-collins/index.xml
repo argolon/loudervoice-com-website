@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Collins on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/john-collins/</link>
     <description>Recent content in John Collins on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Mon, 02 Feb 2009 10:46:01 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/john-collins/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/john-collins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LouderVoice In The Press</title>
       <link>https://loudervoice.com/blog/2009/02/02/loudervoice-in-the-press-2/</link>
       <pubDate>Mon, 02 Feb 2009 10:46:01 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2009/02/02/loudervoice-in-the-press-2/</guid>
-      <description>Nice piece by John Collins in The Irish Times Innovation magazine today about the iPhone App Store and Android. Quotes from Conor, Pat Phelan and Steve Troughton-Smith.
- &amp;#8220;An awful lot of developers had no route to market before the App Store came along,â€ says Conor Oâ€™Neill, software industry veteran and managing director of online review site LouderVoice. He cites the case of Steven Troughton-Smith, a 20-year-old Irish student who has sold thousands of copies of his iPhone applications.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.irishtimes.com/newspaper/innovation/2009/0202/1232923380300.html&#34;&gt;Nice piece by John Collins&lt;/a&gt; in The Irish Times Innovation magazine today about the iPhone App Store and Android. Quotes from Conor, &lt;a href=&#34;http://twitter.com/patphelan&#34;&gt;Pat Phelan&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/stroughtonsmith&#34;&gt;Steve Troughton-Smith&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“An awful lot of developers had no route to market before the App Store came along,â€ says Conor Oâ€™Neill, software industry veteran and managing director of online review site LouderVoice. He cites the case of Steven Troughton-Smith, a 20-year-old Irish student who has sold thousands of copies of his iPhone applications. In the first six days it was available, Speed, an application that shows how fast youâ€™re travelling, was downloaded 36,000 times. The application was free at that time, but now sells for â‚¬0.79.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

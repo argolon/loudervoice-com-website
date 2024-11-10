@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recommendations on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/recommendations/</link>
     <description>Recent content in Recommendations on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Wed, 08 Apr 2009 16:06:52 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/recommendations/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/recommendations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Internet shoppers rate recommendations and user reviews over price</title>
       <link>https://loudervoice.com/blog/2009/04/08/internet-shoppers-rate-personal-recommendations-and-user-reviews-over-price/</link>
       <pubDate>Wed, 08 Apr 2009 16:06:52 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2009/04/08/internet-shoppers-rate-personal-recommendations-and-user-reviews-over-price/</guid>
-      <description>The LouderVoice customer reviews service is getting a lot of attention from businesses who are looking for ways to retain customers and grow sales in these difficult times.
-So the latest research from Avail Intellingence comes as no surprise to us. InternetRetailing reports that the research shows over a third (36%) of respondents rated peer opinions such as recommendations, reviews and customer generated wish lists as the most useful aspect of an Internet-shopping site.</description>
+      <description>&lt;p&gt;The LouderVoice &lt;a href=&#34;http://business.loudervoice.com/&#34;&gt;customer reviews service&lt;/a&gt; is getting a lot of attention from businesses who are looking for ways to retain customers and grow sales in these difficult times.&lt;/p&gt;&#xA;&lt;p&gt;So the latest research from Avail Intellingence comes as no surprise to us. &lt;a href=&#34;http://www.internetretailing.net/news/customer-reviews-and-feedback-score-highest-with-online-shoppers&#34;&gt;InternetRetailing&lt;/a&gt; reports that the research shows over a third (36%) of respondents rated peer opinions such as recommendations, reviews and customer generated wish lists as the most useful aspect of an Internet-shopping site.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

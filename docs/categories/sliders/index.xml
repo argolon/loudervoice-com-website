@@ -1,46 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sliders on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/categories/sliders/</link>
     <description>Recent content in Sliders on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Sun, 13 Feb 2011 15:45:06 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/categories/sliders/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/categories/sliders/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Start The Conversation</title>
       <link>https://loudervoice.com/blog/2011/02/13/start-the-conversation-2/</link>
       <pubDate>Sun, 13 Feb 2011 15:45:06 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2011/02/13/start-the-conversation-2/</guid>
-      <description>Enable your customers to write reviews of all your products and services on your site with LouderVoice.
-  </description>
+      <description>&lt;p&gt;Enable your customers to write reviews of all your products and services on &lt;span style=&#34;text-decoration: underline;&#34;&gt;your&lt;/span&gt; site with LouderVoice.&lt;/p&gt;&#xA;&lt;!--start_raw--&gt;&#xA;&lt;!--end_raw--&gt;</description>
     </item>
-    
     <item>
       <title>Make The Conversation Social</title>
       <link>https://loudervoice.com/blog/2011/02/13/make-the-conversation-social-2/</link>
       <pubDate>Sun, 13 Feb 2011 15:40:17 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2011/02/13/make-the-conversation-social-2/</guid>
-      <description>Your customers love talking about you. Use LouderVoice to connect those conversations to Facebook and Twitter.Your customers love talking about you. Use LouderVoice to connect those conversations to Facebook and Twitter.
-  </description>
+      <description>&lt;p&gt;Your customers love talking about you. Use LouderVoice to connect those conversations to Facebook and Twitter.&lt;a href=&#34;https://loudervoice.com/wp-content/uploads/2011/03/weddingdates-slider-01.png&#34;&gt;Your customers love talking about you. Use LouderVoice to connect those conversations to Facebook and Twitter.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!--start_raw--&gt;&#xA;&lt;!-- .addthis_container, .addthis_toolbox { display:none !important; } --&gt;&#xA;&lt;!--end_raw--&gt;</description>
     </item>
-    
     <item>
       <title>Grow Your Sales</title>
       <link>https://loudervoice.com/blog/2011/02/13/grow-your-sales-2/</link>
       <pubDate>Sun, 13 Feb 2011 15:38:34 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2011/02/13/grow-your-sales-2/</guid>
-      <description>Social Commerce Powered by Reviews means that your customers do the selling for you!
-  </description>
+      <description>&lt;p&gt;Social Commerce Powered by Reviews means that your customers do the selling for you!&lt;/p&gt;&#xA;&lt;!--start_raw--&gt;&#xA;&lt;!--end_raw--&gt;</description>
     </item>
-    
   </channel>
 </rss>

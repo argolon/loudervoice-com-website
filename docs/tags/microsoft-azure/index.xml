@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microsoft Azure on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/microsoft-azure/</link>
     <description>Recent content in Microsoft Azure on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Thu, 10 May 2012 18:01:27 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/microsoft-azure/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/microsoft-azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LouderVoice Reviews SEO Add-On for ASP.NET just released</title>
       <link>https://loudervoice.com/blog/2012/05/10/loudervoice-reviews-seo-add-on-for-asp-net-just-released/</link>
       <pubDate>Thu, 10 May 2012 18:01:27 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2012/05/10/loudervoice-reviews-seo-add-on-for-asp-net-just-released/</guid>
-      <description>One of the most common requests we get from partners and customers is to have the same reviews SEO functionality on ASP.NET as they do for PHP and WordPress sites. And we&amp;#8217;re delighted to say that this is now available.
-All of our Packages provide Google Juice and Star Ratings in Search results to client sites via our review Hub, LouderYou. The advantage of this approach is ease of deployment. Our code can be added in seconds to a web-page and reviews are then live.</description>
+      <description>&lt;p&gt;One of the most common requests we get from partners and customers is to have the same reviews SEO functionality on ASP.NET as they do for PHP and WordPress sites. And we’re delighted to say that this is now available.&lt;/p&gt;&#xA;&lt;p&gt;All of our Packages provide Google Juice and Star Ratings in Search results to client sites via our review Hub, &lt;a href=&#34;http://www.louderyou.com/&#34;&gt;LouderYou&lt;/a&gt;. The advantage of this approach is ease of deployment. Our code can be added in seconds to a web-page and reviews are then live. Those reviews are indexed on our hub within hours.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

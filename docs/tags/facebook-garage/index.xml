@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Facebook Garage on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/facebook-garage/</link>
     <description>Recent content in Facebook Garage on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Sat, 04 Jul 2009 08:57:19 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/facebook-garage/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/facebook-garage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LouderVoice at Facebook Garage Ireland 2</title>
       <link>https://loudervoice.com/blog/2009/07/04/loudervoice-at-facebook-garage-ireland-2/</link>
       <pubDate>Sat, 04 Jul 2009 08:57:19 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2009/07/04/loudervoice-at-facebook-garage-ireland-2/</guid>
-      <description>We had a fantastic time at the second Irish Facebook Garage in Dublin on Thursday. A packed room of approx 150 people with a wide range of backgrounds heard 5 speakers cover a variety of topics over the space of 2.5 hours.
-There will be full coverage including video and all the PPTs available over on Web2Ireland at some point next week. In the meantime, here are some screenshots of Conor&amp;#8217;s live demo of the LouderVoice reviews widget + Facebook Connect in action.</description>
+      <description>&lt;p&gt;We had a fantastic time at the second &lt;a href=&#34;http://www.web2ireland.org/2009/06/23/facebook-garage-ireland-2/&#34;&gt;Irish Facebook Garage&lt;/a&gt; in Dublin on Thursday. A packed room of approx 150 people with a wide range of backgrounds heard 5 speakers cover a variety of topics over the space of 2.5 hours.&lt;/p&gt;&#xA;&lt;p&gt;There will be full coverage including video and all the PPTs available over on &lt;a href=&#34;http://www.web2ireland.org/&#34;&gt;Web2Ireland&lt;/a&gt; at some point next week. In the meantime, here are some screenshots of Conor’s live demo of the LouderVoice reviews widget + Facebook Connect in action. This widget will be formally launched in the next week or so.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

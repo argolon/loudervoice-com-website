@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lv2 on LouderVoice Customer Reviews</title>
+    <link>http://localhost:1313/tags/lv2/</link>
+    <description>Recent content in Lv2 on LouderVoice Customer Reviews</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Mar 2008 08:57:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lv2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is LouderVoice V2 all about?</title>
+      <link>http://localhost:1313/blog/2008/03/30/what-is-loudervoice-v2-all-about/</link>
+      <pubDate>Sun, 30 Mar 2008 08:57:38 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2008/03/30/what-is-loudervoice-v2-all-about/</guid>
+      <description>&lt;p&gt;We quietly launched V2 of our &lt;a href=&#34;https://loudervoice.com/&#34;&gt;LouderVoice&lt;/a&gt; on the night before the Irish Blog Awards and have been tweaking for a few weeks. There is a lot more to come but we thought it’d be good to let you know what has changed now since we have a few more announcements coming in the next few days.&lt;/p&gt;&#xA;&lt;p&gt;The main aim with V2 was to make the activity on the site much more visible to the users and provide more opportunities to interact with others on the site. The most obvious change (apart from the very sexy re-design by &lt;a href=&#34;http://doepud.co.uk/&#34;&gt;Doepud&lt;/a&gt;) in that area is that all of the latest/best reviews are visible on every page you visit. We have also added the ability to follow other reviewers so that all of their activity is visible on your logged-in home page on the site.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

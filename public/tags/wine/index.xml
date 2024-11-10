@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wine on LouderVoice Customer Reviews</title>
+    <link>http://localhost:1313/tags/wine/</link>
+    <description>Recent content in Wine on LouderVoice Customer Reviews</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2009 18:05:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bubble Brothers goes live with the new LouderVoice Reviews Widget</title>
+      <link>http://localhost:1313/blog/2009/04/28/bubble-brothers-goes-live-with-the-new-loudervoice-reviews-widget/</link>
+      <pubDate>Tue, 28 Apr 2009 18:05:10 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2009/04/28/bubble-brothers-goes-live-with-the-new-loudervoice-reviews-widget/</guid>
+      <description>&lt;p&gt;We’re pleased as punch to announce that our brand new customer reviews widget has just gone live on the &lt;a href=&#34;http://www.bubblebrothers.com/proddetail.php?prod=HIGH01&#34;&gt;Bubble Brothers&lt;/a&gt; wine site. Julian, their &lt;a href=&#34;http://www.bubblebrothers.com/blog/&#34;&gt;Wine 2.0 guru&lt;/a&gt;, has always been at the forefront of social media adoption and the addition of our widget complements all of their other online activities beautifully.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.bubblebrothers.com/proddetail.php?prod=HIGH01&#34;&gt;&lt;img class=&#34;aligncenter size-medium wp-image-211&#34; title=&#34;highfield_bubblebrothers&#34; src=&#34;https://loudervoice.com/wp-content/uploads/2009/04/highfield_bubblebrothers-300x297.jpg&#34; alt=&#34;highfield_bubblebrothers&#34; width=&#34;300&#34; height=&#34;297&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The key thing about the widget is the ease of implementation. One line of code was added to the Bubble Brothers product page template (they use &lt;a href=&#34;http://www.ecommercetemplates.com/&#34;&gt;Ecommerce Templates&lt;/a&gt; for their site), a few minor logo tweaks later and they were up and running. No development on their side and just some quick colour/size adjustments by us. That’s all it takes to review-enable an entire site!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

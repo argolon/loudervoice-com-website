@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/technology/</link>
     <description>Recent content in Technology on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Mon, 07 Dec 2009 18:05:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LouderVoice at Le Web</title>
       <link>https://loudervoice.com/blog/2009/12/07/loudervoice-at-le-web/</link>
       <pubDate>Mon, 07 Dec 2009 18:05:00 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2009/12/07/loudervoice-at-le-web/</guid>
-      <description>Conor will be at Le Web in Paris from tomorrow afternoon until Friday morning. If you&amp;#8217;d like to meet up to discuss any aspect of the LouderVoice business then feel free to contact him via any of the following methods:
- Mobile: +353-87-9790297 Twitter: @conoro e-mail: conor AT loudervoice DOT com  Hope to see you there, it&amp;#8217;s building up to be the best Le Web ever!</description>
+      <description>&lt;p&gt;Conor will be at &lt;a href=&#34;http://www.leweb.net/&#34;&gt;Le Web&lt;/a&gt; in Paris from tomorrow afternoon until Friday morning. If you’d like to meet up to discuss any aspect of the LouderVoice business then feel free to contact him via any of the following methods:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mobile: +353-87-9790297&lt;/li&gt;&#xA;&lt;li&gt;Twitter: &lt;a href=&#34;http://twitter.com/conoro&#34;&gt;@conoro&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;e-mail: conor AT loudervoice DOT com&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hope to see you there, it’s building up to be the best Le Web ever!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Front on LouderVoice Customer Reviews</title>
+    <link>http://localhost:1313/categories/front/</link>
+    <description>Recent content in Front on LouderVoice Customer Reviews</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Oct 2009 01:43:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/front/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start The Conversation</title>
+      <link>http://localhost:1313/blog/2009/10/06/home-content-2/</link>
+      <pubDate>Tue, 06 Oct 2009 01:43:46 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2009/10/06/home-content-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Make The Conversation Social</title>
+      <link>http://localhost:1313/blog/2009/10/06/home-content-block-1/</link>
+      <pubDate>Tue, 06 Oct 2009 01:43:28 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2009/10/06/home-content-block-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Whose Sales are Growing with LouderVoice?</title>
+      <link>http://localhost:1313/blog/2009/10/05/try-louder-voice-today/</link>
+      <pubDate>Mon, 05 Oct 2009 05:43:48 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2009/10/05/try-louder-voice-today/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

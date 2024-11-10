@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wordpress 2.5 on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/wordpress-2.5/</link>
     <description>Recent content in Wordpress 2.5 on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Sun, 30 Mar 2008 13:26:36 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/wordpress-2.5/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/wordpress-2.5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LouderVoice WordPress Plug-in Version 2</title>
       <link>https://loudervoice.com/blog/2008/03/30/loudervoice-wordpress-plug-in-version-2/</link>
       <pubDate>Sun, 30 Mar 2008 13:26:36 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2008/03/30/loudervoice-wordpress-plug-in-version-2/</guid>
-      <description>We&amp;#8217;ve been promising it forever and now we&amp;#8217;re finally ready to unveil the all-new LouderVoice WordPress plug-in V2.0. This enables you to write reviews on your blog using an open standard called hReview. Sites like LouderVoice can then index and interpret them more intelligently than raw blog-posts.
-The new plug-in is a total re-write based on lots of user feedback and, in particular, some fantastic suggestions and guidance from Robin Blandford.</description>
+      <description>&lt;p&gt;We’ve been promising it forever and now we’re finally ready to unveil the all-new LouderVoice WordPress plug-in V2.0. This enables you to write reviews on your blog using an open standard called hReview. Sites like LouderVoice can then index and interpret them more intelligently than raw blog-posts.&lt;/p&gt;&#xA;&lt;p&gt;The new plug-in is a total re-write based on lots of user feedback and, in particular, some fantastic suggestions and guidance from &lt;a href=&#34;http://www.bytesurgery.com/blog/&#34;&gt;Robin Blandford&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

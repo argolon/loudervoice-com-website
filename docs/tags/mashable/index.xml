@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mashable on LouderVoice Customer Reviews</title>
     <link>https://loudervoice.com/tags/mashable/</link>
     <description>Recent content in Mashable on LouderVoice Customer Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2006 - 2024, Argolon Solutions Ltd; all rights reserved. </copyright>
     <lastBuildDate>Wed, 12 Nov 2008 23:41:36 +0000</lastBuildDate>
-    
-	<atom:link href="https://loudervoice.com/tags/mashable/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://loudervoice.com/tags/mashable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mashable Open Web Awards</title>
       <link>https://loudervoice.com/blog/2008/11/12/mashable-open-web-awards/</link>
       <pubDate>Wed, 12 Nov 2008 23:41:36 +0000</pubDate>
-      
       <guid>https://loudervoice.com/blog/2008/11/12/mashable-open-web-awards/</guid>
-      <description>If you like what we are doing on LouderVoice, why not vote for us in the Mashable Open Web Awards? You can do it below.
- Mashable Open Web Awards  Don&amp;#8217;t forget to vote for all your favourite Irish WebApps, many of which can be found over at Web2Ireland.org.</description>
+      <description>&lt;p&gt;If you like what we are doing on &lt;a href=&#34;https://loudervoice.com/&#34;&gt;LouderVoice&lt;/a&gt;, why not vote for us in the &lt;a href=&#34;http://mashable.com/openwebawards&#34;&gt;Mashable Open Web Awards&lt;/a&gt;? You can do it below.&lt;/p&gt;&#xA;&lt;noscript&gt;&#xA;  &lt;a href=&#34;http://mashable.com/2008/11/05/open-web-awards/&#34;&gt;Mashable Open Web Awards&lt;/a&gt;&#xA;&lt;/noscript&gt;&#xA;&lt;p&gt;Don’t forget to vote for all your favourite Irish WebApps, many of which can be found over at &lt;a href=&#34;http://www.web2ireland.org/&#34;&gt;Web2Ireland.org&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
